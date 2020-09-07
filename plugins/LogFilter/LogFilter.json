@@ -1,0 +1,10 @@
+{
+  "Name": "LogFilter",
+  "Description": "Turn off log filter.",
+  "InternalName": "LogFilter",
+  "AssemblyVersion": "1.0.0.0",
+  "RepoUrl": "https://github.com/PrototypeSeiren/LogFilter",
+  "ApplicableVersion": "any",
+  "Tags": [ "logfilter" ],
+  "DalamudApiLevel": 1
+}
