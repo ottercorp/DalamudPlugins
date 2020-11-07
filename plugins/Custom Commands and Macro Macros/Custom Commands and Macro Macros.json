@@ -1,8 +1,8 @@
 ﻿{
-  "Author": "kij",
+  "Author": "jkcclemens",
   "Name": "Custom Commands and Macro Macros",
-  "Description": "This plugin transforms coordinates from chat to XIV MapLink",
-  "InternalName": "ChatCoordinates",
+  "Description": "This command allows you to create custom commands (not yet implemented) and unrestricted macros.",
+  "InternalName": "Custom Commands and Macro Macros",
   "AssemblyVersion": "0.1.0",
   "ApplicableVersion": "any",
   "DalamudApiLevel": 1
