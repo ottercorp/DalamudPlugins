@@ -1,0 +1,9 @@
+﻿{
+  "Author": "kij",
+  "Name": "Custom Commands and Macro Macros",
+  "Description": "This plugin transforms coordinates from chat to XIV MapLink",
+  "InternalName": "ChatCoordinates",
+  "AssemblyVersion": "0.1.0",
+  "ApplicableVersion": "any",
+  "DalamudApiLevel": 1
+}
