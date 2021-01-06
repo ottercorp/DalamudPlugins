@@ -2,10 +2,9 @@
   "Author": "attick",
   "Name": "TitleEdit",
   "InternalName": "TitleEdit",
-  "AssemblyVersion": "2.0.1.0",
-  "Description": "Create, share, and shuffle custom title screens for FFXIV.",
+  "AssemblyVersion": "2.0.1.1",
+  "Description": "Create, share, and shuffle custom title screens for FFXIV. ",
   "ApplicableVersion": "any",
   "RepoUrl": "https://github.com/attickdoor/TitleEditPlugin",
-  "DalamudApiLevel": 2,
-  "LoadPriority": 10
+  "DalamudApiLevel": 2
 }
