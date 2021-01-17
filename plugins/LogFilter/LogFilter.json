@@ -1,11 +1,14 @@
 {
   "Author": "NR",
   "Name": "LogFilter",
-  "Description": "Turn off log filter.",
   "InternalName": "LogFilter",
-  "AssemblyVersion": "1.0.0.1",
-  "RepoUrl": "https://github.com/PrototypeSeiren/LogFilter",
+  "AssemblyVersion": "1.0.2.0",
+  "Description": "Turn off log filter.",
   "ApplicableVersion": "any",
-  "Tags": [ "logfilter" ],
-  "DalamudApiLevel": 1
+  "RepoUrl": "https://github.com/PrototypeSeiren/StarlightBreaker",
+  "Tags": [
+    "logfilter"
+  ],
+  "DalamudApiLevel": 1,
+  "LoadPriority": 0
 }
