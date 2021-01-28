@@ -1,11 +1,11 @@
-﻿{
+{
     "Author": "Haplo064",
     "Name": "Chat Bubbles",
     "InternalName": "ChatBubbles",
     "Description": "Enables in-game chat bubbles.",
     "Tags": [ "UI", "Roleplay", "RP", "Bubbles", "Chat"],
 	"RepoUrl": "https://github.com/Haplo064/ChatBubbles",
-    "AssemblyVersion": "1.1.1.0",
+    "AssemblyVersion": "1.2.1.1",
 	"ApplicableVersion": "any",
 	"DalamudApiLevel": 2
 }
