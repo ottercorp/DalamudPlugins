@@ -2,7 +2,7 @@
   "Author": "NR",
   "Name": "LogFilter",
   "InternalName": "LogFilter",
-  "AssemblyVersion": "1.0.2.0",
+  "AssemblyVersion": "1.0.5.0",
   "Description": "Turn off log filter.",
   "ApplicableVersion": "any",
   "RepoUrl": "https://github.com/PrototypeSeiren/StarlightBreaker",
