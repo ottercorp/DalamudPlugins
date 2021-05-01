@@ -5,7 +5,12 @@
   "AssemblyVersion": "1.3.7.1",
   "Description": "Configurable UI options for extra damage information. /dmginfo displays the config.",
   "ApplicableVersion": "any",
-  "Tags": ["damage", "flytext", "UI"],
   "RepoUrl": "https://github.com/lmcintyre/DamageInfoPlugin",
-  "DalamudApiLevel": 3
+  "Tags": [
+    "damage",
+    "flytext",
+    "UI"
+  ],
+  "DalamudApiLevel": 3,
+  "LoadPriority": 0
 }
