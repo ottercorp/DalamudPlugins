@@ -1,11 +1,11 @@
 {
+  "Author": "NR",
   "Name": "StarlightBreaker",
-  "Author": "-",
-  "Description": "Turn off profanity filter.",
-  "RepoUrl": "https://github.com/PrototypeSeiren/StarlightBreaker",
-  "Tags": [],
   "InternalName": "StarlightBreaker",
-  "AssemblyVersion": "1.0.0.0",
+  "AssemblyVersion": "1.2.0.0",
+  "Description": "Turn off profanity filter.",
   "ApplicableVersion": "any",
-  "DalamudApiLevel": 3
+  "RepoUrl": "https://github.com/PrototypeSeiren/StarlightBreaker",
+  "DalamudApiLevel": 3,
+  "LoadPriority": 0
 }
