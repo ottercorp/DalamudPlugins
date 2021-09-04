@@ -1,5 +1,31 @@
 [
     {
+        "Author": "Dragon",
+        "Name": "Visibility",
+        "Description": "\u5141\u8bb8\u60a8\u9690\u85cf\u73a9\u5bb6\u3001\u9646\u884c\u9e1f\u548c\u5ba0\u7269\u3002\n\u540c\u65f6\u5305\u62ec VoidList\uff0c\u4e00\u4e2a\u66f4\u597d\u7684\u9ed1\u540d\u5355\u3002\n\u53ef\u901a\u8fc7 /pvis \u8bbf\u95ee\n\u53ef\u901a\u8fc7 /xlhelp \u83b7\u5f97\u66f4\u591a\u4fe1\u606f",
+        "InternalName": "Visibility",
+        "AssemblyVersion": "1.1.0.0",
+        "RepoUrl": "https://github.com/SheepGoMeh/VisibilityPlugin",
+        "ApplicableVersion": "any",
+        "Tags": [
+            "Blacklist",
+            "Void",
+            "VoidList",
+            "Ban",
+            "Hide",
+            "Visibility",
+            "QoL"
+        ],
+        "DalamudApiLevel": 4,
+        "DownloadLinkInstall": "https://service-knj2phup-1253720819.sh.apigw.tencentcs.com/release/dalamudcounter-1623520723?plugin=Visibility&isUpdate=False&isTesting=False&branch=cn-api4",
+        "DownloadLinkUpdate": "https://service-knj2phup-1253720819.sh.apigw.tencentcs.com/release/dalamudcounter-1623520723?plugin=Visibility&isUpdate=True&isTesting=False&branch=cn-api4",
+        "DownloadLinkTesting": "https://service-knj2phup-1253720819.sh.apigw.tencentcs.com/release/dalamudcounter-1623520723?plugin=Visibility&isUpdate=False&isTesting=True&branch=cn-api4",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadCount": 424,
+        "LastUpdated": "1630721336"
+    },
+    {
         "Author": "MgAl2O4",
         "Name": "TriadBuddy",
         "Description": "Triple triad solver, NPC matches only.\n- highlights next move during mini game\n- evaluates all deck presets before match\n- deck optimizer for NPC\n- adds more details to card collection window",
@@ -26,6 +52,23 @@
         "IsHide": false,
         "IsTestingExclusive": false,
         "DownloadCount": 0,
-        "LastUpdated": "1630561861"
+        "LastUpdated": "1630721336"
+    },
+    {
+        "Author": "haplo, daemitus",
+        "Name": "JobIcons",
+        "Description": "\u540d\u5b57\u597d\u8822\uff0c\u7528\u804c\u4e1a\u56fe\u6807\u66ff\u6362\u540d\u724c\u3002",
+        "InternalName": "JobIcons",
+        "AssemblyVersion": "3.1.0.2",
+        "RepoUrl": "https://github.com/haplo064/JobIcons",
+        "ApplicableVersion": "any",
+        "DalamudApiLevel": 4,
+        "DownloadLinkInstall": "https://service-knj2phup-1253720819.sh.apigw.tencentcs.com/release/dalamudcounter-1623520723?plugin=JobIcons&isUpdate=False&isTesting=False&branch=cn-api4",
+        "DownloadLinkUpdate": "https://service-knj2phup-1253720819.sh.apigw.tencentcs.com/release/dalamudcounter-1623520723?plugin=JobIcons&isUpdate=True&isTesting=False&branch=cn-api4",
+        "DownloadLinkTesting": "https://service-knj2phup-1253720819.sh.apigw.tencentcs.com/release/dalamudcounter-1623520723?plugin=JobIcons&isUpdate=False&isTesting=True&branch=cn-api4",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadCount": 718,
+        "LastUpdated": "1630721336"
     }
 ]
