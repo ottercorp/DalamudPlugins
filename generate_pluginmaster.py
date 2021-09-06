@@ -10,6 +10,7 @@ from zipfile import ZipFile, ZIP_DEFLATED
 import requests
 import hashlib
 import copy
+import re
 
 md5 = hashlib.md5()
 
@@ -114,6 +115,7 @@ def extract_manifests():
             content = f.read()
             if content.startswith(u'\ufeff'):
                 content = content.encode('utf8')[3:].decode('utf8')
+            content=clean_json(content)
             manifests.append(json.loads(content))
 
     translations = {}
@@ -184,6 +186,12 @@ def update_md(master):
             md += f"\n| {plugin['Name']} | {plugin['Author']} | {desc} |"
         with codecs.open('plugins.md', 'w', 'utf8') as f:
             f.write(md)
+
+def clean_json(str):
+    str = re.sub(r",\s*}", "}", str)
+    str = re.sub(r",\s*]", "]", str)
+    # print(str)
+    return str
 
 if __name__ == '__main__':
     main()
