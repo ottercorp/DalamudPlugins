@@ -1,6 +1,8 @@
 name: Regenerate PluginMaster
 on: 
-  page_build:
+  push:
+    branches:
+      - ${{ github.ref }}
   workflow_dispatch:
 
 jobs:
@@ -11,10 +13,10 @@ jobs:
       - uses: actions/setup-python@v2
         with:
             python-version: '3.8'
-      - name: Checkout cn-api4
+      - name: Checkout ${{ github.ref }}
         uses: actions/checkout@v2
         with:
-          ref: cn-api4
+          ref: ${{ github.ref }}
       - name: Generate PluginMaster
         run: pip install requests && python generate_pluginmaster.py
       - name: Commit files
