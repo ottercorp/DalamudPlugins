@@ -2,7 +2,7 @@ name: Regenerate PluginMaster
 on: 
   push:
     branches:
-      - ${{ github.ref }}
+      - cn-api4
   workflow_dispatch:
 
 jobs:
