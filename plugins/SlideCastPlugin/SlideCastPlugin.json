@@ -1,0 +1,21 @@
+{
+  "Author": "Haplo064",
+  "Name": "Slide Cast",
+  "Punchline": "Adds an indicator of when it's safe to move while casting",
+  "Description": "Adds an indicator of when it's safe to move while casting",
+  "Tags": ["Castbar", "UI", "Overlay", "Extension", "Casting", "Slide"],
+  "IsHide": false,
+  "InternalName": "SlideCastPlugin",
+  "AssemblyVersion": "0.8.0.1",
+  "RepoUrl": "https://github.com/Haplo064/SlideCast",
+  "ApplicableVersion": "any",
+  "DalamudApiLevel": 4,
+  "DownloadCount": 0,
+  "LastUpdate": 0,
+  "DownloadLinkInstall": null,
+  "DownloadLinkUpdate": null,
+  "DownloadLinkTesting": null,
+  "LoadPriority": 69419,
+  "ImageUrls": null,
+  "IconUrl": null
+}
