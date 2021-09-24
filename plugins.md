@@ -18,6 +18,7 @@
 | EasyEyes | ocealot | A plugin which can hide any VFX. Icon by PAPACHIN |
 | Teleporter | Pohky | Adds Chat Commands to Teleport to Aetherytes or Areas by Name.<br>e.g. /tp Quarrymill or /tpm South Shroud<br>Supports setting up an Alias for Aetherytes to be used with Teleporter Commands<br>e.g. /tp home instead of /tp Estate Hall (Free Company) |
 | Pixel Perfect | Haplo064 | Showing exactly where to stand since 2020. |
+| JobBars | ocealot | Additional job gauges, party buff timers, mitigation trackers, and more. Icon by PAPACHIN |
 | Housemate | perchbird | Housemate offers multiple features that help you gain inspiration from other homes in XIV.<br>If you're looking for a specific home or outdoor item, you can check the exterior list<br>when running around a ward. If you're interested in seeing what items make up a<br>structure in a home - turn on the item overlay to see what they are!<br><br>Note: This plugin is purely informational, and does not assist you in placing<br>or "glitching" housing items. |
 | Damage Info | perchbird | Configurable options for in-game fly text color based on damage type, with additional settings for damage source and fly text decluttering options. |
 | JobIcons | haplo, daemitus | 名字好蠢，用职业图标替换名牌。 |

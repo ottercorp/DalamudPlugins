@@ -15,7 +15,7 @@
         "IsHide": false,
         "IsTestingExclusive": false,
         "DownloadCount": 125,
-        "LastUpdated": "1630946503"
+        "LastUpdated": "1631715718"
     },
     {
         "Author": "ascclemens",
@@ -33,7 +33,7 @@
         "IsHide": false,
         "IsTestingExclusive": false,
         "DownloadCount": 81,
-        "LastUpdated": "1630946503"
+        "LastUpdated": "1631715718"
     },
     {
         "Author": "Dragon",
@@ -59,7 +59,7 @@
         "IsHide": false,
         "IsTestingExclusive": false,
         "DownloadCount": 424,
-        "LastUpdated": "1630946503"
+        "LastUpdated": "1631715718"
     },
     {
         "Author": "ascclemens",
@@ -77,7 +77,7 @@
         "IsHide": false,
         "IsTestingExclusive": false,
         "DownloadCount": 979,
-        "LastUpdated": "1630946503"
+        "LastUpdated": "1631715718"
     },
     {
         "Author": "ascclemens",
@@ -95,7 +95,7 @@
         "IsHide": false,
         "IsTestingExclusive": false,
         "DownloadCount": 806,
-        "LastUpdated": "1630946503"
+        "LastUpdated": "1631715718"
     },
     {
         "Author": "Caraxi",
@@ -113,7 +113,7 @@
         "IsHide": false,
         "IsTestingExclusive": false,
         "DownloadCount": 950,
-        "LastUpdated": "1630946503"
+        "LastUpdated": "1631715718"
     },
     {
         "Author": "MgAl2O4",
@@ -142,7 +142,7 @@
         "IsHide": false,
         "IsTestingExclusive": false,
         "DownloadCount": 0,
-        "LastUpdated": "1630946503"
+        "LastUpdated": "1631715718"
     },
     {
         "Author": "Xorus",
@@ -170,7 +170,7 @@
         "IsHide": false,
         "IsTestingExclusive": false,
         "DownloadCount": 0,
-        "LastUpdated": "1630946503"
+        "LastUpdated": "1631715718"
     },
     {
         "Author": "ascclemens",
@@ -188,7 +188,7 @@
         "IsHide": false,
         "IsTestingExclusive": false,
         "DownloadCount": 0,
-        "LastUpdated": "1630946503"
+        "LastUpdated": "1631715718"
     },
     {
         "Author": "Meli & perchbird",
@@ -210,7 +210,7 @@
         "IsHide": false,
         "IsTestingExclusive": false,
         "DownloadCount": 209,
-        "LastUpdated": "1630946503"
+        "LastUpdated": "1631715718"
     },
     {
         "Author": "ocealot",
@@ -232,7 +232,7 @@
         "IsHide": false,
         "IsTestingExclusive": false,
         "DownloadCount": 440,
-        "LastUpdated": "1630946503"
+        "LastUpdated": "1631715718"
     },
     {
         "Author": "Pohky",
@@ -251,7 +251,7 @@
         "IsHide": false,
         "IsTestingExclusive": false,
         "DownloadCount": 321,
-        "LastUpdated": "1630946503"
+        "LastUpdated": "1631715718"
     },
     {
         "Author": "Haplo064",
@@ -279,7 +279,29 @@
         "IsHide": false,
         "IsTestingExclusive": false,
         "DownloadCount": 338,
-        "LastUpdated": "1630946503"
+        "LastUpdated": "1631715718"
+    },
+    {
+        "Author": "ocealot",
+        "Name": "JobBars",
+        "Description": "Additional job gauges, party buff timers, mitigation trackers, and more. Icon by PAPACHIN",
+        "InternalName": "JobBars",
+        "AssemblyVersion": "1.1.0.5",
+        "RepoUrl": "https://github.com/0ceal0t/JobBars",
+        "ApplicableVersion": "any",
+        "Tags": [
+            "UI",
+            "Bars"
+        ],
+        "DalamudApiLevel": 4,
+        "Punchline": "Extra job gauges",
+        "DownloadLinkInstall": "https://service-knj2phup-1253720819.sh.apigw.tencentcs.com/release/dalamudcounter-1623520723?plugin=JobBars&isUpdate=False&isTesting=False&branch=cn-api4",
+        "DownloadLinkUpdate": "https://service-knj2phup-1253720819.sh.apigw.tencentcs.com/release/dalamudcounter-1623520723?plugin=JobBars&isUpdate=True&isTesting=False&branch=cn-api4",
+        "DownloadLinkTesting": "https://service-knj2phup-1253720819.sh.apigw.tencentcs.com/release/dalamudcounter-1623520723?plugin=JobBars&isUpdate=False&isTesting=True&branch=cn-api4",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadCount": 0,
+        "LastUpdated": "1631715718"
     },
     {
         "Author": "perchbird",
@@ -297,7 +319,7 @@
         "IsHide": false,
         "IsTestingExclusive": false,
         "DownloadCount": 434,
-        "LastUpdated": "1630946503"
+        "LastUpdated": "1631715718"
     },
     {
         "Author": "perchbird",
@@ -315,7 +337,7 @@
         "IsHide": false,
         "IsTestingExclusive": false,
         "DownloadCount": 587,
-        "LastUpdated": "1630946503"
+        "LastUpdated": "1631715718"
     },
     {
         "Author": "haplo, daemitus",
@@ -332,7 +354,7 @@
         "IsHide": false,
         "IsTestingExclusive": false,
         "DownloadCount": 718,
-        "LastUpdated": "1630946503"
+        "LastUpdated": "1631715718"
     },
     {
         "Author": "daemitus",
@@ -355,7 +377,7 @@
         "IsHide": false,
         "IsTestingExclusive": false,
         "DownloadCount": 0,
-        "LastUpdated": "1630946503"
+        "LastUpdated": "1631715718"
     },
     {
         "Author": "UnknownX",
@@ -377,6 +399,6 @@
         "IsHide": false,
         "IsTestingExclusive": false,
         "DownloadCount": 380,
-        "LastUpdated": "1630946503"
+        "LastUpdated": "1631715718"
     }
 ]
