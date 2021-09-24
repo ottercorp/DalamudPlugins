@@ -70,5 +70,12 @@
     "Housemate offers multiple features that help you gain inspiration from other homes in XIV.\nIf you're looking for a specific home or outdoor item, you can check the exterior list\nwhen running around a ward. If you're interested in seeing what items make up a\nstructure in a home - turn on the item overlay to see what they are!\n\nNote: This plugin is purely informational, and does not assist you in placing\nor \"glitching\" housing items.": "",
     "Configurable options for in-game fly text color based on damage type, with additional settings for damage source and fly text decluttering options.": "",
     "This plugin highlights tiles and lines in MiniCactpot that represent the best potential action you can take.": "",
-    "Additional job gauges, party buff timers, mitigation trackers, and more. Icon by PAPACHIN": ""
+    "Additional job gauges, party buff timers, mitigation trackers, and more. Icon by PAPACHIN": "",
+    "Automatically change visor, headslot hiding, and weapon hiding status for different player states, as well as default CPoses per job.": "",
+    "A note-taking plugin.": "",
+    "Easy overview about who is currently resurrecting who, who is already resurrected, and who has removable detrimental status effects.": "",
+    "XIVChat is a suite of software allowing you to use FFXIV's chat from\ndifferent devices. This is the server component required to do so.\n\nFor information about clients to use with this server, see the website.": "",
+    "Explore quests and their rewards.\n- Search for quest names or their rewards, including instances,\n  beast tribes, minions, etc.\n- See an interactive map of quest requirements and unlocks.\n- Open a quest info window even for quests you haven't completed.\n- Open quest starting locations on the map or open quests in the journal.": "",
+    "Add separators to various numbers.\n\n- Damage/healing numbers (not DoTs or other players' numbers)\n- Party list HP\n- Ability costs on hotbars\n- Ability costs in tooltips": "",
+    "Hides toast notifications you don't want to see.": ""
 }
