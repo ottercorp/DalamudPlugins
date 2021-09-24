@@ -14,6 +14,7 @@
 | Pixel Perfect | Haplo064 | Showing exactly where to stand since 2020. |
 | ezMiniCactpot | daemitus | This plugin highlights tiles and lines in MiniCactpot that represent the best potential action you can take. |
 | TriadBuddy | MgAl2O4 | Triple triad solver, NPC matches only.<br>- highlights next move during mini game<br>- evaluates all deck presets before match<br>- deck optimizer for NPC<br>- adds more details to card collection window |
+| Slide Cast | Haplo064 | 添加指示符，指示何时可以安全滑步。 |
 | Namingway | ascclemens | Rename abilities and status effects. |
 | Teleporter | Pohky | Adds Chat Commands to Teleport to Aetherytes or Areas by Name.<br>e.g. /tp Quarrymill or /tpm South Shroud<br>Supports setting up an Alias for Aetherytes to be used with Teleporter Commands<br>e.g. /tp home instead of /tp Estate Hall (Free Company) |
 | Visibility | Dragon | 允许您隐藏玩家、陆行鸟和宠物。<br>同时包括 VoidList，一个更好的黑名单。<br>可通过 /pvis 访问<br>可通过 /xlhelp 获得更多信息 |

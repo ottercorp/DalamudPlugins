@@ -15,7 +15,7 @@
         "IsHide": false,
         "IsTestingExclusive": false,
         "DownloadCount": 587,
-        "LastUpdated": "1632497836"
+        "LastUpdated": "1632498888"
     },
     {
         "Author": "Xorus",
@@ -43,7 +43,7 @@
         "IsHide": false,
         "IsTestingExclusive": false,
         "DownloadCount": 0,
-        "LastUpdated": "1632497836"
+        "LastUpdated": "1632498888"
     },
     {
         "Author": "perchbird",
@@ -61,7 +61,7 @@
         "IsHide": false,
         "IsTestingExclusive": false,
         "DownloadCount": 434,
-        "LastUpdated": "1632497836"
+        "LastUpdated": "1632498888"
     },
     {
         "Author": "karashiiro",
@@ -88,7 +88,7 @@
         "IsHide": false,
         "IsTestingExclusive": false,
         "DownloadCount": 424,
-        "LastUpdated": "1632497836"
+        "LastUpdated": "1632498888"
     },
     {
         "Author": "UnknownX",
@@ -110,7 +110,7 @@
         "IsHide": false,
         "IsTestingExclusive": false,
         "DownloadCount": 380,
-        "LastUpdated": "1632497836"
+        "LastUpdated": "1632498888"
     },
     {
         "Author": "ascclemens",
@@ -128,7 +128,7 @@
         "IsHide": false,
         "IsTestingExclusive": false,
         "DownloadCount": 806,
-        "LastUpdated": "1632497836"
+        "LastUpdated": "1632498888"
     },
     {
         "Author": "Haplo064",
@@ -156,7 +156,7 @@
         "IsHide": false,
         "IsTestingExclusive": false,
         "DownloadCount": 338,
-        "LastUpdated": "1632497836"
+        "LastUpdated": "1632498888"
     },
     {
         "Author": "daemitus",
@@ -179,7 +179,7 @@
         "IsHide": false,
         "IsTestingExclusive": false,
         "DownloadCount": 0,
-        "LastUpdated": "1632497836"
+        "LastUpdated": "1632498888"
     },
     {
         "Author": "MgAl2O4",
@@ -208,7 +208,35 @@
         "IsHide": false,
         "IsTestingExclusive": false,
         "DownloadCount": 0,
-        "LastUpdated": "1632497837"
+        "LastUpdated": "1632498888"
+    },
+    {
+        "Author": "Haplo064",
+        "Name": "Slide Cast",
+        "Description": "\u6dfb\u52a0\u6307\u793a\u7b26\uff0c\u6307\u793a\u4f55\u65f6\u53ef\u4ee5\u5b89\u5168\u6ed1\u6b65\u3002",
+        "InternalName": "SlideCastPlugin",
+        "AssemblyVersion": "0.8.0.1",
+        "RepoUrl": "https://github.com/Haplo064/SlideCast",
+        "ApplicableVersion": "any",
+        "Tags": [
+            "Castbar",
+            "UI",
+            "Overlay",
+            "Extension",
+            "Casting",
+            "Slide"
+        ],
+        "DalamudApiLevel": 4,
+        "Punchline": "Adds an indicator of when it's safe to move while casting",
+        "ImageUrls": null,
+        "IconUrl": null,
+        "DownloadLinkInstall": "https://service-knj2phup-1253720819.sh.apigw.tencentcs.com/release/dalamudcounter-1623520723?plugin=SlideCastPlugin&isUpdate=False&isTesting=False&branch=cn-api4",
+        "DownloadLinkUpdate": "https://service-knj2phup-1253720819.sh.apigw.tencentcs.com/release/dalamudcounter-1623520723?plugin=SlideCastPlugin&isUpdate=True&isTesting=False&branch=cn-api4",
+        "DownloadLinkTesting": "https://service-knj2phup-1253720819.sh.apigw.tencentcs.com/release/dalamudcounter-1623520723?plugin=SlideCastPlugin&isUpdate=False&isTesting=True&branch=cn-api4",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadCount": 0,
+        "LastUpdated": "1632498888"
     },
     {
         "Author": "ascclemens",
@@ -226,7 +254,7 @@
         "IsHide": false,
         "IsTestingExclusive": false,
         "DownloadCount": 0,
-        "LastUpdated": "1632497836"
+        "LastUpdated": "1632498888"
     },
     {
         "Author": "Pohky",
@@ -245,7 +273,7 @@
         "IsHide": false,
         "IsTestingExclusive": false,
         "DownloadCount": 321,
-        "LastUpdated": "1632497836"
+        "LastUpdated": "1632498888"
     },
     {
         "Author": "Dragon",
@@ -271,7 +299,7 @@
         "IsHide": false,
         "IsTestingExclusive": false,
         "DownloadCount": 424,
-        "LastUpdated": "1632497837"
+        "LastUpdated": "1632498888"
     },
     {
         "Author": "ocealot",
@@ -293,7 +321,7 @@
         "IsHide": false,
         "IsTestingExclusive": false,
         "DownloadCount": 0,
-        "LastUpdated": "1632497836"
+        "LastUpdated": "1632498888"
     },
     {
         "Author": "ascclemens",
@@ -311,7 +339,7 @@
         "IsHide": false,
         "IsTestingExclusive": false,
         "DownloadCount": 81,
-        "LastUpdated": "1632497836"
+        "LastUpdated": "1632498888"
     },
     {
         "Author": "haplo, daemitus",
@@ -328,7 +356,7 @@
         "IsHide": false,
         "IsTestingExclusive": false,
         "DownloadCount": 718,
-        "LastUpdated": "1632497836"
+        "LastUpdated": "1632498888"
     },
     {
         "Author": "ascclemens",
@@ -346,7 +374,7 @@
         "IsHide": false,
         "IsTestingExclusive": false,
         "DownloadCount": 979,
-        "LastUpdated": "1632497836"
+        "LastUpdated": "1632498888"
     },
     {
         "Author": "ocealot",
@@ -368,7 +396,7 @@
         "IsHide": false,
         "IsTestingExclusive": false,
         "DownloadCount": 440,
-        "LastUpdated": "1632497836"
+        "LastUpdated": "1632498888"
     },
     {
         "Author": "Meli & perchbird",
@@ -390,7 +418,7 @@
         "IsHide": false,
         "IsTestingExclusive": false,
         "DownloadCount": 209,
-        "LastUpdated": "1632497837"
+        "LastUpdated": "1632498888"
     },
     {
         "Author": "Caraxi",
@@ -408,7 +436,7 @@
         "IsHide": false,
         "IsTestingExclusive": false,
         "DownloadCount": 950,
-        "LastUpdated": "1632497836"
+        "LastUpdated": "1632498888"
     },
     {
         "Author": "attick & perchbird",
@@ -426,6 +454,6 @@
         "IsHide": false,
         "IsTestingExclusive": false,
         "DownloadCount": 125,
-        "LastUpdated": "1632497837"
+        "LastUpdated": "1632498888"
     }
 ]
