@@ -16,9 +16,9 @@
     "IsTestingExclusive": "False",
     "DownloadCount": 0,
     "LastUpdate": "1619383460",
-    "DownloadLinkInstall": "https://github.com/Bluefissure/DalamudPlugins/raw/Bluefissure/plugins/DoubleWeaver/latest.zip",
-    "DownloadLinkTesting": "https://github.com/Bluefissure/DalamudPlugins/raw/Bluefissure/plugins/DoubleWeaver/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/Bluefissure/DalamudPlugins/raw/Bluefissure/plugins/DoubleWeaver/latest.zip"
+    "DownloadLinkInstall": "https://github.com/Bluefissure/DalamudPlugins/raw/Bluefissure-api4/plugins/DoubleWeaver/latest.zip",
+    "DownloadLinkTesting": "https://github.com/Bluefissure/DalamudPlugins/raw/Bluefissure-api4/plugins/DoubleWeaver/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/Bluefissure/DalamudPlugins/raw/Bluefissure-api4/plugins/DoubleWeaver/latest.zip"
   },
   {
     "Author": "Bluefissure",
@@ -37,9 +37,9 @@
     "IsTestingExclusive": "False",
     "DownloadCount": 0,
     "LastUpdate": "1620254309",
-    "DownloadLinkInstall": "https://github.com/Bluefissure/DalamudPlugins/raw/Bluefissure/plugins/HousingPos/latest.zip",
-    "DownloadLinkTesting": "https://github.com/Bluefissure/DalamudPlugins/raw/Bluefissure/plugins/HousingPos/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/Bluefissure/DalamudPlugins/raw/Bluefissure/plugins/HousingPos/latest.zip"
+    "DownloadLinkInstall": "https://github.com/Bluefissure/DalamudPlugins/raw/Bluefissure-api4/plugins/HousingPos/latest.zip",
+    "DownloadLinkTesting": "https://github.com/Bluefissure/DalamudPlugins/raw/Bluefissure-api4/plugins/HousingPos/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/Bluefissure/DalamudPlugins/raw/Bluefissure-api4/plugins/HousingPos/latest.zip"
   },
   {
     "Author": "Bluefissure",
@@ -56,9 +56,9 @@
     "IsTestingExclusive": "False",
     "DownloadCount": 0,
     "LastUpdate": "1632596997",
-    "DownloadLinkInstall": "https://github.com/Bluefissure/DalamudPlugins/raw/Bluefissure/plugins/Inviter/latest.zip",
-    "DownloadLinkTesting": "https://github.com/Bluefissure/DalamudPlugins/raw/Bluefissure/plugins/Inviter/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/Bluefissure/DalamudPlugins/raw/Bluefissure/plugins/Inviter/latest.zip"
+    "DownloadLinkInstall": "https://github.com/Bluefissure/DalamudPlugins/raw/Bluefissure-api4/plugins/Inviter/latest.zip",
+    "DownloadLinkTesting": "https://github.com/Bluefissure/DalamudPlugins/raw/Bluefissure-api4/plugins/Inviter/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/Bluefissure/DalamudPlugins/raw/Bluefissure-api4/plugins/Inviter/latest.zip"
   },
   {
     "Author": "Bluefissure",
@@ -74,9 +74,9 @@
     "IsTestingExclusive": "False",
     "DownloadCount": 0,
     "LastUpdate": "1630778029",
-    "DownloadLinkInstall": "https://github.com/Bluefissure/DalamudPlugins/raw/Bluefissure/plugins/SmartVote/latest.zip",
-    "DownloadLinkTesting": "https://github.com/Bluefissure/DalamudPlugins/raw/Bluefissure/plugins/SmartVote/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/Bluefissure/DalamudPlugins/raw/Bluefissure/plugins/SmartVote/latest.zip"
+    "DownloadLinkInstall": "https://github.com/Bluefissure/DalamudPlugins/raw/Bluefissure-api4/plugins/SmartVote/latest.zip",
+    "DownloadLinkTesting": "https://github.com/Bluefissure/DalamudPlugins/raw/Bluefissure-api4/plugins/SmartVote/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/Bluefissure/DalamudPlugins/raw/Bluefissure-api4/plugins/SmartVote/latest.zip"
   },
   {
     "Author": "Bluefissure",
@@ -96,8 +96,8 @@
     "IsTestingExclusive": "False",
     "DownloadCount": 0,
     "LastUpdate": "1623448265",
-    "DownloadLinkInstall": "https://github.com/Bluefissure/DalamudPlugins/raw/Bluefissure/plugins/WindowLocker/latest.zip",
-    "DownloadLinkTesting": "https://github.com/Bluefissure/DalamudPlugins/raw/Bluefissure/plugins/WindowLocker/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/Bluefissure/DalamudPlugins/raw/Bluefissure/plugins/WindowLocker/latest.zip"
+    "DownloadLinkInstall": "https://github.com/Bluefissure/DalamudPlugins/raw/Bluefissure-api4/plugins/WindowLocker/latest.zip",
+    "DownloadLinkTesting": "https://github.com/Bluefissure/DalamudPlugins/raw/Bluefissure-api4/plugins/WindowLocker/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/Bluefissure/DalamudPlugins/raw/Bluefissure-api4/plugins/WindowLocker/latest.zip"
   }
 ]
