@@ -5,8 +5,8 @@ $notInclude = "MapLinker";
 
 $counts = Get-Content "downloadcounts.json" | ConvertFrom-Json
 
-$dlTemplateInstall = "https://github.com/Bluefissure/DalamudPlugins/raw/Bluefissure/plugins/{0}/latest.zip"
-$dlTemplateUpdate = "https://github.com/Bluefissure/DalamudPlugins/raw/Bluefissure/plugins/{0}/latest.zip"
+$dlTemplateInstall = "https://github.com/Bluefissure/DalamudPlugins/raw/Bluefissure-api4/plugins/{0}/latest.zip"
+$dlTemplateUpdate = "https://github.com/Bluefissure/DalamudPlugins/raw/Bluefissure-api4/plugins/{0}/latest.zip"
 
 $thisPath = Get-Location
 
