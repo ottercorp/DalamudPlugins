@@ -1,11 +1,13 @@
 {
   "Author": "Bluefissure",
   "Name": "Double Weaver",
-  "Description": "Double weaving in high latency network. Make sure to install PingPlugin for this to work properly.",
+  "Punchline": "Double weaving even far",
+  "Description": "Double weaving in high latency network.",
   "InternalName": "DoubleWeaver",
-  "AssemblyVersion": "1.0.3.1",
+  "AssemblyVersion": "1.0.4.0",
   "RepoUrl": "https://github.com/Bluefissure/DoubleWeaver",
+  "IconUrl": "https://github.com/Bluefissure/DoubleWeaver/blob/master/images/icon.png",
   "ApplicableVersion": "any",
   "Tags": [ "bluefissure", "doublewaver"],
-  "DalamudApiLevel": 3
+  "DalamudApiLevel": 4
 }
