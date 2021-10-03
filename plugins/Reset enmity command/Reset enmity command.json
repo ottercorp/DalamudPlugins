@@ -1,0 +1,19 @@
+{
+  "Author": "akira0245",
+  "Name": "Reset enmity command",
+  "InternalName": "Reset enmity command",
+  "AssemblyVersion": "0.0.1.0",
+  "Description": "添加清除木人仇恨的文本指令。",
+  "ApplicableVersion": "any",
+  "RepoUrl": "https://github.com/akira0245/Reset-dummy-enmity-command",
+  "Tags": [
+    "akira",
+    "striking",
+    "battle",
+    "train"
+  ],
+  "DalamudApiLevel": 4,
+  "LoadPriority": 0,
+  "IconUrl": "https://i.loli.net/2021/09/25/OA6vDxaSTmfWyU3.png",
+  "Punchline": "添加清除木人仇恨的文本指令。"
+}
