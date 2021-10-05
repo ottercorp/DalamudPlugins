@@ -27,6 +27,7 @@ Below is a list of the plugins that are available in this repo:
 
 * [Inviter](https://github.com/Bluefissure/Inviter): automatically invite players who says "inv" (or whatever you want to match) to your party.
 * [DoubleWeaver](https://github.com/Bluefissure/DoubleWeaver): Double weaving in high latency network.
+* [HousingPos](https://github.com/Bluefissure/HousingPos): Reads and saves FF14 housing furniture position presets.
 
 ## Donations
 
