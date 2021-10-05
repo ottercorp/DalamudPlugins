@@ -1,11 +1,13 @@
 {
     "Author": "Bluefissure",
     "Name": "HousingPos",
+    "Punchline": "Housing presets",
     "Description": "Automatically save/load the positions of housing furnitures.",
     "InternalName": "HousingPos",
-    "AssemblyVersion": "1.1.2.0",
+    "AssemblyVersion": "1.2.0.0",
     "ApplicableVersion": "any",
+    "IconUrl": "https://raw.githubusercontent.com/Bluefissure/HousingPos/master/images/icon.png",
     "RepoUrl": "https://github.com/Bluefissure/HousingPos",
     "Tags": ["bluefissure", "housing"],
-    "DalamudApiLevel": 3
+    "DalamudApiLevel": 4
 }
