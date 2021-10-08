@@ -9,10 +9,11 @@
 | Good Memory | ascclemens | Adds an indicator in item tooltips to show whether you have acquired that item.<br><br>This indicator is in the item's description near the bottom and only appears for<br>items that are unlockable, such as orchestrion rolls, minions, etc.<br><br>Square Enix say this plugin is impossible!<br><br>Icon: Server by Vectorstall from the Noun Project |
 | AutoVisor | Ottermandias | Automatically change visor, headslot hiding, and weapon hiding status for different player states, as well as default CPose-stances per job. |
 | Pixel Perfect | Haplo064 | Showing exactly where to stand since 2020. |
+| DelvUI | jdsmith2816 | DelvUI provides a highly configurable HUD replacement and is highly inspired by ElvUI from WoW |
 | Burnt Toast | ascclemens | Hides toast notifications you don't want to see. |
 | Item Search | Caraxi | Filterable search for Items and Key Items.<br>Try on any item without having to find someone to link it. |
 | XIVChat Server | ascclemens | XIVChat is a suite of software allowing you to use FFXIV's chat from<br>different devices. This is the server component required to do so.<br><br>For information about clients to use with this server, see the website. |
-| JobIcons | haplo, daemitus | 名字好蠢，用职业图标替换名牌。 |
+| JobIcons | haplo, daemitus, Loskh, wozaiha | 名字好蠢，用职业图标替换名牌。 |
 | Globetrotter | ascclemens | Automatically shows where treasure maps are located.<br><br>Icon: Map by Adrien Coquet from the Noun Project |
 | TriadBuddy | MgAl2O4 | Triple triad solver, NPC matches only.<br>- highlights next move during mini game<br>- evaluates all deck presets before match<br>- deck optimizer for NPC<br>- adds more details to card collection window |
 | ezMiniCactpot | daemitus | This plugin highlights tiles and lines in MiniCactpot that represent the best potential action you can take. |

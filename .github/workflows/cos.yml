@@ -2,6 +2,7 @@ name: Upload to Tencent COS
 on:
   workflow_run:
     workflows: ["Regenerate PluginMaster"]
+    branches: [cn-api4]
     types:
       - completed
   workflow_dispatch:
@@ -15,17 +16,7 @@ jobs:
         uses: actions/checkout@v2
         with:
           ref: cn-api4
-
-      - name: Clear COS
-        continue-on-error: true
-        uses: Bluefissure/tencent-cos-action@v0.1.1
-        with:
-          args: delete -r -f /cn-api4/
-          secret_id: ${{ secrets.SECRET_ID }}
-          secret_key: ${{ secrets.SECRET_KEY }}
-          bucket: ${{ secrets.BUCKET }}
-          region: ${{ secrets.REGION }}
-
+          
       - name: Upload COS
         uses: Bluefissure/tencent-cos-action@v0.1.1
         with:

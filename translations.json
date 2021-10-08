@@ -87,5 +87,6 @@
     "Hides toast notifications you don't want to see.": "",
     "\u6dfb\u52a0\u6e05\u9664\u6728\u4eba\u4ec7\u6068\u7684\u6587\u672c\u6307\u4ee4\u3002": "",
     "Display game FPS. It really is that simple.": "",
-    "Check-out the repository for steps on how to report missing/wrong filter\nand hiding options. Have a look at the FAQ tab in the config window\nafter install for common caveats.": ""
+    "Check-out the repository for steps on how to report missing/wrong filter\nand hiding options. Have a look at the FAQ tab in the config window\nafter install for common caveats.": "",
+    "DelvUI provides a highly configurable HUD replacement and is highly inspired by ElvUI from WoW": ""
 }
