@@ -88,5 +88,11 @@
     "\u6dfb\u52a0\u6e05\u9664\u6728\u4eba\u4ec7\u6068\u7684\u6587\u672c\u6307\u4ee4\u3002": "",
     "Display game FPS. It really is that simple.": "",
     "Check-out the repository for steps on how to report missing/wrong filter\nand hiding options. Have a look at the FAQ tab in the config window\nafter install for common caveats.": "",
-    "DelvUI provides a highly configurable HUD replacement and is highly inspired by ElvUI from WoW": ""
+    "DelvUI provides a highly configurable HUD replacement and is highly inspired by ElvUI from WoW": "",
+    "Allows the filtering of the different fly text types.": "",
+    "UI for showing countdowns for status effects and ability cooldowns.": "",
+    "Customize the layout of the party list.": "",
+    "This plugin lets you target friends or enemies like a macro, without the clunkiness of a macro. /pmoaction opens the configuration.": "",
+    "A simple plugin that prevent the game from killing itself after a lobby error.": "",
+    "To check prices, hold your keybind and then hover over an item or via the item's context menu.\nThe prices are pulled from the crowd-sourced site Universalis.": ""
 }

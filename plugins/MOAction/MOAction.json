@@ -1,0 +1,32 @@
+{
+  "Disabled": false,
+  "Testing": false,
+  "InstalledFromUrl": null,
+  "IsThirdParty": false,
+  "Author": "attick",
+  "Name": "Mouseover Action Plugin",
+  "Punchline": "Mo' actions no problems",
+  "Description": "This plugin lets you target friends or enemies like a macro, without the clunkiness of a macro. /pmoaction opens the configuration.",
+  "Changelog": null,
+  "Tags": [
+    "Mouseover",
+    "Macro"
+  ],
+  "CategoryTags": null,
+  "IsHide": false,
+  "InternalName": "MOAction",
+  "AssemblyVersion": "4.0.6",
+  "TestingAssemblyVersion": null,
+  "IsTestingExclusive": false,
+  "RepoUrl": "https://github.com/attickdoor/MOActionPlugin",
+  "ApplicableVersion": "any",
+  "DalamudApiLevel": 4,
+  "DownloadCount": 0,
+  "LastUpdate": 0,
+  "DownloadLinkInstall": null,
+  "DownloadLinkUpdate": null,
+  "DownloadLinkTesting": null,
+  "LoadPriority": 0,
+  "ImageUrls": null,
+  "IconUrl": null
+}
