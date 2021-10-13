@@ -6,6 +6,6 @@
   "Description": "Smart Vote the Mvp in player commendation for you.",
   "ApplicableVersion": "any",
   "RepoUrl": "https://github.com/Bluefissure/SmartVote",
-  "DalamudApiLevel": 3,
+  "DalamudApiLevel": 4,
   "LoadPriority": 0
 }
