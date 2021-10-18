@@ -15,7 +15,7 @@
         "IsHide": false,
         "IsTestingExclusive": false,
         "DownloadCount": 321,
-        "LastUpdated": "1633928983"
+        "LastUpdated": "1634020214"
     },
     {
         "Author": "ascclemens",
@@ -32,7 +32,7 @@
         "IsHide": false,
         "IsTestingExclusive": false,
         "DownloadCount": 344,
-        "LastUpdated": "1633928983"
+        "LastUpdated": "1634020214"
     },
     {
         "Author": "attick & perchbird",
@@ -50,7 +50,7 @@
         "IsHide": false,
         "IsTestingExclusive": false,
         "DownloadCount": 125,
-        "LastUpdated": "1633928983"
+        "LastUpdated": "1634020214"
     },
     {
         "Author": "jdsmith2816",
@@ -71,7 +71,7 @@
         "IsHide": false,
         "IsTestingExclusive": false,
         "DownloadCount": 0,
-        "LastUpdated": "1633928983"
+        "LastUpdated": "1634020214"
     },
     {
         "Author": "haplo, daemitus, Loskh, wozaiha",
@@ -88,7 +88,7 @@
         "IsHide": false,
         "IsTestingExclusive": false,
         "DownloadCount": 718,
-        "LastUpdated": "1633928983"
+        "LastUpdated": "1634020214"
     },
     {
         "Author": "Caraxi",
@@ -106,7 +106,7 @@
         "IsHide": false,
         "IsTestingExclusive": false,
         "DownloadCount": 453,
-        "LastUpdated": "1633928983"
+        "LastUpdated": "1634020214"
     },
     {
         "Author": "ascclemens",
@@ -123,7 +123,7 @@
         "IsHide": false,
         "IsTestingExclusive": false,
         "DownloadCount": 0,
-        "LastUpdated": "1633928983"
+        "LastUpdated": "1634020214"
     },
     {
         "Author": "ascclemens",
@@ -141,7 +141,7 @@
         "IsHide": false,
         "IsTestingExclusive": false,
         "DownloadCount": 81,
-        "LastUpdated": "1633928983"
+        "LastUpdated": "1634020214"
     },
     {
         "Author": "daemitus",
@@ -164,7 +164,7 @@
         "IsHide": false,
         "IsTestingExclusive": false,
         "DownloadCount": 0,
-        "LastUpdated": "1633928983"
+        "LastUpdated": "1634020214"
     },
     {
         "Author": "karashiiro",
@@ -191,7 +191,7 @@
         "IsHide": false,
         "IsTestingExclusive": false,
         "DownloadCount": 424,
-        "LastUpdated": "1633928983"
+        "LastUpdated": "1634020214"
     },
     {
         "Author": "ascclemens",
@@ -208,7 +208,7 @@
         "IsHide": false,
         "IsTestingExclusive": false,
         "DownloadCount": 0,
-        "LastUpdated": "1633928983"
+        "LastUpdated": "1634020214"
     },
     {
         "Author": "Haplo064",
@@ -236,7 +236,7 @@
         "IsHide": false,
         "IsTestingExclusive": false,
         "DownloadCount": 338,
-        "LastUpdated": "1633928983"
+        "LastUpdated": "1634020214"
     },
     {
         "Author": "akira0245",
@@ -261,7 +261,7 @@
         "IsHide": false,
         "IsTestingExclusive": false,
         "DownloadCount": 0,
-        "LastUpdated": "1633928983"
+        "LastUpdated": "1634020214"
     },
     {
         "Author": "Caraxi",
@@ -279,7 +279,7 @@
         "IsHide": false,
         "IsTestingExclusive": false,
         "DownloadCount": 637,
-        "LastUpdated": "1633928983"
+        "LastUpdated": "1634020214"
     },
     {
         "Author": "Meli & perchbird",
@@ -301,7 +301,7 @@
         "IsHide": false,
         "IsTestingExclusive": false,
         "DownloadCount": 209,
-        "LastUpdated": "1633928983"
+        "LastUpdated": "1634020214"
     },
     {
         "Author": "fmauNeko",
@@ -319,7 +319,7 @@
         "IsHide": false,
         "IsTestingExclusive": false,
         "DownloadCount": 817,
-        "LastUpdated": "1633928983"
+        "LastUpdated": "1634020214"
     },
     {
         "Author": "ascclemens",
@@ -337,14 +337,14 @@
         "IsHide": false,
         "IsTestingExclusive": false,
         "DownloadCount": 979,
-        "LastUpdated": "1633928983"
+        "LastUpdated": "1634020214"
     },
     {
         "Author": "ocealot",
         "Name": "JobBars",
         "Description": "Additional job gauges, party buff timers, mitigation trackers, and more. Icon by PAPACHIN",
         "InternalName": "JobBars",
-        "AssemblyVersion": "1.1.0.5",
+        "AssemblyVersion": "1.1.1.0",
         "RepoUrl": "https://github.com/0ceal0t/JobBars",
         "ApplicableVersion": "any",
         "Tags": [
@@ -359,7 +359,7 @@
         "IsHide": false,
         "IsTestingExclusive": false,
         "DownloadCount": 0,
-        "LastUpdated": "1633928983"
+        "LastUpdated": "1634020214"
     },
     {
         "Author": "attick",
@@ -383,7 +383,7 @@
         "IsHide": false,
         "IsTestingExclusive": false,
         "DownloadCount": 359,
-        "LastUpdated": "1633928983"
+        "LastUpdated": "1634020214"
     },
     {
         "Author": "ascclemens",
@@ -401,14 +401,14 @@
         "IsHide": false,
         "IsTestingExclusive": false,
         "DownloadCount": 0,
-        "LastUpdated": "1633928983"
+        "LastUpdated": "1634020214"
     },
     {
         "Author": "Haplo064",
         "Name": "Chat Bubbles",
         "Description": "Using native chat bubble display, see who is talking about what in a more natural fashion.",
         "InternalName": "ChatBubbles",
-        "AssemblyVersion": "1.3.1.0",
+        "AssemblyVersion": "1.3.2.0",
         "RepoUrl": "https://github.com/Haplo064/ChatBubbles",
         "ApplicableVersion": "any",
         "Tags": [
@@ -426,7 +426,7 @@
         "IsHide": false,
         "IsTestingExclusive": false,
         "DownloadCount": 1131,
-        "LastUpdated": "1633928983"
+        "LastUpdated": "1634020214"
     },
     {
         "Author": "kalilistic",
@@ -454,7 +454,7 @@
         "IsHide": false,
         "IsTestingExclusive": false,
         "DownloadCount": 672,
-        "LastUpdated": "1633928983"
+        "LastUpdated": "1634020214"
     },
     {
         "Author": "Ottermandias",
@@ -485,14 +485,14 @@
         "IsHide": false,
         "IsTestingExclusive": false,
         "DownloadCount": 567,
-        "LastUpdated": "1633928983"
+        "LastUpdated": "1634020214"
     },
     {
         "Author": "Bluefissure",
         "Name": "No Kill Plugin",
         "Description": "A simple plugin that prevent the game from killing itself after a lobby error.",
         "InternalName": "NoKillPlugin",
-        "AssemblyVersion": "1.0.2.0",
+        "AssemblyVersion": "1.0.2.1",
         "RepoUrl": "https://github.com/Bluefissure/NoKillPlugin",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 4,
@@ -503,20 +503,22 @@
         "IsHide": false,
         "IsTestingExclusive": false,
         "DownloadCount": 0,
-        "LastUpdated": "1633928983"
+        "LastUpdated": "1634020214"
     },
     {
         "Author": "Xorus",
         "Name": "EngageTimer",
         "Description": "Combat Timer for OBS and ingame overlay with some benefits like a big nice countdown in the middle of the screen in the style of the original one.\nPlease consult the repository link for OBS setup instructions.",
         "InternalName": "EngageTimer",
-        "AssemblyVersion": "1.2.1.1",
+        "AssemblyVersion": "2.0.0.1",
         "RepoUrl": "https://github.com/xorus/EngageTimer",
         "ApplicableVersion": "any",
         "Tags": [
             "countdown",
             "stopwatch",
-            "OBS"
+            "OBS",
+            "streaming",
+            "combat"
         ],
         "DalamudApiLevel": 4,
         "Punchline": "Combat countdown with all numbers, stopwatch and OBS support",
@@ -531,7 +533,7 @@
         "IsHide": false,
         "IsTestingExclusive": false,
         "DownloadCount": 0,
-        "LastUpdated": "1633928983"
+        "LastUpdated": "1634020214"
     },
     {
         "Author": "Aireil",
@@ -549,7 +551,7 @@
         "IsHide": false,
         "IsTestingExclusive": false,
         "DownloadCount": 0,
-        "LastUpdated": "1633928983"
+        "LastUpdated": "1634020214"
     },
     {
         "Author": "MgAl2O4",
@@ -578,7 +580,7 @@
         "IsHide": false,
         "IsTestingExclusive": false,
         "DownloadCount": 0,
-        "LastUpdated": "1633928983"
+        "LastUpdated": "1634020214"
     },
     {
         "Author": "ascclemens",
@@ -595,7 +597,7 @@
         "IsHide": false,
         "IsTestingExclusive": false,
         "DownloadCount": 0,
-        "LastUpdated": "1633928983"
+        "LastUpdated": "1634020214"
     },
     {
         "Author": "ascclemens",
@@ -613,7 +615,7 @@
         "IsHide": false,
         "IsTestingExclusive": false,
         "DownloadCount": 523,
-        "LastUpdated": "1633928983"
+        "LastUpdated": "1634020214"
     },
     {
         "Author": "ascclemens",
@@ -631,7 +633,7 @@
         "IsHide": false,
         "IsTestingExclusive": false,
         "DownloadCount": 806,
-        "LastUpdated": "1633928983"
+        "LastUpdated": "1634020214"
     },
     {
         "Author": "ascclemens",
@@ -649,7 +651,7 @@
         "IsHide": false,
         "IsTestingExclusive": false,
         "DownloadCount": 0,
-        "LastUpdated": "1633928983"
+        "LastUpdated": "1634020214"
     },
     {
         "Author": "tesu",
@@ -675,7 +677,7 @@
         "IsHide": false,
         "IsTestingExclusive": false,
         "DownloadCount": 425,
-        "LastUpdated": "1633928983"
+        "LastUpdated": "1634020214"
     },
     {
         "Author": "UnknownX",
@@ -697,7 +699,7 @@
         "IsHide": false,
         "IsTestingExclusive": false,
         "DownloadCount": 380,
-        "LastUpdated": "1633928983"
+        "LastUpdated": "1634020214"
     },
     {
         "Author": "Haplo064",
@@ -725,7 +727,7 @@
         "IsHide": false,
         "IsTestingExclusive": false,
         "DownloadCount": 0,
-        "LastUpdated": "1633928983"
+        "LastUpdated": "1634020214"
     },
     {
         "Author": "ocealot",
@@ -747,7 +749,7 @@
         "IsHide": false,
         "IsTestingExclusive": false,
         "DownloadCount": 440,
-        "LastUpdated": "1633928983"
+        "LastUpdated": "1634020214"
     },
     {
         "Author": "ascclemens",
@@ -765,7 +767,7 @@
         "IsHide": false,
         "IsTestingExclusive": false,
         "DownloadCount": 401,
-        "LastUpdated": "1633928983"
+        "LastUpdated": "1634020214"
     },
     {
         "Author": "perchbird",
@@ -783,7 +785,7 @@
         "IsHide": false,
         "IsTestingExclusive": false,
         "DownloadCount": 434,
-        "LastUpdated": "1633928983"
+        "LastUpdated": "1634020214"
     },
     {
         "Author": "kalilistic, karashiiro",
@@ -808,7 +810,7 @@
         "IsHide": false,
         "IsTestingExclusive": false,
         "DownloadCount": 0,
-        "LastUpdated": "1633928983"
+        "LastUpdated": "1634020214"
     },
     {
         "Author": "kalilistic",
@@ -832,7 +834,7 @@
         "IsHide": false,
         "IsTestingExclusive": false,
         "DownloadCount": 232,
-        "LastUpdated": "1633928983"
+        "LastUpdated": "1634020214"
     },
     {
         "Author": "attick",
@@ -853,7 +855,29 @@
         "IsHide": false,
         "IsTestingExclusive": false,
         "DownloadCount": 633,
-        "LastUpdated": "1633928983"
+        "LastUpdated": "1634020214"
+    },
+    {
+        "Author": "ocealot",
+        "Name": "VFXEditor",
+        "Description": "View and modify vfxs, as well as create mods for them. Icon by PAPACHIN",
+        "InternalName": "VFXEditor",
+        "AssemblyVersion": "1.5.0.2",
+        "RepoUrl": "https://github.com/0ceal0t/Dalamud-VFXEditor",
+        "ApplicableVersion": "any",
+        "Tags": [
+            "VFX",
+            "AVFX"
+        ],
+        "DalamudApiLevel": 4,
+        "Punchline": "VFX editor and viewer",
+        "DownloadLinkInstall": "https://service-knj2phup-1253720819.sh.apigw.tencentcs.com/release/dalamudcounter-1623520723?plugin=VFXEditor&isUpdate=False&isTesting=False&branch=cn-api4",
+        "DownloadLinkUpdate": "https://service-knj2phup-1253720819.sh.apigw.tencentcs.com/release/dalamudcounter-1623520723?plugin=VFXEditor&isUpdate=True&isTesting=False&branch=cn-api4",
+        "DownloadLinkTesting": "https://service-knj2phup-1253720819.sh.apigw.tencentcs.com/release/dalamudcounter-1623520723?plugin=VFXEditor&isUpdate=False&isTesting=True&branch=cn-api4",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadCount": 217,
+        "LastUpdated": "1634020214"
     },
     {
         "Author": "Dragon",
@@ -879,14 +903,14 @@
         "IsHide": false,
         "IsTestingExclusive": false,
         "DownloadCount": 424,
-        "LastUpdated": "1633928983"
+        "LastUpdated": "1634020214"
     },
     {
         "Author": "Caraxi",
         "Name": "Simple Tweaks Plugin",
         "Description": "A collection of Quality of Life tweaks. Aiming to improve the experience without changing anything drastically.\nAll changes are toggleable, with everything disabled by default. Visit the Repo for a full list of tweaks. (Globe icon below)\\",
         "InternalName": "SimpleTweaksPlugin",
-        "AssemblyVersion": "1.6.0.0",
+        "AssemblyVersion": "1.6.0.4",
         "RepoUrl": "https://github.com/Caraxi/SimpleTweaksPlugin",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 4,
@@ -897,7 +921,7 @@
         "IsHide": false,
         "IsTestingExclusive": false,
         "DownloadCount": 950,
-        "LastUpdated": "1633928983"
+        "LastUpdated": "1634020214"
     },
     {
         "Author": "PunishedPineapple",
@@ -927,7 +951,7 @@
         "IsHide": false,
         "IsTestingExclusive": false,
         "DownloadCount": 290,
-        "LastUpdated": "1633928983"
+        "LastUpdated": "1634020214"
     },
     {
         "Author": "Caraxi",
@@ -945,7 +969,7 @@
         "IsHide": false,
         "IsTestingExclusive": false,
         "DownloadCount": 658,
-        "LastUpdated": "1633928983"
+        "LastUpdated": "1634020214"
     },
     {
         "Author": "perchbird",
@@ -963,7 +987,7 @@
         "IsHide": false,
         "IsTestingExclusive": false,
         "DownloadCount": 587,
-        "LastUpdated": "1633928983"
+        "LastUpdated": "1634020214"
     },
     {
         "Author": "Strati",
@@ -986,7 +1010,7 @@
         "IsHide": false,
         "IsTestingExclusive": false,
         "DownloadCount": 432,
-        "LastUpdated": "1633928983"
+        "LastUpdated": "1634020214"
     },
     {
         "Author": "Chivalrik",
@@ -1004,7 +1028,7 @@
         "IsHide": false,
         "IsTestingExclusive": false,
         "DownloadCount": 0,
-        "LastUpdated": "1633928983"
+        "LastUpdated": "1634020214"
     },
     {
         "Author": "Caraxi",
@@ -1022,7 +1046,7 @@
         "IsHide": false,
         "IsTestingExclusive": false,
         "DownloadCount": 0,
-        "LastUpdated": "1633928983"
+        "LastUpdated": "1634020214"
     },
     {
         "Author": "Bluefissure",
@@ -1043,7 +1067,7 @@
         "IsHide": false,
         "IsTestingExclusive": false,
         "DownloadCount": 174,
-        "LastUpdated": "1633928983"
+        "LastUpdated": "1634020214"
     },
     {
         "Author": "Ottermandias",
@@ -1072,6 +1096,6 @@
         "IsHide": false,
         "IsTestingExclusive": false,
         "DownloadCount": 0,
-        "LastUpdated": "1633928983"
+        "LastUpdated": "1634020214"
     }
 ]

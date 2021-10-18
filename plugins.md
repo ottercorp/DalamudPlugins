@@ -45,6 +45,7 @@
 | NeatNoter | kalilistic, karashiiro | NeatNoter allows you to take notes without switching windows or any of that. |
 | Kapture | kalilistic | Kapture is a loot tracker to capture drops, obtained items, rolls, and more.<br>Use the roll monitor to see who you are waiting on to roll. |
 | XIV Combo | attick | 该插件将连击和相互排斥的能力凝聚到一个按钮上。 |
+| VFXEditor | ocealot | View and modify vfxs, as well as create mods for them. Icon by PAPACHIN |
 | Visibility | Dragon | 允许您隐藏玩家、陆行鸟和宠物。<br>同时包括 VoidList，一个更好的黑名单。<br>可通过 /pvis 访问<br>可通过 /xlhelp 获得更多信息 |
 | Simple Tweaks Plugin | Caraxi | A collection of Quality of Life tweaks. Aiming to improve the experience without changing anything drastically.<br>All changes are toggleable, with everything disabled by default. Visit the Repo for a full list of tweaks. (Globe icon below)\ |
 | Waymark Preset Plugin | PunishedPineapple | Allows you to save, edit, place, import, export, and preview an unlimited number of waymark presets. |
