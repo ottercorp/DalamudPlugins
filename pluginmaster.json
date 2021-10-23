@@ -5,7 +5,7 @@
     "Punchline": "Double weaving with high latency",
     "Description": "Double weaving in high latency network.",
     "InternalName": "DoubleWeaver",
-    "AssemblyVersion": "1.0.4.0",
+    "AssemblyVersion": "1.0.4.1",
     "RepoUrl": "https://github.com/Bluefissure/DoubleWeaver",
     "IconUrl": "https://raw.githubusercontent.com/Bluefissure/DoubleWeaver/master/images/icon.png",
     "ApplicableVersion": "any",
@@ -17,7 +17,7 @@
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadCount": 0,
-    "LastUpdate": "1633402707",
+    "LastUpdate": "1635028340",
     "DownloadLinkInstall": "https://github.com/Bluefissure/DalamudPlugins/raw/Bluefissure-api4/plugins/DoubleWeaver/latest.zip",
     "DownloadLinkTesting": "https://github.com/Bluefissure/DalamudPlugins/raw/Bluefissure-api4/plugins/DoubleWeaver/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Bluefissure/DalamudPlugins/raw/Bluefissure-api4/plugins/DoubleWeaver/latest.zip"
