@@ -4,7 +4,7 @@
   "Punchline": "Double weaving with high latency",
   "Description": "Double weaving in high latency network.",
   "InternalName": "DoubleWeaver",
-  "AssemblyVersion": "1.0.4.0",
+  "AssemblyVersion": "1.0.4.1",
   "RepoUrl": "https://github.com/Bluefissure/DoubleWeaver",
   "IconUrl": "https://raw.githubusercontent.com/Bluefissure/DoubleWeaver/master/images/icon.png",
   "ApplicableVersion": "any",
