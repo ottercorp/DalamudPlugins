@@ -1,0 +1,11 @@
+{
+  "Author": "Loskh",
+  "Name": "StarlightBreaker",
+  "InternalName": "StarlightBreaker",
+  "AssemblyVersion": "1.2.4.0",
+  "Description": "Turn off profanity filter.",
+  "ApplicableVersion": "any",
+  "RepoUrl": "https://github.com/Loskh/StarlightBreaker",
+  "DalamudApiLevel": 4,
+  "LoadPriority": 0
+}

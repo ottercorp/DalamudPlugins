@@ -139,6 +139,10 @@ def add_extra_fields(manifests):
     if os.path.exists('downloadcounts.json'):
         with open('downloadcounts.json', 'r') as f:
             downloadcounts = json.load(f) 
+    categorymap = {}
+    if os.path.exists('categoryfallbacks.json'):
+        with open('categoryfallbacks.json', 'r') as f:
+            categorymap = json.load(f) 
     for manifest in manifests:
         # generate the download link from the internal assembly name
         manifest['DownloadLinkInstall'] = DOWNLOAD_URL.format(plugin_name=manifest["InternalName"], is_update=False, is_testing=False)
@@ -154,6 +158,7 @@ def add_extra_fields(manifests):
                 if k not in manifest:
                     manifest[k] = manifest[source]
         manifest['DownloadCount'] = downloadcounts.get(manifest["InternalName"], 0)
+        manifest['CategoryTags'] = categorymap.get(manifest["InternalName"], categorymap.get(manifest["Name"], []))
 
 def write_master(master):
     # write as pretty json
