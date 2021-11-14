@@ -23,7 +23,7 @@
         "CategoryTags": [
             "UI"
         ],
-        "LastUpdated": "1636505689"
+        "LastUpdated": "1636815360"
     },
     {
         "Author": "Caraxi",
@@ -44,7 +44,7 @@
         "CategoryTags": [
             "UI"
         ],
-        "LastUpdated": "1636505689"
+        "LastUpdated": "1636815360"
     },
     {
         "Author": "Azure Gem/Uiharu",
@@ -64,7 +64,7 @@
         "CategoryTags": [
             "UI"
         ],
-        "LastUpdated": "1636505689"
+        "LastUpdated": "1636815360"
     },
     {
         "Author": "Ottermandias",
@@ -97,7 +97,7 @@
             "UI",
             "utility"
         ],
-        "LastUpdated": "1636505689"
+        "LastUpdated": "1636815360"
     },
     {
         "Author": "kij",
@@ -124,14 +124,14 @@
             "social",
             "utility"
         ],
-        "LastUpdated": "1636505689"
+        "LastUpdated": "1636815360"
     },
     {
         "Author": "Caraxi",
         "Name": "Simple Tweaks Plugin",
         "Description": "A collection of Quality of Life tweaks. Aiming to improve the experience without changing anything drastically.\nAll changes are toggleable, with everything disabled by default. Visit the Repo for a full list of tweaks. (Globe icon below)\\",
         "InternalName": "SimpleTweaksPlugin",
-        "AssemblyVersion": "1.6.0.6",
+        "AssemblyVersion": "1.6.3.0",
         "RepoUrl": "https://github.com/Caraxi/SimpleTweaksPlugin",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 4,
@@ -148,7 +148,7 @@
             "utility",
             "social"
         ],
-        "LastUpdated": "1636505689"
+        "LastUpdated": "1636815360"
     },
     {
         "Author": "Haplo064",
@@ -176,7 +176,7 @@
         "CategoryTags": [
             "social"
         ],
-        "LastUpdated": "1636505689"
+        "LastUpdated": "1636815360"
     },
     {
         "Author": "Xorus",
@@ -209,7 +209,7 @@
         "CategoryTags": [
             "jobs"
         ],
-        "LastUpdated": "1636505689"
+        "LastUpdated": "1636815360"
     },
     {
         "Author": "ocealot",
@@ -234,7 +234,7 @@
         "CategoryTags": [
             "jobs"
         ],
-        "LastUpdated": "1636505689"
+        "LastUpdated": "1636815360"
     },
     {
         "Author": "ascclemens",
@@ -254,7 +254,7 @@
         "CategoryTags": [
             "UI"
         ],
-        "LastUpdated": "1636505689"
+        "LastUpdated": "1636815360"
     },
     {
         "Author": "Caraxi",
@@ -275,7 +275,7 @@
         "CategoryTags": [
             "utility"
         ],
-        "LastUpdated": "1636505689"
+        "LastUpdated": "1636815360"
     },
     {
         "Author": "ascclemens",
@@ -295,7 +295,7 @@
         "CategoryTags": [
             "social"
         ],
-        "LastUpdated": "1636505689"
+        "LastUpdated": "1636815360"
     },
     {
         "Author": "ascclemens",
@@ -316,7 +316,7 @@
         "CategoryTags": [
             "utility"
         ],
-        "LastUpdated": "1636505689"
+        "LastUpdated": "1636815360"
     },
     {
         "Author": "kalilistic",
@@ -344,7 +344,7 @@
             "UI",
             "utility"
         ],
-        "LastUpdated": "1636505689"
+        "LastUpdated": "1636815360"
     },
     {
         "Author": "Meli & perchbird",
@@ -369,7 +369,7 @@
         "CategoryTags": [
             "sound"
         ],
-        "LastUpdated": "1636505689"
+        "LastUpdated": "1636815360"
     },
     {
         "Author": "Bluefissure",
@@ -393,7 +393,7 @@
         "CategoryTags": [
             "UI"
         ],
-        "LastUpdated": "1636505689"
+        "LastUpdated": "1636815360"
     },
     {
         "Author": "ocealot",
@@ -418,7 +418,7 @@
         "CategoryTags": [
             "UI"
         ],
-        "LastUpdated": "1636505689"
+        "LastUpdated": "1636815360"
     },
     {
         "Author": "fmauNeko",
@@ -440,7 +440,7 @@
             "UI",
             "inventory"
         ],
-        "LastUpdated": "1636505689"
+        "LastUpdated": "1636815360"
     },
     {
         "Author": "Avaflow",
@@ -462,7 +462,7 @@
         "CategoryTags": [
             "other"
         ],
-        "LastUpdated": "1636505689"
+        "LastUpdated": "1636815360"
     },
     {
         "Author": "Loskh",
@@ -480,7 +480,7 @@
         "IsTestingExclusive": false,
         "DownloadCount": 962,
         "CategoryTags": [],
-        "LastUpdated": "1636505689"
+        "LastUpdated": "1636815360"
     },
     {
         "Author": "attick",
@@ -504,7 +504,7 @@
         "CategoryTags": [
             "jobs"
         ],
-        "LastUpdated": "1636505689"
+        "LastUpdated": "1636815360"
     },
     {
         "Author": "Chalkos",
@@ -538,7 +538,7 @@
         "CategoryTags": [
             "inventory"
         ],
-        "LastUpdated": "1636505689"
+        "LastUpdated": "1636815360"
     },
     {
         "Author": "Bluefissure",
@@ -559,7 +559,7 @@
         "CategoryTags": [
             "other"
         ],
-        "LastUpdated": "1636505689"
+        "LastUpdated": "1636815360"
     },
     {
         "Author": "Caraxi",
@@ -580,7 +580,7 @@
         "CategoryTags": [
             "UI"
         ],
-        "LastUpdated": "1636505689"
+        "LastUpdated": "1636815360"
     },
     {
         "Author": "ascclemens",
@@ -602,7 +602,7 @@
             "UI",
             "utility"
         ],
-        "LastUpdated": "1636505689"
+        "LastUpdated": "1636815360"
     },
     {
         "Author": "ocealot",
@@ -627,7 +627,7 @@
         "CategoryTags": [
             "UI"
         ],
-        "LastUpdated": "1636505689"
+        "LastUpdated": "1636815360"
     },
     {
         "Author": "Ottermandias",
@@ -661,7 +661,7 @@
         "CategoryTags": [
             "UI"
         ],
-        "LastUpdated": "1636505689"
+        "LastUpdated": "1636815360"
     },
     {
         "Author": "Caraxi",
@@ -683,7 +683,7 @@
             "inventory",
             "utility"
         ],
-        "LastUpdated": "1636505689"
+        "LastUpdated": "1636815360"
     },
     {
         "Author": "Caraxi",
@@ -704,7 +704,7 @@
         "CategoryTags": [
             "UI"
         ],
-        "LastUpdated": "1636505689"
+        "LastUpdated": "1636815360"
     },
     {
         "Author": "kalilistic, karashiiro",
@@ -732,7 +732,7 @@
         "CategoryTags": [
             "UI"
         ],
-        "LastUpdated": "1636505689"
+        "LastUpdated": "1636815360"
     },
     {
         "Author": "haplo, daemitus, Loskh, wozaiha",
@@ -752,7 +752,7 @@
         "CategoryTags": [
             "jobs"
         ],
-        "LastUpdated": "1636505689"
+        "LastUpdated": "1636815360"
     },
     {
         "Author": "ascclemens",
@@ -773,7 +773,7 @@
         "CategoryTags": [
             "UI"
         ],
-        "LastUpdated": "1636505689"
+        "LastUpdated": "1636815360"
     },
     {
         "Author": "Haplo064",
@@ -802,7 +802,7 @@
         "IsTestingExclusive": false,
         "DownloadCount": 0,
         "CategoryTags": [],
-        "LastUpdated": "1636505689"
+        "LastUpdated": "1636815360"
     },
     {
         "Author": "Caraxi",
@@ -823,7 +823,7 @@
         "CategoryTags": [
             "UI"
         ],
-        "LastUpdated": "1636505689"
+        "LastUpdated": "1636815360"
     },
     {
         "Author": "MgAl2O4",
@@ -855,7 +855,7 @@
         "CategoryTags": [
             "minigames"
         ],
-        "LastUpdated": "1636505689"
+        "LastUpdated": "1636815360"
     },
     {
         "Author": "ascclemens",
@@ -875,7 +875,7 @@
         "CategoryTags": [
             "UI"
         ],
-        "LastUpdated": "1636505689"
+        "LastUpdated": "1636815360"
     },
     {
         "Author": "daemitus",
@@ -900,7 +900,7 @@
         "CategoryTags": [
             "minigames"
         ],
-        "LastUpdated": "1636505689"
+        "LastUpdated": "1636815360"
     },
     {
         "Author": "daemitus",
@@ -926,7 +926,7 @@
         "CategoryTags": [
             "minigames"
         ],
-        "LastUpdated": "1636505689"
+        "LastUpdated": "1636815360"
     },
     {
         "Author": "Pohky",
@@ -948,7 +948,7 @@
             "UI",
             "utility"
         ],
-        "LastUpdated": "1636505689"
+        "LastUpdated": "1636815360"
     },
     {
         "Author": "goat",
@@ -968,7 +968,7 @@
         "CategoryTags": [
             "other"
         ],
-        "LastUpdated": "1636505689"
+        "LastUpdated": "1636815360"
     },
     {
         "Author": "UnknownX",
@@ -993,7 +993,7 @@
         "CategoryTags": [
             "UI"
         ],
-        "LastUpdated": "1636505689"
+        "LastUpdated": "1636815360"
     },
     {
         "Author": "tesu",
@@ -1022,7 +1022,7 @@
         "CategoryTags": [
             "inventory"
         ],
-        "LastUpdated": "1636505689"
+        "LastUpdated": "1636815360"
     },
     {
         "Author": "ascclemens",
@@ -1043,7 +1043,7 @@
         "CategoryTags": [
             "sound"
         ],
-        "LastUpdated": "1636505689"
+        "LastUpdated": "1636815360"
     },
     {
         "Author": "Aireil",
@@ -1064,7 +1064,7 @@
         "CategoryTags": [
             "UI"
         ],
-        "LastUpdated": "1636505689"
+        "LastUpdated": "1636815360"
     },
     {
         "Author": "Eternita",
@@ -1085,7 +1085,7 @@
         "CategoryTags": [
             "UI"
         ],
-        "LastUpdated": "1636505689"
+        "LastUpdated": "1636815360"
     },
     {
         "Author": "Dragon",
@@ -1114,7 +1114,7 @@
         "CategoryTags": [
             "UI"
         ],
-        "LastUpdated": "1636505689"
+        "LastUpdated": "1636815360"
     },
     {
         "Author": "attick & perchbird",
@@ -1136,7 +1136,7 @@
             "UI",
             "utility"
         ],
-        "LastUpdated": "1636505689"
+        "LastUpdated": "1636815360"
     },
     {
         "Author": "perchbird",
@@ -1157,7 +1157,7 @@
         "CategoryTags": [
             "UI"
         ],
-        "LastUpdated": "1636505689"
+        "LastUpdated": "1636815360"
     },
     {
         "Author": "perchbird",
@@ -1178,7 +1178,7 @@
         "CategoryTags": [
             "UI"
         ],
-        "LastUpdated": "1636505689"
+        "LastUpdated": "1636815360"
     },
     {
         "Author": "ascclemens",
@@ -1200,7 +1200,7 @@
             "UI",
             "utility"
         ],
-        "LastUpdated": "1636505689"
+        "LastUpdated": "1636815360"
     },
     {
         "Author": "karashiiro",
@@ -1230,7 +1230,7 @@
         "CategoryTags": [
             "UI"
         ],
-        "LastUpdated": "1636505689"
+        "LastUpdated": "1636815360"
     },
     {
         "Author": "attick",
@@ -1255,7 +1255,7 @@
         "CategoryTags": [
             "jobs"
         ],
-        "LastUpdated": "1636505689"
+        "LastUpdated": "1636815360"
     },
     {
         "Author": "Haplo064",
@@ -1286,7 +1286,7 @@
         "CategoryTags": [
             "UI"
         ],
-        "LastUpdated": "1636505689"
+        "LastUpdated": "1636815360"
     },
     {
         "Author": "ascclemens",
@@ -1306,7 +1306,7 @@
         "CategoryTags": [
             "UI"
         ],
-        "LastUpdated": "1636505689"
+        "LastUpdated": "1636815360"
     },
     {
         "Author": "kalilistic",
@@ -1337,7 +1337,7 @@
         "CategoryTags": [
             "inventory"
         ],
-        "LastUpdated": "1636505689"
+        "LastUpdated": "1636815360"
     },
     {
         "Author": "Chivalrik",
@@ -1358,7 +1358,7 @@
         "CategoryTags": [
             "UI"
         ],
-        "LastUpdated": "1636505689"
+        "LastUpdated": "1636815360"
     },
     {
         "Author": "MgAl2O4",
@@ -1393,7 +1393,7 @@
             "utility",
             "sound"
         ],
-        "LastUpdated": "1636505689"
+        "LastUpdated": "1636815360"
     },
     {
         "Author": "ascclemens",
@@ -1415,7 +1415,7 @@
             "UI",
             "jobs"
         ],
-        "LastUpdated": "1636505689"
+        "LastUpdated": "1636815360"
     },
     {
         "Author": "Eternita",
@@ -1433,7 +1433,7 @@
         "IsTestingExclusive": false,
         "DownloadCount": 0,
         "CategoryTags": [],
-        "LastUpdated": "1636505689"
+        "LastUpdated": "1636815360"
     },
     {
         "Author": "PunishedPineapple",
@@ -1466,7 +1466,7 @@
         "CategoryTags": [
             "UI"
         ],
-        "LastUpdated": "1636505689"
+        "LastUpdated": "1636815360"
     },
     {
         "Author": "akira0245",
@@ -1494,7 +1494,7 @@
         "CategoryTags": [
             "jobs"
         ],
-        "LastUpdated": "1636505689"
+        "LastUpdated": "1636815360"
     },
     {
         "Author": "ascclemens",
@@ -1516,7 +1516,7 @@
             "UI",
             "social"
         ],
-        "LastUpdated": "1636505689"
+        "LastUpdated": "1636815360"
     },
     {
         "Author": "Strati",
@@ -1542,7 +1542,7 @@
         "CategoryTags": [
             "UI"
         ],
-        "LastUpdated": "1636505689"
+        "LastUpdated": "1636815360"
     },
     {
         "Author": "jdsmith2816",
@@ -1566,6 +1566,6 @@
         "CategoryTags": [
             "UI"
         ],
-        "LastUpdated": "1636505689"
+        "LastUpdated": "1636815360"
     }
 ]
