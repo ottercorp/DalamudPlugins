@@ -106,5 +106,7 @@
     "Recieve a notification when a duty roulette is in need of a role. /pbonus to setup": "",
     "Turn everyone around you into Lalafells (or other races!)\n\nUse /poal to open settings.": "",
     "Assist mode for bards who want to play music but don't know how to.\n- does NOT play anything automatically\n- needs MIDI files to work\n- adapts MIDI tracks to fit in game limitations for you\n- you will be scored :O": "",
-    "\u4fee\u6539\u6e38\u620f\u7a97\u53e3\u7684\u6807\u9898": ""
+    "\u4fee\u6539\u6e38\u620f\u7a97\u53e3\u7684\u6807\u9898": "",
+    "Your character is personal, so you should be able to have NPCs refer to them\nthe way that you want. With PrefPro, you can control which text option\nwill appear when an NPC uses dialogue meant for a specific in-game gender.\nThis allows you to use a female player model and be referred to as male, and\nvice versa. In addition, there are a few name customization options - if you\nwant to only be referred to by your last name, so be it.\nNote: This plugin currently will not swap voiced cutscene dialogue.": "",
+    "Create and save as many glamour plates as you want. Activate up to 15 of them\nat once at the Glamour Dresser. Supports exporting and importing plates for\neasy sharing.\n": ""
 }
