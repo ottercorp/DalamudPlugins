@@ -11,6 +11,6 @@
     "UI",
     "Util"
   ],
-  "DalamudApiLevel": 4,
+  "DalamudApiLevel": 5,
   "LoadPriority": 0
 }
