@@ -6,6 +6,6 @@
   "Description": "Turn off profanity filter.",
   "ApplicableVersion": "any",
   "RepoUrl": "https://github.com/Loskh/StarlightBreaker",
-  "DalamudApiLevel": 4,
+  "DalamudApiLevel": 5,
   "LoadPriority": 0
 }

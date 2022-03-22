@@ -39,6 +39,8 @@
     "FlyTextFilter-Punchline": "Allows the filtering of the different fly text types.",
     "WheresWOLdo": "Movable text overlay of the current location name.",
     "WheresWOLdo-Punchline": "Making it easier to know where you are.",
+    "MPTickBar": "-Fast Fire III marker on the bar.\n-Autostarts the bar before combat starts.\n-Countdown with time offset.\n-Compatible with FFXIV Material UI.",
+    "MPTickBar-Punchline": "Visually tracks MP regeneration ticks (Black Mage only).",
     "Reset enmity command": "Add a reset striking dummy enmity command.",
     "Reset enmity command-Punchline": "Add a reset striking dummy enmity command.",
     "FPSPlugin": "Display game FPS. It really is that simple.",
@@ -61,6 +63,7 @@
     "MiniCactpotSolver-Punchline": "Shows the next best move in Mini Cactpot.",
     "Quest Map": "Explore quests and their rewards.\n- Search for quest names or their rewards, including instances,\n  beast tribes, minions, etc.\n- See an interactive map of quest requirements and unlocks.\n- Open a quest info window even for quests you haven't completed.\n- Open quest starting locations on the map or open quests in the journal.\n\nIcons: treasure map by Anthony Ledoux from the Noun Project and\nlocked book by Anthony Ledoux from the Noun Project",
     "Quest Map-Punchline": "Explore quests and their rewards.",
+    "BigPlayerDebuffs": "Scales up buffs/debuffs applied by you on Target Status frames",
     "SonarPlugin": "Automatically send and receive hunt and fate relays. /sonar to open, /sonarconfig to configure. This plugin is closed source and support is only provided in the Sonar Support discord.",
     "SonarPlugin-Punchline": "Automatically send and receive hunt and fate relays.",
     "RezPls": "Easy overview about who is currently resurrecting who, who is already resurrected, and who has removable detrimental status effects in the world as well as in the group or alliance interface.",
@@ -103,6 +106,8 @@
     "MarketBoardPlugin-Punchline": "Browse the market board from anywhere.",
     "XIVCombo": "This plugin condenses combos and mutually exclusive abilities onto a single button. /pcombo to open menu",
     "XIVCombo-Punchline": "PvP, but in PvE.",
+    "Dalamud.FindAnything": "Adds a convenient quick search akin to Spotlight that lets you open game windows, teleport, find wiki articles, and more.\nPress Control + T to open the search window. This can be changed by searching for \"Wotsit Settings\".",
+    "Dalamud.FindAnything-Punchline": "Find anything, go anywhere, in style.",
     "PartyListLayout": "Customize the layout of the party list.",
     "PartyListLayout-Punchline": "Customize the layout of the party list.",
     "NoKillPlugin": "A simple plugin that prevent the game from killing itself.",
@@ -120,6 +125,8 @@
     "TeleporterPlugin-Punchline": "Chat Commands for Teleporting",
     "EasyEyes": "A plugin which can hide any VFX. Icon by PAPACHIN",
     "EasyEyes-Punchline": "Hide annoying or distracting VFXs",
+    "HuntBuddy": "A daily hunt bill tracker",
+    "HuntBuddy-Punchline": "Helps you track your daily hunt bills",
     "MacroChain": "Allows for a macro to continue onto the next macro by using '/nextmacro' on the last line of a macro.\nAdding '/nextmacro' on the last line of Macro #01 will automatically execute Macro #02\nAdding '/nextmacro down' on the last line of Macro #01 will automatically execute Macro #11\nAlso allows executing any macro from chat using '/runmacro' but this command cannot be used while macros are running.",
     "MacroChain-Punchline": "Run multiple macros one after the other.",
     "MapLinker": "Automatically record the maplinks in chat and retrieval later.",
@@ -127,5 +134,6 @@
     "OopsAllLalafells": "Turn everyone around you into Lalafells (or other races!)\n\nUse /poal to open settings.",
     "OopsAllLalafells-Punchline": "That one funny plugin your friend told you about.",
     "ItemSearchPlugin": "Filterable search for Items and Key Items.\nTry on any item without having to find someone to link it.",
-    "ItemSearchPlugin-Punchline": "Search and link items, even if you don't have them."
+    "ItemSearchPlugin-Punchline": "Search and link items, even if you don't have them.",
+    "PlayerTags": "Lightweight job visibility in nameplates and chat. Create custom tags and add them to players with the context menu."
 }

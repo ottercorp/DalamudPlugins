@@ -30,6 +30,7 @@
 | VisibilityCN | Dragon | 允许您隐藏玩家、陆行鸟和宠物。<br>同时包括 VoidList，一个更好的黑名单。<br>可通过 /pvis 访问<br>可通过 /xlhelp 获得更多信息 |
 | FlyTextFilter | Aireil | 可以过滤不同类型的悬浮文字。 |
 | WOLdo | Haplo064, maintained by Franz | 用来显示当前所在地图名字的可移动文本悬浮窗。 |
+| MP Tick Bar | Marconsou | -Fast Fire III marker on the bar.<br>-Autostarts the bar before combat starts.<br>-Countdown with time offset.<br>-Compatible with FFXIV Material UI. |
 | Reset enmity command | akira0245 | 添加清除木人仇恨的文本指令。 |
 | FPS Plugin | Caraxi | 显示游戏帧数 |
 | Glamaholic | ascclemens | 为幻化模板创建缓存<br>你可以导出、导出、分享你的幻化模板<br> |
@@ -42,6 +43,7 @@
 | Good Memory | ascclemens | 在物品描述中添加一个指示器来显示您是否已经获得该物品。<br><br>此指示器在物品描述中的底部显示“已获得：是/否”。<br>只作用于可解锁的物品，比如乐谱、宠物等。<br><br>SE 竟然说这个插件的功能无法实现！！ |
 | ezMiniCactpot | daemitus | 仙人微彩插件，自动高亮最优解 |
 | Quest Map | ascclemens | 查看所有任务及其报酬<br>-搜索任务名称，报酬和所在地区（蛮族任务，宠物等）<br>-可交互式任务地图，能查看任务的目标或未解锁任务的解锁条件<br>-能查看尚未完成的任务详情窗口<br>-打开任务起始位置的地图或者它在任务列表中的信息 |
+| BigPlayerDebuffs | d87 | Scales up buffs/debuffs applied by you on Target Status frames |
 | Sonar | Sonar Team | 狩猎插件，自动上报&游戏内推送消息。/sonar 打开界面 /sonarconfig 打开配置。这个插件是闭源的，相关支持请访问 Sonar Support Discord |
 | RezPls | Ottermandias | 更轻松的展示谁在复活谁、谁已经被复活了、谁身上有 Debuff 等状态。在野外和团队列表也有效。 |
 | Fancy Loading Screens | goat | 该插件在过图时显示目标区域的漂亮图。 |
@@ -64,6 +66,7 @@
 | Penny Pincher | tesu | 用来“压一压”(将交易板上的最低价压一金)的插件<br><br>正常的压价流程：<br>1.打开调整物品价格的窗口<br>2.查看物品在市场上的时价<br>3.记下目前最低的时价<br>4.使用高超的数学技巧算出压价一块后的价格<br>5.关掉市场时价窗口<br>6.将算出的数字填入你的售价<br>7.确认物品的售价<br><br>但有了这个神奇的插件，就可以在你打开市场时价窗口时，自动根据最低价计算压价后的价格并复制到你的剪贴板上，省去了困难的计算压价环节。<br><br>有了这个插件，就可以轻松的完成压价：<br>1.打开调整物品价格的窗口<br>2.查看物品在市场上的时价<br>3.关掉市场时价窗口<br>4.将插件算出的数字粘贴到你的售价<br>5.确认物品的售价<br><br>这样省去了复杂的计算步骤，还能防止手滑少填一位数字 |
 | Market board | fmauNeko | 查询市场板。/pmb 打开 |
 | XIV Combo | attick | 该插件将连击和相互排斥的能力凝聚到一个按钮上。 |
+| Wotsit | goat | Adds a convenient quick search akin to Spotlight that lets you open game windows, teleport, find wiki articles, and more.<br>Press Control + T to open the search window. This can be changed by searching for "Wotsit Settings". |
 | Party List Layout | Caraxi | 自定义小队列表布局 |
 | No Kill Plugin | Bluefissure | 一个防止游戏自动关闭的简单插件 |
 | Harp Hero | MgAl2O4 | 弹琴辅助插件<br>- 不含任何自动演奏<br>- 需要MIDI文件来工作<br>- 自动转换MIDI音符为游戏内对应的键位<br>- 自动打分#音游并感 |
@@ -73,7 +76,9 @@
 | VFXEditor | ocealot | 查看、编辑 VFX，同时可以导出为 Penumbra Mod |
 | Teleporter | Pohky | 允许使用指令进行传送。方法：/tp 地点名<br>例子：/tp 格里达尼亚新街<br>也允许为某个地方设置别名，例如 /tp 部队房 |
 | EasyEyes | ocealot | 用于隐藏任意 VFX 的插件 |
+| Hunt Buddy | Dragon | A daily hunt bill tracker |
 | Macro Chain | Caraxi | 允许你在一个宏的末尾使用 /nextmacro 来连接下一个宏<br>在 宏 #01的末尾添加 /nextmacro 将会自动执行 宏 #02<br>在 宏 #01的末尾添加 /nextmacro down 将会自动执行 宏 #11<br>也可以在聊天窗输入 /runmacro 来执行任意宏，不过该指令在其他宏执行时不生效 |
 | MapLinker | Bluefissure | 自动记录聊天中的地图标记并在之后查询。 |
 | Oops, All Lalafells! | Avaflow | 把所有人的种族都变成拉拉肥！（或者其他种族）<br>/poal 打开配置 |
 | Item Search | Caraxi | 高级物品搜索，根据指定的条件筛选物品。并且可以在没有拥有的情况下发送物品到聊天。 |
+| Player Tags | r00telement | Lightweight job visibility in nameplates and chat. Create custom tags and add them to players with the context menu. |

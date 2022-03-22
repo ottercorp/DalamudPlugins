@@ -7,7 +7,7 @@
         "AssemblyVersion": "1.2.4.0",
         "RepoUrl": "https://github.com/Loskh/StarlightBreaker",
         "ApplicableVersion": "any",
-        "DalamudApiLevel": 4,
+        "DalamudApiLevel": 5,
         "DownloadLinkInstall": "https://service-knj2phup-1253720819.sh.apigw.tencentcs.com/release/dalamudcounter-1623520723?plugin=StarlightBreaker&isUpdate=False&isTesting=False&branch=cn-api5",
         "DownloadLinkUpdate": "https://service-knj2phup-1253720819.sh.apigw.tencentcs.com/release/dalamudcounter-1623520723?plugin=StarlightBreaker&isUpdate=True&isTesting=False&branch=cn-api5",
         "DownloadLinkTesting": "https://service-knj2phup-1253720819.sh.apigw.tencentcs.com/release/dalamudcounter-1623520723?plugin=StarlightBreaker&isUpdate=False&isTesting=True&branch=cn-api5",
@@ -15,7 +15,7 @@
         "IsTestingExclusive": false,
         "DownloadCount": 2790,
         "CategoryTags": [],
-        "LastUpdated": "1647562713"
+        "LastUpdated": "1647896930"
     },
     {
         "Author": "PunishedPineapple",
@@ -44,7 +44,7 @@
         "IsTestingExclusive": false,
         "DownloadCount": 0,
         "CategoryTags": [],
-        "LastUpdated": "1647562713"
+        "LastUpdated": "1647896930"
     },
     {
         "Author": "Chivalrik",
@@ -65,7 +65,7 @@
         "CategoryTags": [
             "UI"
         ],
-        "LastUpdated": "1647562713"
+        "LastUpdated": "1647896930"
     },
     {
         "Author": "Strati",
@@ -91,7 +91,7 @@
         "CategoryTags": [
             "UI"
         ],
-        "LastUpdated": "1647562713"
+        "LastUpdated": "1647896930"
     },
     {
         "Author": "Caraxi",
@@ -112,7 +112,7 @@
         "CategoryTags": [
             "UI"
         ],
-        "LastUpdated": "1647562713"
+        "LastUpdated": "1647896930"
     },
     {
         "Author": "attick",
@@ -137,7 +137,7 @@
         "CategoryTags": [
             "jobs"
         ],
-        "LastUpdated": "1647562713"
+        "LastUpdated": "1647896930"
     },
     {
         "Author": "UnknownX",
@@ -162,7 +162,7 @@
         "CategoryTags": [
             "UI"
         ],
-        "LastUpdated": "1647562713"
+        "LastUpdated": "1647896930"
     },
     {
         "Author": "Eternita",
@@ -183,7 +183,7 @@
         "IsTestingExclusive": false,
         "DownloadCount": 234,
         "CategoryTags": [],
-        "LastUpdated": "1647562713"
+        "LastUpdated": "1647896930"
     },
     {
         "Author": "Haplo064",
@@ -211,7 +211,7 @@
         "CategoryTags": [
             "social"
         ],
-        "LastUpdated": "1647562713"
+        "LastUpdated": "1647896930"
     },
     {
         "Author": "Haplo064",
@@ -237,7 +237,7 @@
         "CategoryTags": [
             "UI"
         ],
-        "LastUpdated": "1647562713"
+        "LastUpdated": "1647896930"
     },
     {
         "Author": "perchbird",
@@ -258,7 +258,7 @@
         "CategoryTags": [
             "UI"
         ],
-        "LastUpdated": "1647562713"
+        "LastUpdated": "1647896930"
     },
     {
         "Author": "ascclemens",
@@ -278,7 +278,7 @@
         "CategoryTags": [
             "social"
         ],
-        "LastUpdated": "1647562713"
+        "LastUpdated": "1647896930"
     },
     {
         "Author": "kalilistic, karashiiro",
@@ -306,7 +306,7 @@
         "CategoryTags": [
             "UI"
         ],
-        "LastUpdated": "1647562713"
+        "LastUpdated": "1647896930"
     },
     {
         "Author": "ascclemens",
@@ -327,7 +327,7 @@
         "CategoryTags": [
             "UI"
         ],
-        "LastUpdated": "1647562713"
+        "LastUpdated": "1647896930"
     },
     {
         "Author": "haplo, daemitus, Loskh, wozaiha",
@@ -347,7 +347,7 @@
         "CategoryTags": [
             "jobs"
         ],
-        "LastUpdated": "1647562713"
+        "LastUpdated": "1647896930"
     },
     {
         "Author": "ascclemens",
@@ -369,7 +369,7 @@
             "UI",
             "utility"
         ],
-        "LastUpdated": "1647562713"
+        "LastUpdated": "1647896930"
     },
     {
         "Author": "PunishedPineapple",
@@ -402,7 +402,7 @@
         "CategoryTags": [
             "UI"
         ],
-        "LastUpdated": "1647562713"
+        "LastUpdated": "1647896930"
     },
     {
         "Author": "ascclemens",
@@ -423,7 +423,7 @@
         "CategoryTags": [
             "utility"
         ],
-        "LastUpdated": "1647562713"
+        "LastUpdated": "1647896930"
     },
     {
         "Author": "Haplo064",
@@ -452,7 +452,7 @@
         "IsTestingExclusive": false,
         "DownloadCount": 1398,
         "CategoryTags": [],
-        "LastUpdated": "1647562713"
+        "LastUpdated": "1647896930"
     },
     {
         "Author": "Azure Gem",
@@ -472,7 +472,7 @@
         "CategoryTags": [
             "UI"
         ],
-        "LastUpdated": "1647562713"
+        "LastUpdated": "1647896930"
     },
     {
         "Author": "Dragon",
@@ -502,7 +502,7 @@
         "CategoryTags": [
             "UI"
         ],
-        "LastUpdated": "1647562713"
+        "LastUpdated": "1647896930"
     },
     {
         "Author": "Aireil",
@@ -523,7 +523,7 @@
         "CategoryTags": [
             "UI"
         ],
-        "LastUpdated": "1647562713"
+        "LastUpdated": "1647896930"
     },
     {
         "Author": "Haplo064, maintained by Franz",
@@ -549,7 +549,36 @@
         "CategoryTags": [
             "UI"
         ],
-        "LastUpdated": "1647562713"
+        "LastUpdated": "1647896930"
+    },
+    {
+        "Author": "Marconsou",
+        "Name": "MP Tick Bar",
+        "Description": "-Fast Fire III marker on the bar.\n-Autostarts the bar before combat starts.\n-Countdown with time offset.\n-Compatible with FFXIV Material UI.",
+        "InternalName": "MPTickBar",
+        "AssemblyVersion": "1.4.0.4",
+        "RepoUrl": "https://github.com/marconsou/mp-tick-bar",
+        "ApplicableVersion": "any",
+        "Tags": [
+            "mp",
+            "tick",
+            "bar",
+            "blm",
+            "black",
+            "mage"
+        ],
+        "DalamudApiLevel": 5,
+        "Punchline": "Visually tracks MP regeneration ticks (Black Mage only).",
+        "DownloadLinkInstall": "https://service-knj2phup-1253720819.sh.apigw.tencentcs.com/release/dalamudcounter-1623520723?plugin=MPTickBar&isUpdate=False&isTesting=False&branch=cn-api5",
+        "DownloadLinkUpdate": "https://service-knj2phup-1253720819.sh.apigw.tencentcs.com/release/dalamudcounter-1623520723?plugin=MPTickBar&isUpdate=True&isTesting=False&branch=cn-api5",
+        "DownloadLinkTesting": "https://service-knj2phup-1253720819.sh.apigw.tencentcs.com/release/dalamudcounter-1623520723?plugin=MPTickBar&isUpdate=False&isTesting=True&branch=cn-api5",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadCount": 0,
+        "CategoryTags": [
+            "jobs"
+        ],
+        "LastUpdated": "1647896930"
     },
     {
         "Author": "akira0245",
@@ -577,7 +606,7 @@
         "CategoryTags": [
             "jobs"
         ],
-        "LastUpdated": "1647562713"
+        "LastUpdated": "1647896930"
     },
     {
         "Author": "Caraxi",
@@ -598,7 +627,7 @@
         "CategoryTags": [
             "UI"
         ],
-        "LastUpdated": "1647562713"
+        "LastUpdated": "1647896930"
     },
     {
         "Author": "ascclemens",
@@ -617,7 +646,7 @@
         "IsTestingExclusive": false,
         "DownloadCount": 346,
         "CategoryTags": [],
-        "LastUpdated": "1647562713"
+        "LastUpdated": "1647896930"
     },
     {
         "Author": "ascclemens",
@@ -639,7 +668,7 @@
             "UI",
             "social"
         ],
-        "LastUpdated": "1647562713"
+        "LastUpdated": "1647896930"
     },
     {
         "Author": "Bluefissure",
@@ -662,7 +691,7 @@
         "IsTestingExclusive": false,
         "DownloadCount": 4,
         "CategoryTags": [],
-        "LastUpdated": "1647562713"
+        "LastUpdated": "1647896930"
     },
     {
         "Author": "Ottermandias",
@@ -695,7 +724,7 @@
             "UI",
             "utility"
         ],
-        "LastUpdated": "1647562713"
+        "LastUpdated": "1647896930"
     },
     {
         "Author": "ocealot",
@@ -720,7 +749,7 @@
         "CategoryTags": [
             "jobs"
         ],
-        "LastUpdated": "1647562713"
+        "LastUpdated": "1647896930"
     },
     {
         "Author": "karashiiro",
@@ -750,7 +779,7 @@
         "CategoryTags": [
             "UI"
         ],
-        "LastUpdated": "1647562713"
+        "LastUpdated": "1647896930"
     },
     {
         "Author": "ascclemens",
@@ -771,7 +800,7 @@
         "CategoryTags": [
             "UI"
         ],
-        "LastUpdated": "1647562713"
+        "LastUpdated": "1647896930"
     },
     {
         "Author": "ascclemens",
@@ -793,7 +822,7 @@
             "UI",
             "utility"
         ],
-        "LastUpdated": "1647562713"
+        "LastUpdated": "1647896930"
     },
     {
         "Author": "daemitus",
@@ -819,7 +848,7 @@
         "CategoryTags": [
             "minigames"
         ],
-        "LastUpdated": "1647562713"
+        "LastUpdated": "1647896930"
     },
     {
         "Author": "ascclemens",
@@ -840,7 +869,32 @@
         "CategoryTags": [
             "UI"
         ],
-        "LastUpdated": "1647562713"
+        "LastUpdated": "1647896930"
+    },
+    {
+        "Author": "d87",
+        "Name": "BigPlayerDebuffs",
+        "Description": "Scales up buffs/debuffs applied by you on Target Status frames",
+        "InternalName": "BigPlayerDebuffs",
+        "AssemblyVersion": "1.1.0.3",
+        "RepoUrl": "https://github.com/rgd87/BigPlayerDebuffs",
+        "ApplicableVersion": "any",
+        "DalamudApiLevel": 5,
+        "ImageUrls": [
+            "https://raw.githubusercontent.com/rgd87/BigPlayerDebuffs/master/images/image1.png"
+        ],
+        "IconUrl": "https://raw.githubusercontent.com/rgd87/BigPlayerDebuffs/master/images/icon.png",
+        "DownloadLinkInstall": "https://service-knj2phup-1253720819.sh.apigw.tencentcs.com/release/dalamudcounter-1623520723?plugin=BigPlayerDebuffs&isUpdate=False&isTesting=False&branch=cn-api5",
+        "DownloadLinkUpdate": "https://service-knj2phup-1253720819.sh.apigw.tencentcs.com/release/dalamudcounter-1623520723?plugin=BigPlayerDebuffs&isUpdate=True&isTesting=False&branch=cn-api5",
+        "DownloadLinkTesting": "https://service-knj2phup-1253720819.sh.apigw.tencentcs.com/release/dalamudcounter-1623520723?plugin=BigPlayerDebuffs&isUpdate=False&isTesting=True&branch=cn-api5",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadCount": 0,
+        "CategoryTags": [
+            "UI",
+            "jobs"
+        ],
+        "LastUpdated": "1647896930"
     },
     {
         "Author": "Sonar Team",
@@ -880,7 +934,7 @@
         "CategoryTags": [
             "UI"
         ],
-        "LastUpdated": "1647562713"
+        "LastUpdated": "1647896930"
     },
     {
         "Author": "Ottermandias",
@@ -914,7 +968,7 @@
         "CategoryTags": [
             "UI"
         ],
-        "LastUpdated": "1647562713"
+        "LastUpdated": "1647896930"
     },
     {
         "Author": "goat",
@@ -934,7 +988,7 @@
         "CategoryTags": [
             "other"
         ],
-        "LastUpdated": "1647562713"
+        "LastUpdated": "1647896930"
     },
     {
         "Author": "MgAl2O4",
@@ -966,7 +1020,7 @@
         "CategoryTags": [
             "minigames"
         ],
-        "LastUpdated": "1647562713"
+        "LastUpdated": "1647896930"
     },
     {
         "Author": "Caraxi",
@@ -990,7 +1044,7 @@
             "utility",
             "social"
         ],
-        "LastUpdated": "1647562713"
+        "LastUpdated": "1647896930"
     },
     {
         "Author": "kij",
@@ -1015,7 +1069,7 @@
             "social",
             "utility"
         ],
-        "LastUpdated": "1647562713"
+        "LastUpdated": "1647896930"
     },
     {
         "Author": "Chalkos",
@@ -1049,7 +1103,7 @@
         "CategoryTags": [
             "inventory"
         ],
-        "LastUpdated": "1647562713"
+        "LastUpdated": "1647896930"
     },
     {
         "Author": "Felys",
@@ -1069,7 +1123,7 @@
         "CategoryTags": [
             "UI"
         ],
-        "LastUpdated": "1647562713"
+        "LastUpdated": "1647896930"
     },
     {
         "Author": "perchbird",
@@ -1090,7 +1144,7 @@
         "CategoryTags": [
             "UI"
         ],
-        "LastUpdated": "1647562713"
+        "LastUpdated": "1647896930"
     },
     {
         "Author": "kalilistic",
@@ -1121,7 +1175,7 @@
         "CategoryTags": [
             "inventory"
         ],
-        "LastUpdated": "1647562713"
+        "LastUpdated": "1647896930"
     },
     {
         "Author": "ascclemens",
@@ -1141,7 +1195,7 @@
         "CategoryTags": [
             "UI"
         ],
-        "LastUpdated": "1647562713"
+        "LastUpdated": "1647896930"
     },
     {
         "Author": "ascclemens",
@@ -1162,7 +1216,7 @@
         "CategoryTags": [
             "sound"
         ],
-        "LastUpdated": "1647562713"
+        "LastUpdated": "1647896930"
     },
     {
         "Author": "attick & perchbird",
@@ -1184,7 +1238,7 @@
             "UI",
             "utility"
         ],
-        "LastUpdated": "1647562713"
+        "LastUpdated": "1647896930"
     },
     {
         "Author": "jdsmith2816",
@@ -1208,14 +1262,14 @@
         "CategoryTags": [
             "UI"
         ],
-        "LastUpdated": "1647562713"
+        "LastUpdated": "1647896930"
     },
     {
         "Author": "Meli & perchbird",
         "Name": "Orchestrion Plugin",
         "Description": "Orchestrion \u63d2\u4ef6\u5141\u8bb8\u60a8\u66f4\u6539\u5f53\u524d\u6e38\u620f\u4e2d\u7684 BGM\u3002 \u5b83\u5305\u542b\n\u4e00\u4e2a\u6e38\u620f\u4e2d\u6700\u51c6\u786e\u7684\u6b4c\u66f2\u5217\u8868\uff0c \u6240\u4ee5\u4f60\u786e\u5207\u77e5\u9053\u6b63\u5728\u64ad\u653e\n\u54ea\u9996\u66f2\u5b50\u4ee5\u4fbf\u65e5\u540e\u67e5\u627e\uff01 \u4e5f\u53ef\u6dfb\u52a0\u6dfb\u52a0\u559c\u6b22\u7684\u6b4c\u66f2\u3002\n\u6ce8\u610f\uff1a\u6b64\u63d2\u4ef6\u76ee\u524d\u4e0d\u5141\u8bb8\u60a8\u64ad\u653e\u5b9e\u9645\u7684\u4e50\u66f2\u3002",
         "InternalName": "orchestrion",
-        "AssemblyVersion": "1.0.0.0",
+        "AssemblyVersion": "1.0.0.1",
         "RepoUrl": "https://github.com/lmcintyre/OrchestrionPlugin",
         "ApplicableVersion": "any",
         "Tags": [
@@ -1233,7 +1287,7 @@
         "CategoryTags": [
             "sound"
         ],
-        "LastUpdated": "1647562713"
+        "LastUpdated": "1647896930"
     },
     {
         "Author": "Haplo064",
@@ -1264,7 +1318,7 @@
         "CategoryTags": [
             "UI"
         ],
-        "LastUpdated": "1647562713"
+        "LastUpdated": "1647896930"
     },
     {
         "Author": "Caraxi",
@@ -1285,7 +1339,7 @@
         "CategoryTags": [
             "UI"
         ],
-        "LastUpdated": "1647562713"
+        "LastUpdated": "1647896930"
     },
     {
         "Author": "ascclemens",
@@ -1307,7 +1361,7 @@
             "UI",
             "jobs"
         ],
-        "LastUpdated": "1647562713"
+        "LastUpdated": "1647896930"
     },
     {
         "Author": "Xorus",
@@ -1341,7 +1395,7 @@
         "CategoryTags": [
             "jobs"
         ],
-        "LastUpdated": "1647562713"
+        "LastUpdated": "1647896930"
     },
     {
         "Author": "tesu",
@@ -1370,7 +1424,7 @@
         "CategoryTags": [
             "inventory"
         ],
-        "LastUpdated": "1647562713"
+        "LastUpdated": "1647896930"
     },
     {
         "Author": "fmauNeko",
@@ -1392,7 +1446,7 @@
             "UI",
             "inventory"
         ],
-        "LastUpdated": "1647562713"
+        "LastUpdated": "1647896930"
     },
     {
         "Author": "attick",
@@ -1416,7 +1470,30 @@
         "CategoryTags": [
             "jobs"
         ],
-        "LastUpdated": "1647562713"
+        "LastUpdated": "1647896930"
+    },
+    {
+        "Author": "goat",
+        "Name": "Wotsit",
+        "Description": "Adds a convenient quick search akin to Spotlight that lets you open game windows, teleport, find wiki articles, and more.\nPress Control + T to open the search window. This can be changed by searching for \"Wotsit Settings\".",
+        "InternalName": "Dalamud.FindAnything",
+        "AssemblyVersion": "1.0.1.3",
+        "ApplicableVersion": "any",
+        "Tags": [
+            "find",
+            "teleport",
+            "wiki"
+        ],
+        "DalamudApiLevel": 5,
+        "Punchline": "Find anything, go anywhere, in style.",
+        "DownloadLinkInstall": "https://service-knj2phup-1253720819.sh.apigw.tencentcs.com/release/dalamudcounter-1623520723?plugin=Dalamud.FindAnything&isUpdate=False&isTesting=False&branch=cn-api5",
+        "DownloadLinkUpdate": "https://service-knj2phup-1253720819.sh.apigw.tencentcs.com/release/dalamudcounter-1623520723?plugin=Dalamud.FindAnything&isUpdate=True&isTesting=False&branch=cn-api5",
+        "DownloadLinkTesting": "https://service-knj2phup-1253720819.sh.apigw.tencentcs.com/release/dalamudcounter-1623520723?plugin=Dalamud.FindAnything&isUpdate=False&isTesting=True&branch=cn-api5",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadCount": 0,
+        "CategoryTags": [],
+        "LastUpdated": "1647896930"
     },
     {
         "Author": "Caraxi",
@@ -1437,7 +1514,7 @@
         "CategoryTags": [
             "UI"
         ],
-        "LastUpdated": "1647562713"
+        "LastUpdated": "1647896930"
     },
     {
         "Author": "Bluefissure",
@@ -1457,7 +1534,7 @@
         "CategoryTags": [
             "other"
         ],
-        "LastUpdated": "1647562713"
+        "LastUpdated": "1647896930"
     },
     {
         "Author": "MgAl2O4",
@@ -1492,7 +1569,7 @@
             "utility",
             "sound"
         ],
-        "LastUpdated": "1647562713"
+        "LastUpdated": "1647896930"
     },
     {
         "Author": "kalilistic",
@@ -1520,7 +1597,7 @@
             "UI",
             "utility"
         ],
-        "LastUpdated": "1647562713"
+        "LastUpdated": "1647896930"
     },
     {
         "Author": "Eternita",
@@ -1541,7 +1618,7 @@
         "CategoryTags": [
             "UI"
         ],
-        "LastUpdated": "1647562713"
+        "LastUpdated": "1647896930"
     },
     {
         "Author": "daemitus",
@@ -1566,7 +1643,7 @@
         "CategoryTags": [
             "minigames"
         ],
-        "LastUpdated": "1647562713"
+        "LastUpdated": "1647896930"
     },
     {
         "Author": "ocealot",
@@ -1591,7 +1668,7 @@
         "CategoryTags": [
             "UI"
         ],
-        "LastUpdated": "1647562713"
+        "LastUpdated": "1647896930"
     },
     {
         "Author": "Pohky",
@@ -1613,7 +1690,7 @@
             "UI",
             "utility"
         ],
-        "LastUpdated": "1647562713"
+        "LastUpdated": "1647896930"
     },
     {
         "Author": "ocealot",
@@ -1638,7 +1715,31 @@
         "CategoryTags": [
             "UI"
         ],
-        "LastUpdated": "1647562713"
+        "LastUpdated": "1647896930"
+    },
+    {
+        "Author": "Dragon",
+        "Name": "Hunt Buddy",
+        "Description": "A daily hunt bill tracker",
+        "InternalName": "HuntBuddy",
+        "AssemblyVersion": "0.1.2.0",
+        "RepoUrl": "https://github.com/SheepGoMeh/HuntBuddy",
+        "ApplicableVersion": "any",
+        "Tags": [
+            "Hunt",
+            "Daily",
+            "Utility"
+        ],
+        "DalamudApiLevel": 5,
+        "Punchline": "Helps you track your daily hunt bills",
+        "DownloadLinkInstall": "https://service-knj2phup-1253720819.sh.apigw.tencentcs.com/release/dalamudcounter-1623520723?plugin=HuntBuddy&isUpdate=False&isTesting=False&branch=cn-api5",
+        "DownloadLinkUpdate": "https://service-knj2phup-1253720819.sh.apigw.tencentcs.com/release/dalamudcounter-1623520723?plugin=HuntBuddy&isUpdate=True&isTesting=False&branch=cn-api5",
+        "DownloadLinkTesting": "https://service-knj2phup-1253720819.sh.apigw.tencentcs.com/release/dalamudcounter-1623520723?plugin=HuntBuddy&isUpdate=False&isTesting=True&branch=cn-api5",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadCount": 0,
+        "CategoryTags": [],
+        "LastUpdated": "1647896930"
     },
     {
         "Author": "Caraxi",
@@ -1659,7 +1760,7 @@
         "CategoryTags": [
             "utility"
         ],
-        "LastUpdated": "1647562713"
+        "LastUpdated": "1647896930"
     },
     {
         "Author": "Bluefissure",
@@ -1683,7 +1784,7 @@
         "CategoryTags": [
             "UI"
         ],
-        "LastUpdated": "1647562713"
+        "LastUpdated": "1647896930"
     },
     {
         "Author": "Avaflow",
@@ -1705,7 +1806,7 @@
         "CategoryTags": [
             "other"
         ],
-        "LastUpdated": "1647562713"
+        "LastUpdated": "1647896930"
     },
     {
         "Author": "Caraxi",
@@ -1727,6 +1828,33 @@
             "inventory",
             "utility"
         ],
-        "LastUpdated": "1647562713"
+        "LastUpdated": "1647896930"
+    },
+    {
+        "Author": "r00telement",
+        "Name": "Player Tags",
+        "Description": "Lightweight job visibility in nameplates and chat. Create custom tags and add them to players with the context menu.",
+        "InternalName": "PlayerTags",
+        "AssemblyVersion": "1.2.0.0",
+        "RepoUrl": "https://github.com/r00telement/PlayerTags",
+        "ApplicableVersion": "any",
+        "Tags": [
+            "Jobs",
+            "UI"
+        ],
+        "DalamudApiLevel": 5,
+        "ImageUrls": [
+            "https://github.com/r00telement/PlayerTags/raw/main/PlayerTags/Resources/Promo/Nameplates_1.png",
+            "https://github.com/r00telement/PlayerTags/raw/main/PlayerTags/Resources/Promo/Chat_1.png"
+        ],
+        "IconUrl": "https://github.com/r00telement/PlayerTags/raw/main/PlayerTags/Resources/Promo/Icon.png",
+        "DownloadLinkInstall": "https://service-knj2phup-1253720819.sh.apigw.tencentcs.com/release/dalamudcounter-1623520723?plugin=PlayerTags&isUpdate=False&isTesting=False&branch=cn-api5",
+        "DownloadLinkUpdate": "https://service-knj2phup-1253720819.sh.apigw.tencentcs.com/release/dalamudcounter-1623520723?plugin=PlayerTags&isUpdate=True&isTesting=False&branch=cn-api5",
+        "DownloadLinkTesting": "https://service-knj2phup-1253720819.sh.apigw.tencentcs.com/release/dalamudcounter-1623520723?plugin=PlayerTags&isUpdate=False&isTesting=True&branch=cn-api5",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadCount": 0,
+        "CategoryTags": [],
+        "LastUpdated": "1647896930"
     }
 ]
