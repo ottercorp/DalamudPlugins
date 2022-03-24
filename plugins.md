@@ -72,8 +72,8 @@
 | Better Party Finder | ascclemens | 更好的组队搜索器。<br><br>在原本的过滤条件的基础上有如下的更新内容：<br><br>- 创建并切换过滤器预设<br>- 白名单/黑名单特定的任务和种类<br>- 添加角色名隐藏其发布的组队招募<br>- 删除超过最大装等的招募<br>- 通过装等范围进行过滤<br>- 通过特定的职业进行过滤（例如：机工+枪刃） |
 | Slide Cast | Haplo064 | 添加指示符，指示何时可以安全滑步 |
 | Adventurer in Need | Caraxi | 当某个随机任务缺少你指定的职业的时候，发送一个通知。/pbonus 打开设置界面 |
+| PartyIcons | shdwp | Adjusts player nameplates base on current content. For example you can display raid positions (that are assigned automatically by listening to the chat), job icons, or names with job icons.<br><br>Reverse-engineering effort achived by authors of JobIcons: haplo, daemitus, Loskh, wozaiha, without them this plugin would not be possible! |
 | Player Tags | r00telement | Lightweight job visibility in nameplates and chat. Create custom tags and add them to players with the context menu. |
-| Party List Layout | Caraxi | 自定义小队列表布局 |
 | Waymark Preset Plugin | PunishedPineapple | 标点预设插件，可以自由的导入导出编辑游戏内的标点预设。 |
 | Chat Bubbles | Haplo064 | 使用游戏内置的发言气泡来展示聊天内容 |
 | Market board | fmauNeko | 查询市场板。/pmb 打开 |
