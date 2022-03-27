@@ -18,7 +18,6 @@
 | Quest Map | ascclemens | 查看所有任务及其报酬<br>-搜索任务名称，报酬和所在地区（蛮族任务，宠物等）<br>-可交互式任务地图，能查看任务的目标或未解锁任务的解锁条件<br>-能查看尚未完成的任务详情窗口<br>-打开任务起始位置的地图或者它在任务列表中的信息 |
 | EngageTimer | Xorus | 倒计时插件。可以自定义倒计时的样式。同时提供了一个 WS 悬浮窗可以在 OBS 内使用以显示战斗时长 |
 | PriceCheck | kalilistic | 查价插件。通过按住快捷键+悬停在想要查询的物品上来查询。<br>数据来自 Universalis |
-| Remind Me | Caraxi | 显示状态效果和技能冷却时间的倒计时UI。 |
 | NotificationMaster | Eternita | 在您的游戏最小化时通知您有关游戏的各种事件。 |
 | Hunt Buddy | Dragon | A daily hunt bill tracker |
 | Ready Check Helper | PunishedPineapple | Displays the names of the players that were not ready in chat following the completion of a ready check, and optionally adds ready check status icons over the party and alliance lists. |
