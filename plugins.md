@@ -12,6 +12,7 @@
 | Oops, All Lalafells! | Avaflow | 把所有人的种族都变成拉拉肥！（或者其他种族）<br>/poal 打开配置 |
 | Glamaholic | ascclemens | 为幻化模板创建缓存<br>你可以导出、导出、分享你的幻化模板<br> |
 | Item Search | Caraxi | 高级物品搜索，根据指定的条件筛选物品。并且可以在没有拥有的情况下发送物品到聊天。 |
+| SoundSetter | karashiiro | A Dalamud plugin that allows volume control from anywhere, including gpose and cutscenes. |
 | Simple Tweaks Plugin | Caraxi | 一些小的功能优化的合集，目标是在不进行重大改动的情况下优化游戏体验<br>所有的功能都是可选的，并且默认关闭。访问我们的项目界面可以查看所有优化的列表。 |
 | DelvUI | jdsmith2816 | DelvUI 提供了一个高度配置的 HUD 替换，受 WoW 的 ElvUI 灵感支持 |
 | EnemyListDebuffs | Felys | Displays your debuffs on the enemy list. Original implementation credit to aers. |
