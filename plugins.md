@@ -9,6 +9,7 @@
 |---------------|---------------|-----------------|
 | Orchestrion Plugin | Meli & perchbird | Orchestrion 插件允许您更改当前游戏中的 BGM。 它包含<br>一个游戏中最准确的歌曲列表， 所以你确切知道正在播放<br>哪首曲子以便日后查找！ 也可添加添加喜欢的歌曲。<br>注意：此插件目前不允许您播放实际的乐曲。 |
 | EngageTimer | Xorus | 倒计时插件。可以自定义倒计时的样式。同时提供了一个 WS 悬浮窗可以在 OBS 内使用以显示战斗时长 |
+| Chill Frames | MidoriKami | Tired of your GPU melting your face off while just running around? Why render at 240 FPS when you're just staring at that gathering node? Fret no more! Chill Frames allows you to limite the games framerate while out of combat! |
 | EnemyListDebuffs | Felys | Displays your debuffs on the enemy list. Original implementation credit to aers. |
 | Hunt Buddy | Dragon | A daily hunt bill tracker |
 | Market board | fmauNeko | 查询市场板。/pmb 打开 |

@@ -3,6 +3,8 @@
     "orchestrion-Punchline": "Adds a simple front-end for browsing and changing the in-game BGM.",
     "EngageTimer": "Finally, display all the numbers when starting a countdown!\n\nFeatures :\n- Big countdown that displays all the numbers\n- Customizable big-number textures (default, yellow, WoW style or custom files)\n- Floating window with combat timer and countdown\n- OBS browser-source compatible page\n\nWhy the OBS thing ? Well, it can be useful if you want a big stylized stopwatch in your recordings.\nSee repository for more info.\n\nFeel free so send me feedback, bugs and potential improvements!",
     "EngageTimer-Punchline": "Combat countdown with all numbers, stopwatch and OBS support",
+    "ChillFrames": "Tired of your GPU melting your face off while just running around? Why render at 240 FPS when you're just staring at that gathering node? Fret no more! Chill Frames allows you to limite the games framerate while out of combat!",
+    "ChillFrames-Punchline": "Limit Framerate while out of combat",
     "EnemyListDebuffs": "Displays your debuffs on the enemy list. Original implementation credit to aers.",
     "HuntBuddy": "A daily hunt bill tracker",
     "HuntBuddy-Punchline": "Helps you track your daily hunt bills",
