@@ -29,6 +29,7 @@
 | Good Memory CN | ascclemens, VergilGao | 在物品描述中添加一个指示器来显示您是否已经获得该物品。<br><br>此指示器在物品描述中的底部显示“已获得：是/否”。<br>只作用于可解锁的物品，比如乐谱、宠物等。<br><br>SE 竟然说这个插件的功能无法实现！！ |
 | Adventurer in Need | Caraxi | 当某个随机任务缺少你指定的职业的时候，发送一个通知。/pbonus 打开设置界面 |
 | Reset enmity command | akira0245 | 添加清除木人仇恨的文本指令。 |
+| Daily Duty CN | MidoriKami, NiGuangOwO | 追踪并完成那些日常和周常任务。 |
 | RezPls | Ottermandias | 更轻松的展示谁在复活谁、谁已经被复活了、谁身上有 Debuff 等状态。在野外和团队列表也有效。 |
 | Sound Filter | ascclemens | 为游戏内过滤/添加音效<br>- 移除你不喜欢的音效<br>- 移除某个情感动作的声音<br>- 移除特定的 BGM |
 | The Great Separator | ascclemens | 为各种数字添加分隔符。<br><br>- 伤害/治疗数字  (不是 DoT 或其他玩家的数字)<br>- 小队名单上的 HP<br>- 热键栏上的技能消耗<br>- 弹出帮助中的技能消耗 |
