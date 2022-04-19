@@ -1,0 +1,22 @@
+{
+  "Author": "he0119",
+  "Name": "Blind Box",
+  "InternalName": "BlindBoxPlugin",
+  "AssemblyVersion": "1.2.0.2",
+  "Description": "用来统计盲盒中物品获得情况的插件。\n/blindbox 打开盲盒信息界面。\n/blindbox update 手动刷新数据。\n/blindbox settings 打开设置界面。",
+  "ApplicableVersion": "any",
+  "RepoUrl": "https://github.com/he0119/FFXIVBlindBoxPlugin/",
+  "Tags": [
+    "blindbox"
+  ],
+  "CategoryTags": [
+    "utility"
+  ],
+  "DalamudApiLevel": 6,
+  "LoadPriority": 0,
+  "ImageUrls": [
+    "https://raw.githubusercontent.com/he0119/FFXIVBlindBoxPlugin/main/images/image1.png"
+  ],
+  "IconUrl": "https://raw.githubusercontent.com/he0119/FFXIVBlindBoxPlugin/main/images/icon.png",
+  "Punchline": "查看盲盒中物品的获得情况。"
+}
