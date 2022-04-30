@@ -57,6 +57,7 @@
 | Peeping Tom | ascclemens | 显示谁正在或者曾经以你为目标。 |
 | StarlightBreaker | Loskh | 关闭国服聊天敏感内容的屏蔽。 |
 | PingPlugin | karashiiro | Dalamud 的 ping 显示插件。 |
+| GatherBuddy | Ottermandias | Adds commands to simplify gathering by finding nodes and fish and their locations via item name and a UI to keep track of special uptime and weather conditions. |
 | OBSPlugin | Bluefissure | 通过 Websocket 控制 OBS 的插件。 |
 | Daily Duty CN | MidoriKami, NiGuangOwO | 追踪并完成那些日常和周常任务。 |
 | Waymark Preset Plugin | PunishedPineapple | 标点预设插件，可以自由的导入导出编辑游戏内的标点预设。 |

@@ -88,6 +88,8 @@
     "StarlightBreaker": "Turn off profanity filter.",
     "StarlightBreaker-Punchline": "Turn off profanity filter.",
     "PingPlugin": "A ping display plugin for Dalamud.",
+    "GatherBuddy": "Adds commands to simplify gathering by finding nodes and fish and their locations via item name and a UI to keep track of special uptime and weather conditions.",
+    "GatherBuddy-Punchline": "Simplify Gathering and Fishing.",
     "OBSPlugin": "A plugin to control OBS by websocket.",
     "DailyDuty": "\u8ffd\u8e2a\u5e76\u5b8c\u6210\u90a3\u4e9b\u65e5\u5e38\u548c\u5468\u5e38\u4efb\u52a1\u3002",
     "DailyDuty-Punchline": "\u8f7b\u677e\u8ffd\u8e2a\u65e5\u5e38\u548c\u5468\u5e38\u4efb\u52a1\u3002",
