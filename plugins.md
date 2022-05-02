@@ -82,6 +82,7 @@
 | Chat Bubbles | Haplo064 | 使用游戏内置的发言气泡来展示聊天内容 |
 | Pixel Perfect | Haplo064 | 显示判定点。 |
 | DelvUI | jdsmith2816 | DelvUI 提供了一个高度配置的 HUD 替换，受 WoW 的 ElvUI 灵感支持 |
+| AetherSense Redux (18+) | digital pet，AinaSnow | 一个高级震动反馈插件，用于游戏控制器，成人玩具等支持Buttplug.io的设备需要安装Intiface Desktop，详情参阅插件主页。 |
 | VFXEditor | ocealot | 查看、编辑 VFX，同时可以导出为 Penumbra Mod |
 | WOLdo | Haplo064, maintained by Franz | 用来显示当前所在地图名字的可移动文本悬浮窗。 |
 | Ready Check Helper | PunishedPineapple | Displays the names of the players that were not ready in chat following the completion of a ready check, and optionally adds ready check status icons over the party and alliance lists. |
