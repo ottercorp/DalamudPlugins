@@ -136,6 +136,8 @@
     "PixelPerfect-Punchline": "Reveals your hitbox, and an optional ring.",
     "DelvUI": "DelvUI provides a highly configurable HUD replacement and is highly inspired by ElvUI from WoW",
     "DelvUI-Punchline": "A modern HUD replacement built for customization.",
+    "PrefPro": "Your character is personal, so you should be able to have NPCs refer to them\nthe way that you want. With PrefPro, you can control which text option\nwill appear when an NPC uses dialogue meant for a specific in-game gender.\nThis allows you to use a female player model and be referred to as male, and\nvice versa. In addition, there are a few name customization options - if you\nwant to only be referred to by your last name, so be it.\nNote: This plugin currently will not swap voiced cutscene dialogue.",
+    "PrefPro-Punchline": "Changes in-game dialogue to reference your desired gender and name.",
     "AetherSenseRedux": "\u4e00\u4e2a\u9ad8\u7ea7\u9707\u52a8\u53cd\u9988\u63d2\u4ef6\uff0c\u7528\u4e8e\u6e38\u620f\u63a7\u5236\u5668\uff0c\u6210\u4eba\u73a9\u5177\u7b49\u652f\u6301Buttplug.io\u7684\u8bbe\u5907\u9700\u8981\u5b89\u88c5Intiface Desktop\uff0c\u8be6\u60c5\u53c2\u9605\u63d2\u4ef6\u4e3b\u9875\u3002",
     "AetherSenseRedux-Punchline": "\u57fa\u4e8eIntiface\u7684\u9ad8\u7ea7\u9707\u52a8\u53cd\u9988",
     "VFXEditor": "View and modify vfxs, as well as create mods for them. Icon by PAPACHIN",

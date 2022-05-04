@@ -82,6 +82,7 @@
 | Chat Bubbles | Haplo064 | 使用游戏内置的发言气泡来展示聊天内容 |
 | Pixel Perfect | Haplo064 | 显示判定点。 |
 | DelvUI | jdsmith2816 | DelvUI 提供了一个高度配置的 HUD 替换，受 WoW 的 ElvUI 灵感支持 |
+| PrefPro | perchbird | 你的角色是你创造的，所以你有权让NPC们用你希望的方式与你的角色交流。这个插件可以提供让你在NPC与你进行角色性别有关的对话时改变性别的选项，比如让NPC称你的烧0角色为猛1，反之亦然。另外，部分对话中你还可以设置NPC要以姓还是名称呼你的角色（国服应该不支持）<br>注意：本插件不能修改带配音的过场对话 |
 | AetherSense Redux (18+) | digital pet，AinaSnow | 一个高级震动反馈插件，用于游戏控制器，成人玩具等支持Buttplug.io的设备需要安装Intiface Desktop，详情参阅插件主页。 |
 | VFXEditor | ocealot | 查看、编辑 VFX，同时可以导出为 Penumbra Mod |
 | WOLdo | Haplo064, maintained by Franz | 用来显示当前所在地图名字的可移动文本悬浮窗。 |
