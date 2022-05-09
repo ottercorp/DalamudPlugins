@@ -8,7 +8,7 @@ on:
     
 jobs:
   update-counts:
-    if: github.repository == 'Bluefissure/DalamudPlugins'
+    if: github.repository == 'ottercorp/DalamudPlugins'
     runs-on: ubuntu-18.04
     timeout-minutes: 10
 
