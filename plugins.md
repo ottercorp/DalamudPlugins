@@ -52,6 +52,7 @@
 | Burnt Toast | ascclemens | 隐藏你不想看到的 Toast 通知 |
 | ChatCoordinates | kij | 根据聊天内容在地图上放置标记<br>使用 /coord 打开配置界面看更详细的用法 |
 | No Kill Plugin | Bluefissure | 一个防止游戏自动关闭的简单插件 |
+| Character Panel Refined | Kouzukii | 完善角色面板，显示有用的信息，比如直击与暴击率。 |
 | MapLinker | Bluefissure | 自动记录聊天中的地图标记并在之后查询。 |
 | Wotsit | goat | Adds a convenient quick search akin to Spotlight that lets you open game windows, teleport, find wiki articles, and more.<br>Press Control + T to open the search window. This can be changed by searching for "Wotsit Settings". |
 | Peeping Tom | ascclemens | 显示谁正在或者曾经以你为目标。 |

@@ -79,6 +79,7 @@
     "ChatCoordinates": "Places flag marker on map from coordinates in chat.\nOpens map with given coordinates for current or given zone.\nSee \"/coord\" for configuration and usage info.",
     "ChatCoordinates-Punchline": "Places flag marker on map from coordinates in chat.",
     "NoKillPlugin": "A simple plugin that prevent the game from killing itself.",
+    "CharacterPanelRefined": "\u5b8c\u5584\u89d2\u8272\u9762\u677f\uff0c\u663e\u793a\u6709\u7528\u7684\u4fe1\u606f\uff0c\u6bd4\u5982\u76f4\u51fb\u4e0e\u66b4\u51fb\u7387\u3002",
     "MapLinker": "Automatically record the maplinks in chat and retrieval later.",
     "MapLinker-Punchline": "Record the maplinks in chat",
     "Dalamud.FindAnything": "Adds a convenient quick search akin to Spotlight that lets you open game windows, teleport, find wiki articles, and more.\nPress Control + T to open the search window. This can be changed by searching for \"Wotsit Settings\".",
