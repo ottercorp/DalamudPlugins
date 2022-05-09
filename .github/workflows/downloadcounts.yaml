@@ -22,7 +22,7 @@ jobs:
       run: |
         wget -O downloadcounts.json https://service-knj2phup-1253720819.sh.apigw.tencentcs.com/release/dalamudcounter-1623520723/get-dlcount
     - name: Commit files
-      continue-on-error: true
+      continue-on-error: false
       run: |
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
