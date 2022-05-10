@@ -10,6 +10,7 @@
 | DeepDungeonDex | Strati | 深层迷宫怪物图鉴，可以显示目标怪物的攻击类型、主观评价的危险程度、眩晕耐性、以及对其一些机制的概述。危险程度是针对单人玩家是否要谨慎对待来进行评价的，并且假定玩家不是一个一无所知的初见，他对深层迷宫的机制和所处的层数相对熟悉。这些信息来自众包，相对比较准确，但如果你发现任何错误之处，或者你想提交未测试的数据，请在 GitHub 上提交 issue ，或是在 Deep Dungeons 和 QuickLauncher 的 Discord 服务器内和我联系。 |
 | RepairMe | Chalkos | 提醒修装备插件 /repairme 打开设置 |
 | Macro Chain | Caraxi | 允许你在一个宏的末尾使用 /nextmacro 来连接下一个宏<br>在 宏 #01的末尾添加 /nextmacro 将会自动执行 宏 #02<br>在 宏 #01的末尾添加 /nextmacro down 将会自动执行 宏 #11<br>也可以在聊天窗输入 /runmacro 来执行任意宏，不过该指令在其他宏执行时不生效 |
+| Fader Plugin CN | Kouzukii | 可以让你设定不同状态下（如闲置、战斗、生产等）的HUD显示，比如挂机时隐藏部分热键栏和量表以获得更干净而宽阔的视野。支持延迟，不会修改原本系统設置。 |
 | VisibilityCN | Dragon | 允许您隐藏玩家、陆行鸟和宠物。<br>同时包括 VoidList，一个更好的黑名单。<br>可通过 /pvis 访问<br>可通过 /xlhelp 获得更多信息 |
 | EngageTimer | Xorus | 倒计时插件。可以自定义倒计时的样式。同时提供了一个 WS 悬浮窗可以在 OBS 内使用以显示战斗时长 |
 | QuestAWAY | Eternita | 在地图上隐藏你不想看到的标记，包括但不限于任务标记等。 |
