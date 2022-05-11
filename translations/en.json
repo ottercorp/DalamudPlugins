@@ -149,6 +149,7 @@
     "WheresWOLdo-Punchline": "Making it easier to know where you are.",
     "ReadyCheckHelper": "Displays the names of the players that were not ready in chat following the completion of a ready check, and optionally adds ready check status icons over the party and alliance lists.",
     "ReadyCheckHelper-Punchline": "Extends the game's built-in ready check.",
+    "NamePlateDebuffs": "Displays your debuffs on enemy nameplates.",
     "PriceCheck": "To check prices, hold your keybind and then hover over an item or via the item's context menu.\nThe prices are pulled from the crowd-sourced site Universalis.",
     "PriceCheck-Punchline": "Quickly price check your items."
 }

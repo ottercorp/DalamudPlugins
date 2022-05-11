@@ -89,4 +89,5 @@
 | VFXEditor | ocealot | 查看、编辑 VFX，同时可以导出为 Penumbra Mod |
 | WOLdo | Haplo064, maintained by Franz | 用来显示当前所在地图名字的可移动文本悬浮窗。 |
 | Ready Check Helper | PunishedPineapple | Displays the names of the players that were not ready in chat following the completion of a ready check, and optionally adds ready check status icons over the party and alliance lists. |
+| NamePlateDebuffs | aers, JHerig | Displays your debuffs on enemy nameplates. |
 | PriceCheck | kalilistic | 查价插件。通过按住快捷键+悬停在想要查询的物品上来查询。<br>数据来自 Universalis |
