@@ -12,7 +12,7 @@
 | Globetrotter | ascclemens | 自动显示藏宝图的位置。 |
 | VisibilityCN | Dragon | 允许您隐藏玩家、陆行鸟和宠物。<br>同时包括 VoidList，一个更好的黑名单。<br>可通过 /pvis 访问<br>可通过 /xlhelp 获得更多信息 |
 | Compass | Chivalrik | 检查仓库，了解如何报告丢失/错误的过滤器<br>和隐藏选项。 在安装常见的警告后，查看配置窗口中常见的常见问题标签<br> |
-| Chat Bubbles | Haplo064 | 使用游戏内置的发言气泡来展示聊天内容 |
+| Chat Bubbles CN | Haplo064 | 使用游戏内置的发言气泡来展示聊天内容 |
 | EnemyListDebuffs | Felys | Displays your debuffs on the enemy list. Original implementation credit to aers. |
 | Accurate CountDown | Haplo064 | Shows the current countdown time. |
 | The Great Separator | ascclemens | 为各种数字添加分隔符。<br><br>- 伤害/治疗数字  (不是 DoT 或其他玩家的数字)<br>- 小队名单上的 HP<br>- 热键栏上的技能消耗<br>- 弹出帮助中的技能消耗 |
