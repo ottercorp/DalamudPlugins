@@ -1,14 +1,20 @@
 {
-    "Author": "Haplo064",
-    "Name": "Chat Bubbles",
-	"Punchline": "Enables in-game chat bubbles.",
-    "InternalName": "ChatBubbles",
-    "Description": "Using native chat bubble display, see who is talking about what in a more natural fashion.",
-    "Tags": [ "UI", "Roleplay", "RP", "Bubbles", "Chat"],
-	"RepoUrl": "https://github.com/Haplo064/ChatBubbles",
-    "AssemblyVersion": "1.3.2.2",
-	"ApplicableVersion": "any",
-	"DalamudApiLevel": 5,
-	"LoadPriority": 0,
-	"Changelog": "Fixed custom emotes (again). Added better colour picker ui."
+  "Author": "Haplo064",
+  "Name": "Chat Bubbles CN",
+  "InternalName": "ChatBubbles",
+  "AssemblyVersion": "2.1.0.0",
+  "Description": "使用原生气泡显示聊天内容，以更自然的方式查看谁在谈论什么。",
+  "ApplicableVersion": "any",
+  "RepoUrl": "https://github.com/Haplo064/ChatBubbles",
+  "Tags": [
+    "UI",
+    "Roleplay",
+    "RP",
+    "Bubbles",
+    "Chat"
+  ],
+  "DalamudApiLevel": 5,
+  "LoadPriority": 0,
+  "Punchline": "Enables in-game chat bubbles.",
+  "Changelog": "Further stability Improvements. Added Yalm distance cap. Added an easter egg for a friend."
 }
