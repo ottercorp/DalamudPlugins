@@ -43,7 +43,7 @@
 | TriadBuddy | MgAl2O4 | 幻卡求解器，只能用于NPC对战<br>- 高亮下一步的位置<br>- 为NPC求算最优卡组<br>- 在幻卡列表界面添加了更多的详细信息 |
 | Namingway | ascclemens | 为能力和 Buff 重新命名 |
 | Damage Info | perchbird | 为不同属性的伤害设置不同的颜色，可配置项包括伤害来源，具体染色位置等等 |
-| Pixel Perfect | Haplo064 | 显示判定点。 |
+| Pixel Perfect CN | Haplo064 | 显示判定点。 |
 | BigPlayerDebuffs | d87 | Scales up buffs/debuffs applied by you on Target Status frames |
 | JobIcons | haplo, daemitus, Loskh, wozaiha | 名字好蠢，用职业图标替换名牌。 |
 | PriceCheck | kalilistic | 查价插件。通过按住快捷键+悬停在想要查询的物品上来查询。<br>数据来自 Universalis |
