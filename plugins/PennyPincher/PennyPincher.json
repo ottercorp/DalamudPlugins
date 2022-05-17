@@ -2,8 +2,8 @@
   "Author": "tesu",
   "Name": "Penny Pincher",
   "InternalName": "PennyPincher",
-  "AssemblyVersion": "1.4.0.2",
-  "Description": "Plugin for simplifying \"pennying\" (undercutting current lowest offer by 1).\n\nThe usual workflow for this is the following:\n1. Open up the adjust price menu for the item you're undercutting\n2. Click on the compare prices menu to view the current listings\n3. Take a mental note of what the current lowest offer is\n4. Subtract one from it\n5. Close the current listings window\n6. Update your item's price with the number you noted\n7. Confirm your new price\n\nThis plugin eliminates the mental notekeeping steps in the middle by automatically copying the number you want onto your clipboard when you open the current listings window.  \n\nTherefore, your new workflow becomes this:\n1. Open up the adjust price menu for the item you're undercutting\n2. Click on the compare prices menu to view the current listings\n3. Close the current listings window\n4. Paste the undercut value in\n5. Confirm your new price\n\nThis both speeds up the process and reduces room for error from typos.",
+  "AssemblyVersion": "1.4.0.3",
+  "Description": "用来“压一压”(将交易板上的最低价压一金)的插件\n\n正常的压价流程：\n1.打开调整物品价格的窗口\n2.查看物品在市场上的时价\n3.记下目前最低的时价\n4.使用高超的数学技巧算出压价一块后的价格\n5.关掉市场时价窗口\n6.将算出的数字填入你的售价\n7.确认物品的售价\n\n但有了这个神奇的插件，就可以在你打开市场时价窗口时，自动根据最低价计算压价后的价格并复制到你的剪贴板上，省去了困难的计算压价环节。\n\n有了这个插件，就可以轻松的完成压价：\n1.打开调整物品价格的窗口\n2.查看物品在市场上的时价\n3.关掉市场时价窗口\n4.将插件算出的数字粘贴到你的售价\n5.确认物品的售价\n\n这样省去了复杂的计算步骤，还能防止手滑少填一位数字",
   "ApplicableVersion": "any",
   "RepoUrl": "https://github.com/tesu/PennyPincher",
   "Tags": [
@@ -16,6 +16,6 @@
   "LoadPriority": 0,
   "ImageUrls": [],
   "IconUrl": "https://github.com/tesu/PennyPincher/raw/master/images/icon.png",
-  "Punchline": "Copies 1 below the cheapest offer to your clipboard when you check marketboard prices",
+  "Punchline": "查看市场时价时自动复制当前最低价格减1的价格",
   "Changelog": "Brings back /penny hq, by popular demand."
 }
