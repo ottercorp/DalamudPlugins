@@ -12,6 +12,7 @@
 | Globetrotter | ascclemens | 自动显示藏宝图的位置。 |
 | VisibilityCN | Dragon | 允许您隐藏玩家、陆行鸟和宠物。<br>同时包括 VoidList，一个更好的黑名单。<br>可通过 /pvis 访问<br>可通过 /xlhelp 获得更多信息 |
 | Compass | Chivalrik | 检查仓库，了解如何报告丢失/错误的过滤器<br>和隐藏选项。 在安装常见的警告后，查看配置窗口中常见的常见问题标签<br> |
+| No Tank You CN | MidoriKami | 当您或队友的忘记重要的事情，如盾姿、舞伴、关心、食物等的时候，显示一条提醒，食物警察的出警好帮手. |
 | Chat Bubbles CN | Haplo064 | 使用游戏内置的发言气泡来展示聊天内容 |
 | EnemyListDebuffs | Felys | Displays your debuffs on the enemy list. Original implementation credit to aers. |
 | Accurate CountDown | Haplo064 | Shows the current countdown time. |

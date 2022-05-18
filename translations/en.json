@@ -9,6 +9,8 @@
     "Visibility-Punchline": "Allows you to hide players, pets, chocobos and minions.",
     "Compass": "Check-out the repository for steps on how to report missing/wrong filter\nand hiding options. Have a look at the FAQ tab in the config window\nafter install for common caveats.",
     "Compass-Punchline": "Monodimensional compass for your adventures.",
+    "NoTankYou": "\u5f53\u60a8\u6216\u961f\u53cb\u7684\u5fd8\u8bb0\u91cd\u8981\u7684\u4e8b\u60c5\uff0c\u5982\u76fe\u59ff\u3001\u821e\u4f34\u3001\u5173\u5fc3\u3001\u98df\u7269\u7b49\u7684\u65f6\u5019\uff0c\u663e\u793a\u4e00\u6761\u63d0\u9192\uff0c\u98df\u7269\u8b66\u5bdf\u7684\u51fa\u8b66\u597d\u5e2e\u624b.",
+    "NoTankYou-Punchline": "\u5bf9\u5fd8\u8bb0\u91cd\u8981\u4e8b\u60c5\u7684\u884c\u4e3a\u53d1\u3010\u51fa\u8b66\u3011\u544a",
     "ChatBubbles": "\u4f7f\u7528\u539f\u751f\u6c14\u6ce1\u663e\u793a\u804a\u5929\u5185\u5bb9\uff0c\u4ee5\u66f4\u81ea\u7136\u7684\u65b9\u5f0f\u67e5\u770b\u8c01\u5728\u8c08\u8bba\u4ec0\u4e48\u3002",
     "ChatBubbles-Punchline": "Enables in-game chat bubbles.",
     "EnemyListDebuffs": "Displays your debuffs on the enemy list. Original implementation credit to aers.",
