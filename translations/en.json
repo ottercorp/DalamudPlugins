@@ -53,6 +53,8 @@
     "QuestAWAY": "Removes unwanted icons from your map. Not only quests, any icons.",
     "QuestAWAY-Punchline": "Removes unwanted icons from your map.",
     "WinTitle": "Allows you to change your game window title",
+    "DeviceChangeFix": "Stops controller input from freezing randomly.",
+    "DeviceChangeFix-Punchline": "Stops controller input from freezing randomly.",
     "VFXEditor": "View and modify vfxs, as well as create mods for them. Icon by PAPACHIN",
     "VFXEditor-Punchline": "VFX editor and viewer",
     "ReadyCheckHelper": "Displays the names of the players that were not ready in chat following the completion of a ready check, and optionally adds ready check status icons over the party and alliance lists.",

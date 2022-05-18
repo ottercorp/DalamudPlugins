@@ -36,6 +36,7 @@
 | RepairMe | Chalkos | 提醒修装备插件 /repairme 打开设置 |
 | QuestAWAY | Eternita | 在地图上隐藏你不想看到的标记，包括但不限于任务标记等。 |
 | Window Title Changer | Azure Gem | 改变游戏窗口标题 |
+| DeviceChangeFix | PGGB | Stops controller input from freezing randomly. |
 | VFXEditor | ocealot | 查看、编辑 VFX，同时可以导出为 Penumbra Mod |
 | Ready Check Helper | PunishedPineapple | Displays the names of the players that were not ready in chat following the completion of a ready check, and optionally adds ready check status icons over the party and alliance lists. |
 | Sonar | Sonar Team | 狩猎插件，自动上报&游戏内推送消息。/sonar 打开界面 /sonarconfig 打开配置。这个插件是闭源的，相关支持请访问 Sonar Support Discord |
