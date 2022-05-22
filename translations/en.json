@@ -149,6 +149,8 @@
     "PingPlugin": "A ping display plugin for Dalamud.",
     "orchestrion": "Orchestrion Plugin allows you to change the currently playing in-game BGM. It includes\na curated list of the most accurate in-game song titles, so you know exactly what's playing,\nif you want to know later! Add favorite songs to separate them from the rest.\nNote: This plugin does not currently allow you to play actual orchestrion songs.",
     "orchestrion-Punchline": "Adds a simple front-end for browsing and changing the in-game BGM.",
+    "owofy": "\u8fd9\u4e2a\u63d2\u4ef6\u4f1a\u5bf9\u4f60\u7684\u804a\u5929\u6846\u5185\u5bb9\u8fdb\u884c\u98ce\u683c\u5316\u5904\u7406\uff0c\u7528\u4e8e\u52fe\u8d77\u672c\u4e16\u7eaa\u521d\u671f\u7684\u7f8e\u597d\u56de\u5fc6\uff08\u6216\u9ed1\u5386\u53f2\uff09\u3002",
+    "owofy-Punchline": "\u5c06\u804a\u5929\u6846\u5185\u5bb9\u53d8\u7684\u66f4\u52a0\u6709\u8da3",
     "ChatAlerts": "",
     "ChatAlerts-Punchline": "\u9ad8\u4eae\u548c\u58f0\u97f3\u63d0\u9192\u804a\u5929\u7a97\u91cc\u7684\u6307\u5b9a\u5173\u952e\u8bcd\u4ee5\u514d\u9519\u8fc7\u91cd\u8981\u6216\u8005\u611f\u5174\u8da3\u7684\u5185\u5bb9\uff0c\u4f8b\u5982\u201c\u6da9\u56fe\u201d\uff0c\u201c\u767d\u5996\u7cbe\u201d\uff0c\u201cNTR\u201d\uff0c\u201c\u4e1d\u74dc\u5361\u592b\u5361\u201d\u3002\u652f\u6301\u6b63\u5219\u8868\u8fbe\u5f0f\uff0c\u652f\u6301\u6309\u4eba\u540d\u6216\u5185\u5bb9\u8fc7\u6ee4\u3002",
     "SlideCastPlugin": "Adds an indicator of when it's safe to move while casting",

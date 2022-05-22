@@ -89,6 +89,7 @@
 | Burnt Toast | ascclemens | 隐藏你不想看到的 Toast 通知 |
 | PingPlugin | karashiiro | Dalamud 的 ping 显示插件。 |
 | Orchestrion Plugin | Meli & perchbird | Orchestrion 插件允许您更改当前游戏中的 BGM。 它包含<br>一个游戏中最准确的歌曲列表， 所以你确切知道正在播放<br>哪首曲子以便日后查找！ 也可添加添加喜欢的歌曲。<br>注意：此插件目前不允许您播放实际的乐曲。 |
+| OwO CN | goat, modded by Franz | 这个插件会对你的聊天框内容进行风格化处理，用于勾起本世纪初期的美好回忆（或黑历史）。 |
 | ChatAlerts CN | Caraxi & Ottermandias |  |
 | Slide Cast | Haplo064 | 添加指示符，指示何时可以安全滑步 |
 | QoL Bar | UnknownX | 一个给聊天命令或其他插件、宏等等提供简单、可定制界面的插件<br>最开始这个插件会显示为界面下方的一个小方框。 |
