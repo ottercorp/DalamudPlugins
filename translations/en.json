@@ -107,6 +107,8 @@
     "ChillFrames-Punchline": "Limit Framerate while out of combat",
     "GatherBuddy": "Adds commands to simplify gathering by finding nodes and fish and their locations via item name and a UI to keep track of special uptime and weather conditions.",
     "GatherBuddy-Punchline": "Simplify Gathering and Fishing.",
+    "Dalamud.FullscreenCutscenes": "\u8fd9\u4e2a\u63d2\u4ef6\u5220\u9664\u4e86\u5728\u5bbd\u5c4f\u663e\u793a\u5668\u4e0a\u89c2\u770b\u8fc7\u573a\u52a8\u753b\u65f6\u7684\u5927\u9ed1\u8fb9.\n\u5f53\u5fc3! \u4f60\u53ef\u80fd\u4f1a\u770b\u5230\u4e00\u4e9b\u4f60\u4e0d\u5e94\u8be5\u770b\u5230\u7684\u4e1c\u897f, \u4f8b\u5982\u5373\u5c06\u51fa\u73b0\u7684npc\u6216\u8005\u6446\u597d\u7684\u9020\u578b.\n\n\u611f\u8c22aers\u627e\u5230\u4e86\u8fd9\u4e2a.",
+    "Dalamud.FullscreenCutscenes-Punchline": "\u4ece\u5bbd\u5c4f\u663e\u793a\u5668\u4e0a\u7684\u8fc7\u573a\u52a8\u753b\u4e2d\u79fb\u9664\u5927\u9ed1\u8fb9.",
     "FauxHollowsSolver": "This plugin highlights tiles in Faux Hollows that represent the best potential action you can take.",
     "FauxHollowsSolver-Punchline": "Highlights recommended tiles in Faux Hollows for your next move.",
     "FPSPlugin": "Display game FPS. It really is that simple.",

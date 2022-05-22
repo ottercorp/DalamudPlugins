@@ -65,6 +65,7 @@
 | XIV Combo | attick | 该插件将连击和相互排斥的能力凝聚到一个按钮上。 |
 | Chill Frames | MidoriKami | Tired of your GPU melting your face off while just running around? Why render at 240 FPS when you're just staring at that gathering node? Fret no more! Chill Frames allows you to limite the games framerate while out of combat! |
 | GatherBuddy | Ottermandias | Adds commands to simplify gathering by finding nodes and fish and their locations via item name and a UI to keep track of special uptime and weather conditions. |
+| Ultrawide Cutscenes | Not Cara | 这个插件删除了在宽屏显示器上观看过场动画时的大黑边.<br>当心! 你可能会看到一些你不应该看到的东西, 例如即将出现的npc或者摆好的造型.<br><br>感谢aers找到了这个. |
 | ezFauxHollows | daemitus | 幻巧拼图插件，自动高亮最优解 |
 | FPS Plugin | Caraxi | 显示游戏帧数 |
 | Peeping Tom | ascclemens | 显示谁正在或者曾经以你为目标。 |
