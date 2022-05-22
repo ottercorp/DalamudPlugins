@@ -11,6 +11,7 @@
     "cutscene",
     "fullscreen"
   ],
+  "IconUrl": "https://raw.githubusercontent.com/ottercorp/DalamudPlugins/cn-api5/plugins/Dalamud.FullscreenCutscenes/images/icon.png",
   "DalamudApiLevel": 5,
   "LoadPriority": 0,
   "Punchline": "从宽屏显示器上的过场动画中移除大黑边."
