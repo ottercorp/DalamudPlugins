@@ -159,6 +159,8 @@
     "SlideCastPlugin-Punchline": "Adds an indicator of when it's safe to move while casting",
     "QoLBar": "A plugin designed to provide a simple, customizable and always available interface for chat commands\nor other plugins to alleviate the need for using macros and hotbar space to achieve similar results.\n\nThe plugin should initially appear as a small box on the bottom center of the game window.",
     "QoLBar-Punchline": "Customizable ImGui hotbars",
+    "WhatDidYouSay": "\u5728\u804a\u5929\u6846\u4e2d\u6253\u5370\u51faNPC\u7684\u6c14\u6ce1\u3002 \u8bf7\u68c0\u67e5\u63d2\u4ef6\u8bbe\u7f6e\u548c\u60a8\u7684\u300a\u6d88\u606f\u8fc7\u6ee4\u8bbe\u7f6e\u300b\uff0c\u4ee5\u786e\u4fdd\u5b83\u4eec\u76f8\u4e92\u517c\u5bb9\u3002",
+    "WhatDidYouSay-Punchline": "\u4e0d\u518d\u9519\u8fc7NPC\u7684\u6c14\u6ce1\u5bf9\u8bdd\uff01",
     "JobBars": "Additional job gauges, party buff timers, mitigation trackers, and more. Icon by PAPACHIN",
     "JobBars-Punchline": "Extra job gauges",
     "NamePlateDebuffs": "Displays your debuffs on enemy nameplates."

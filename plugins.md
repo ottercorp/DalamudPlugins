@@ -94,5 +94,6 @@
 | ChatAlerts CN | Caraxi & Ottermandias |  |
 | Slide Cast | Haplo064 | 添加指示符，指示何时可以安全滑步 |
 | QoL Bar | UnknownX | 一个给聊天命令或其他插件、宏等等提供简单、可定制界面的插件<br>最开始这个插件会显示为界面下方的一个小方框。 |
+| Say What? CN | PunishedPineapple | 在聊天框中打印出NPC的气泡。 请检查插件设置和您的《消息过滤设置》，以确保它们相互兼容。 |
 | JobBars | ocealot | 附加职业量谱，队伍buff计时，减伤监控和更多功能。图标由PAPACHIN提供 |
 | NamePlateDebuffs | aers, JHerig | Displays your debuffs on enemy nameplates. |
