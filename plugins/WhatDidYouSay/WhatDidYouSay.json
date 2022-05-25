@@ -1,0 +1,21 @@
+{
+  "Author": "PunishedPineapple",
+  "Name": "Say What? CN",
+  "InternalName": "WhatDidYouSay",
+  "AssemblyVersion": "1.0.0.0",
+  "Description": "在聊天框中打印出NPC的气泡。 请检查插件设置和您的《消息过滤设置》，以确保它们相互兼容。",
+  "ApplicableVersion": "any",
+  "RepoUrl": "https://github.com/PunishedPineapple/WhatDidYouSay",
+  "Tags": [
+    "Chat",
+    "NPC"
+  ],
+  "DalamudApiLevel": 6,
+  "LoadPriority": 0,
+  "ImageUrls": [
+    "https://github.com/PunishedPineapple/WhatDidYouSay/raw/main/docs/Images/image1.png",
+    "https://github.com/PunishedPineapple/WhatDidYouSay/raw/main/docs/Images/image2.png"
+  ],
+  "IconUrl": "https://github.com/PunishedPineapple/WhatDidYouSay/raw/main/docs/Images/icon.png",
+  "Punchline": "不再错过NPC的气泡对话！"
+}
