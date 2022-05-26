@@ -68,6 +68,7 @@
 | Ultrawide Cutscenes | Not Cara | 这个插件删除了在宽屏显示器上观看过场动画时的大黑边.<br>当心! 你可能会看到一些你不应该看到的东西, 例如即将出现的npc或者摆好的造型.<br><br>感谢aers找到了这个. |
 | ezFauxHollows | daemitus | 幻巧拼图插件，自动高亮最优解 |
 | FPS Plugin | Caraxi | 显示游戏帧数 |
+| 死亡回忆 | Kouzukii | 快速的找出是什么击倒了你，或者你的伙伴！<br><br>展示:<br>- 治疗<br>- 受到伤害<br>- 减益效果<br>- 增益效果<br>- 减伤<br>- 攻击、格挡、反击以及伤害源 |
 | Peeping Tom | ascclemens | 显示谁正在或者曾经以你为目标。 |
 | Fader Plugin CN | Kouzukii | 可以让你设定不同状态下（如闲置、战斗、生产等）的HUD显示，比如挂机时隐藏部分热键栏和量表以获得更干净而宽阔的视野。支持延迟，不会修改原本系统設置。 |
 | FlyTextFilter | Aireil | 可以过滤不同类型的悬浮文字。 |
