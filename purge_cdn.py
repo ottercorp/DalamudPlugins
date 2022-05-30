@@ -37,7 +37,8 @@ def get_signed_request(param,secret_id ,secret_key,action):
     service = "cdn"
     host = "cdn.tencentcloudapi.com"
     algorithm = "TC3-HMAC-SHA256"
-    timestamp = 1551113065
+    # timestamp = 1551113065
+    timestamp = int(time.time())
     date = datetime.utcfromtimestamp(timestamp).strftime("%Y-%m-%d")
     version = "2018-06-06"
     # params = "Urls.0=http://cos-dalamudplugins.ffxiv.wang/cn-api5/1"
@@ -57,7 +58,6 @@ def get_signed_request(param,secret_id ,secret_key,action):
                         signed_headers + "\n" +
                         hashed_request_payload)
     # print(canonical_request)
-    # timestamp = int(time.time())
     # ************* 步骤 2：拼接待签名字符串 *************
     credential_scope = date + "/" + service + "/" + "tc3_request"
     hashed_canonical_request = hashlib.sha256(canonical_request.encode("utf-8")).hexdigest()
