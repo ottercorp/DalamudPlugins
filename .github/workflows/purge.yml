@@ -1,0 +1,21 @@
+name: Purge Tencent CDN
+on: 
+  push:
+    branches:
+      - cn-api5
+  workflow_dispatch:
+
+jobs:
+  generate:
+    name: Purge Tencent CDN
+    runs-on: ubuntu-18.04
+    steps:
+      - uses: actions/setup-python@v2
+        with:
+            python-version: '3.8'
+      - name: Checkout ${{ github.ref }}
+        uses: actions/checkout@v2
+        with:
+          ref: ${{ github.ref }}
+      - name: Purge Tencent CDN
+        run: pip install requests && python purge_cdn
