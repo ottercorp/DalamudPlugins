@@ -20,4 +20,4 @@ jobs:
         with:
           ref: ${{ github.ref }}
       - name: Purge Tencent CDN
-        run: pip install requests && python purge_cdn.py -i ${{ secrets.CDN_SECRET_ID }} -k ${{ secrets.CDN_SECRET_KEY }}
+        run: pip install requests && python purge_cdn.py -i ${{ secrets.SECRET_ID }} -k ${{ secrets.SECRET_KEY }}
