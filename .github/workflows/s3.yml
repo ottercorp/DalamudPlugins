@@ -17,7 +17,7 @@ jobs:
           ref: cn-api5
       - uses: jakejarvis/s3-sync-action@master
         with:
-          args: --exclude '.git/*' --follow-symlinks --delete
+          args: --exclude '.git/*' --exclude '.github/*' --follow-symlinks --delete --size-only
         env:
           AWS_S3_BUCKET: ${{ secrets.AWS_S3_BUCKET }}
           AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID }}
