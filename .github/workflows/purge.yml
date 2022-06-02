@@ -1,10 +1,8 @@
 name: Purge Tencent CDN
-on:
-  workflow_run:
-    workflows: ["Upload to Tencent COS"]
-    branches: [cn-api5]
-    types:
-      - completed
+on: 
+  push:
+    branches:
+      - cn-api5
   workflow_dispatch:
 
 jobs:
