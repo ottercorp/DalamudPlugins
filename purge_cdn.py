@@ -10,12 +10,22 @@ import argparse
 
 REPO_URL="https://api.github.com/repos/ottercorp/DalamudPlugins"
 CDN_URL="http://cos-dalamudplugins.ffxiv.wang/cn-api5/"
-def get_latest_commit():
+def get_regen_commit_compared():
     r = requests.get(REPO_URL+"/commits")
     commits=json.loads(r.content)
-    latest_commit_sha=commits[0]["sha"]
+    sha=[]
+    for i in range(len(commits)):
+        if (len(sha)==2):
+            break
+        if commits[i]["commit"]["message"]=="Regenerate PluginMaster":
+            sha.append(commits[i]["sha"])
     # print(latest_commit_sha)
-    r = requests.get(REPO_URL+"/commits/"+latest_commit_sha)
+    if len(sha)!=2:
+        print("Can not get last 2 Regenerate PluginMaster")
+        exit(-1)
+    url=REPO_URL+"/compare/"+sha[1]+"..."+sha[0]
+    print(url)
+    r = requests.get(url)
     return json.loads(r.content)
 
 def get_files_changed(commit):
@@ -25,7 +35,7 @@ def get_files_changed(commit):
     for f in files:
         # print(f["status"])
         if(f["status"] in status_to_purge):
-            # print(f)
+            print(f["filename"])
             files_to_purge.append(f["filename"])
     return files_to_purge
 
@@ -117,12 +127,8 @@ def cli():
 def purge(args):
     secret_id=args.secret_id
     secret_key=args.secret_key
-    files=get_files_changed(get_latest_commit())
+    files=get_files_changed(get_regen_commit_compared())
     purge_files(files,secret_id,secret_key)
 
 if __name__ == '__main__':
     cli()
-
-
-
-
