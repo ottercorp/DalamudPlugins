@@ -18,7 +18,7 @@
         "CategoryTags": [
             "UI"
         ],
-        "LastUpdated": "1654449367"
+        "LastUpdated": "1654469648"
     },
     {
         "Author": "Chalkos",
@@ -52,7 +52,7 @@
         "CategoryTags": [
             "inventory"
         ],
-        "LastUpdated": "1654449367"
+        "LastUpdated": "1654469648"
     },
     {
         "Author": "Caraxi",
@@ -73,7 +73,7 @@
         "CategoryTags": [
             "UI"
         ],
-        "LastUpdated": "1654449367"
+        "LastUpdated": "1654469648"
     },
     {
         "Author": "haplo, daemitus, Loskh, wozaiha",
@@ -93,7 +93,7 @@
         "CategoryTags": [
             "jobs"
         ],
-        "LastUpdated": "1654449367"
+        "LastUpdated": "1654469648"
     },
     {
         "Author": "tesu",
@@ -122,7 +122,7 @@
         "CategoryTags": [
             "inventory"
         ],
-        "LastUpdated": "1654449367"
+        "LastUpdated": "1654469648"
     },
     {
         "Author": "MgAl2O4",
@@ -157,12 +157,12 @@
             "utility",
             "sound"
         ],
-        "LastUpdated": "1654449367"
+        "LastUpdated": "1654469648"
     },
     {
         "Author": "Ottermandias",
         "Name": "GatherBuddy",
-        "Description": "Adds commands to simplify gathering by finding nodes and fish and their locations via item name and a UI to keep track of special uptime and weather conditions.",
+        "Description": "\u6dfb\u52a0\u547d\u4ee4\u6765\u7b80\u5316\u91c7\u96c6\uff0c\u65b9\u6cd5\u662f\u901a\u8fc7\u7269\u54c1\u540d\u79f0\u548c\u7528\u6237\u754c\u9762\u627e\u5230\u8282\u70b9\u548c\u9c7c\u7c7b\u53ca\u5176\u4f4d\u7f6e\uff0c\u4ee5\u8ddf\u8e2a\u7279\u6b8a\u7684\u65f6\u6bb5\u548c\u5929\u6c14\u6761\u4ef6\u3002",
         "InternalName": "GatherBuddy",
         "AssemblyVersion": "3.0.3.1",
         "RepoUrl": "https://github.com/Ottermandias/GatherBuddy",
@@ -177,7 +177,7 @@
             "Timer"
         ],
         "DalamudApiLevel": 5,
-        "Punchline": "Simplify Gathering and Fishing.",
+        "Punchline": "\u7b80\u5316\u91c7\u96c6\u548c\u6355\u9c7c\u3002",
         "DownloadLinkInstall": "https://service-knj2phup-1253720819.sh.apigw.tencentcs.com/release/dalamudcounter-1623520723?plugin=GatherBuddy&isUpdate=False&isTesting=False&branch=cn-api5",
         "DownloadLinkUpdate": "https://service-knj2phup-1253720819.sh.apigw.tencentcs.com/release/dalamudcounter-1623520723?plugin=GatherBuddy&isUpdate=True&isTesting=False&branch=cn-api5",
         "DownloadLinkTesting": "https://service-knj2phup-1253720819.sh.apigw.tencentcs.com/release/dalamudcounter-1623520723?plugin=GatherBuddy&isUpdate=False&isTesting=True&branch=cn-api5",
@@ -187,7 +187,7 @@
         "CategoryTags": [
             "jobs"
         ],
-        "LastUpdated": "1654449367"
+        "LastUpdated": "1654469648"
     },
     {
         "Author": "ocealot",
@@ -212,7 +212,7 @@
         "CategoryTags": [
             "jobs"
         ],
-        "LastUpdated": "1654449367"
+        "LastUpdated": "1654469648"
     },
     {
         "Author": "PunishedPineapple",
@@ -240,7 +240,7 @@
         "IsTestingExclusive": false,
         "DownloadCount": 256,
         "CategoryTags": [],
-        "LastUpdated": "1654449367"
+        "LastUpdated": "1654469648"
     },
     {
         "Author": "ascclemens",
@@ -261,7 +261,7 @@
         "CategoryTags": [
             "utility"
         ],
-        "LastUpdated": "1654449367"
+        "LastUpdated": "1654469648"
     },
     {
         "Author": "digital pet\uff0cAinaSnow",
@@ -286,7 +286,7 @@
         "IsTestingExclusive": false,
         "DownloadCount": 292,
         "CategoryTags": [],
-        "LastUpdated": "1654449367"
+        "LastUpdated": "1654469648"
     },
     {
         "Author": "Chivalrik",
@@ -307,7 +307,7 @@
         "CategoryTags": [
             "UI"
         ],
-        "LastUpdated": "1654449367"
+        "LastUpdated": "1654469648"
     },
     {
         "Author": "Bluefissure",
@@ -331,7 +331,7 @@
         "CategoryTags": [
             "UI"
         ],
-        "LastUpdated": "1654449367"
+        "LastUpdated": "1654469648"
     },
     {
         "Author": "Meli & perchbird",
@@ -356,7 +356,7 @@
         "CategoryTags": [
             "sound"
         ],
-        "LastUpdated": "1654449367"
+        "LastUpdated": "1654469648"
     },
     {
         "Author": "Caraxi & Ottermandias",
@@ -384,7 +384,7 @@
         "IsTestingExclusive": false,
         "DownloadCount": 327,
         "CategoryTags": [],
-        "LastUpdated": "1654449367"
+        "LastUpdated": "1654469648"
     },
     {
         "Author": "Ottermandias",
@@ -417,7 +417,7 @@
             "UI",
             "utility"
         ],
-        "LastUpdated": "1654449367"
+        "LastUpdated": "1654469648"
     },
     {
         "Author": "MidoriKami",
@@ -441,7 +441,7 @@
         "IsTestingExclusive": false,
         "DownloadCount": 1073,
         "CategoryTags": [],
-        "LastUpdated": "1654449367"
+        "LastUpdated": "1654469648"
     },
     {
         "Author": "kalilistic, karashiiro",
@@ -469,7 +469,7 @@
         "CategoryTags": [
             "UI"
         ],
-        "LastUpdated": "1654449367"
+        "LastUpdated": "1654469648"
     },
     {
         "Author": "attick & perchbird",
@@ -491,7 +491,7 @@
             "UI",
             "utility"
         ],
-        "LastUpdated": "1654449367"
+        "LastUpdated": "1654469648"
     },
     {
         "Author": "Aireil",
@@ -512,7 +512,7 @@
         "CategoryTags": [
             "UI"
         ],
-        "LastUpdated": "1654449367"
+        "LastUpdated": "1654469648"
     },
     {
         "Author": "karashiiro",
@@ -542,12 +542,12 @@
         "CategoryTags": [
             "UI"
         ],
-        "LastUpdated": "1654449367"
+        "LastUpdated": "1654469648"
     },
     {
         "Author": "Dragon",
         "Name": "VisibilityCN",
-        "Description": "\u5141\u8bb8\u60a8\u9690\u85cf\u73a9\u5bb6\u3001\u9646\u884c\u9e1f\u548c\u5ba0\u7269\u3002\n\u540c\u65f6\u5305\u62ec VoidList\uff0c\u4e00\u4e2a\u66f4\u597d\u7684\u9ed1\u540d\u5355\u3002\n\u53ef\u901a\u8fc7 /pvis \u8bbf\u95ee\n\u53ef\u901a\u8fc7 /xlhelp \u83b7\u5f97\u66f4\u591a\u4fe1\u606f",
+        "Description": "\u8ba9\u4f60\u53ef\u4ee5\u9690\u85cf\u73a9\u5bb6\uff0c\u5ba0\u7269\u548c\u9646\u884c\u9e1f\n\u5185\u542bVoidList\uff08\u66f4\u597d\u7684\u9ed1\u540d\u5355\u63d2\u4ef6\uff09\n/pvis \u6253\u5f00\u9762\u677f\n/xlhelp \u83b7\u53d6\u66f4\u591a\u5e2e\u52a9\u4fe1\u606f",
         "InternalName": "Visibility",
         "AssemblyVersion": "1.1.1.4",
         "RepoUrl": "https://github.com/SheepGoMeh/VisibilityPlugin",
@@ -562,7 +562,7 @@
             "QoL"
         ],
         "DalamudApiLevel": 5,
-        "Punchline": "Allows you to hide players, pets, chocobos and minions.",
+        "Punchline": "\u8ba9\u4f60\u53ef\u4ee5\u9690\u85cf\u73a9\u5bb6\uff0c\u5ba0\u7269\u548c\u9646\u884c\u9e1f",
         "DownloadLinkInstall": "https://service-knj2phup-1253720819.sh.apigw.tencentcs.com/release/dalamudcounter-1623520723?plugin=Visibility&isUpdate=False&isTesting=False&branch=cn-api5",
         "DownloadLinkUpdate": "https://service-knj2phup-1253720819.sh.apigw.tencentcs.com/release/dalamudcounter-1623520723?plugin=Visibility&isUpdate=True&isTesting=False&branch=cn-api5",
         "DownloadLinkTesting": "https://service-knj2phup-1253720819.sh.apigw.tencentcs.com/release/dalamudcounter-1623520723?plugin=Visibility&isUpdate=False&isTesting=True&branch=cn-api5",
@@ -572,12 +572,12 @@
         "CategoryTags": [
             "UI"
         ],
-        "LastUpdated": "1654449367"
+        "LastUpdated": "1654469648"
     },
     {
         "Author": "akira0245",
         "Name": "Reset enmity command",
-        "Description": "\u6dfb\u52a0\u6e05\u9664\u6728\u4eba\u4ec7\u6068\u7684\u6587\u672c\u6307\u4ee4\u3002",
+        "Description": "\u6dfb\u52a0\u4e00\u4e2a\u6e05\u9664\u6728\u4eba\u4ec7\u6068\u6307\u4ee4\u3002",
         "InternalName": "Reset enmity command",
         "AssemblyVersion": "0.0.1.1",
         "RepoUrl": "https://github.com/akira0245/Reset-dummy-enmity-command",
@@ -589,7 +589,7 @@
             "train"
         ],
         "DalamudApiLevel": 5,
-        "Punchline": "\u6dfb\u52a0\u6e05\u9664\u6728\u4eba\u4ec7\u6068\u7684\u6587\u672c\u6307\u4ee4\u3002",
+        "Punchline": "\u6dfb\u52a0\u4e00\u4e2a\u6e05\u9664\u6728\u4eba\u4ec7\u6068\u6307\u4ee4\u3002",
         "IconUrl": "https://i.loli.net/2021/09/25/OA6vDxaSTmfWyU3.png",
         "DownloadLinkInstall": "https://service-knj2phup-1253720819.sh.apigw.tencentcs.com/release/dalamudcounter-1623520723?plugin=Reset enmity command&isUpdate=False&isTesting=False&branch=cn-api5",
         "DownloadLinkUpdate": "https://service-knj2phup-1253720819.sh.apigw.tencentcs.com/release/dalamudcounter-1623520723?plugin=Reset enmity command&isUpdate=True&isTesting=False&branch=cn-api5",
@@ -600,7 +600,7 @@
         "CategoryTags": [
             "jobs"
         ],
-        "LastUpdated": "1654449367"
+        "LastUpdated": "1654469648"
     },
     {
         "Author": "Bluefissure",
@@ -620,12 +620,12 @@
         "CategoryTags": [
             "other"
         ],
-        "LastUpdated": "1654449367"
+        "LastUpdated": "1654469648"
     },
     {
         "Author": "r00telement",
         "Name": "Player Tags",
-        "Description": "Lightweight job visibility in nameplates and chat. Create custom tags and add them to players with the context menu.",
+        "Description": "\u5728\u59d3\u540d\u677f\u548c\u804a\u5929\u533a\u57df\u8f7b\u91cf\u5316\u663e\u793a\u804c\u4e1a\u3002\u521b\u5efa\u81ea\u5b9a\u4e49\u6807\u7b7e\u5e76\u5c06\u5176\u6dfb\u52a0\u5230\u4e0a\u4e0b\u6587\u83dc\u5355\u4e2d\u7684\u73a9\u5bb6\u3002",
         "InternalName": "PlayerTags",
         "AssemblyVersion": "1.2.0.0",
         "RepoUrl": "https://github.com/r00telement/PlayerTags",
@@ -647,7 +647,7 @@
         "IsTestingExclusive": false,
         "DownloadCount": 724,
         "CategoryTags": [],
-        "LastUpdated": "1654449367"
+        "LastUpdated": "1654469648"
     },
     {
         "Author": "perchbird",
@@ -668,7 +668,7 @@
         "CategoryTags": [
             "UI"
         ],
-        "LastUpdated": "1654449367"
+        "LastUpdated": "1654469648"
     },
     {
         "Author": "MidoriKami, NiGuangOwO",
@@ -690,7 +690,7 @@
         "IsTestingExclusive": false,
         "DownloadCount": 3451,
         "CategoryTags": [],
-        "LastUpdated": "1654449367"
+        "LastUpdated": "1654469648"
     },
     {
         "Author": "perchbird",
@@ -711,7 +711,7 @@
         "CategoryTags": [
             "UI"
         ],
-        "LastUpdated": "1654449367"
+        "LastUpdated": "1654469648"
     },
     {
         "Author": "ascclemens",
@@ -733,7 +733,7 @@
             "UI",
             "jobs"
         ],
-        "LastUpdated": "1654449367"
+        "LastUpdated": "1654469648"
     },
     {
         "Author": "Bluefissure",
@@ -756,12 +756,12 @@
         "IsTestingExclusive": false,
         "DownloadCount": 370,
         "CategoryTags": [],
-        "LastUpdated": "1654449367"
+        "LastUpdated": "1654469648"
     },
     {
         "Author": "PunishedPineapple",
         "Name": "Ready Check Helper",
-        "Description": "Displays the names of the players that were not ready in chat following the completion of a ready check, and optionally adds ready check status icons over the party and alliance lists.",
+        "Description": "\u5728\u804a\u5929\u6846\u663e\u793a\u5728\u51c6\u5907\u786e\u8ba4\u7ed3\u675f\u540e\u5c1a\u672a\u786e\u8ba4\u7684\u73a9\u5bb6\u540d\u79f0\uff0c\u53e6\u4e5f\u652f\u6301\u5728\u5c0f\u961f\u5217\u8868\u4e0a\u663e\u793a\u51c6\u5907\u786e\u8ba4\u7684\u72b6\u6001\u56fe\u6807\u3002",
         "InternalName": "ReadyCheckHelper",
         "AssemblyVersion": "1.0.1.0",
         "RepoUrl": "https://github.com/PunishedPineapple/ReadyCheckHelper",
@@ -772,7 +772,7 @@
             "Check"
         ],
         "DalamudApiLevel": 5,
-        "Punchline": "Extends the game's built-in ready check.",
+        "Punchline": "\u6269\u5c55\u6e38\u620f\u5185\u7f6e\u7684\u51c6\u5907\u786e\u8ba4\u3002",
         "ImageUrls": [
             "https://github.com/PunishedPineapple/ReadyCheckHelper/raw/master/docs/Images/image1.png",
             "https://github.com/PunishedPineapple/ReadyCheckHelper/raw/master/docs/Images/image2.png"
@@ -785,7 +785,7 @@
         "IsTestingExclusive": false,
         "DownloadCount": 1411,
         "CategoryTags": [],
-        "LastUpdated": "1654449367"
+        "LastUpdated": "1654469648"
     },
     {
         "Author": "ascclemens",
@@ -806,7 +806,7 @@
         "CategoryTags": [
             "UI"
         ],
-        "LastUpdated": "1654449367"
+        "LastUpdated": "1654469648"
     },
     {
         "Author": "UnknownX",
@@ -831,12 +831,12 @@
         "CategoryTags": [
             "UI"
         ],
-        "LastUpdated": "1654449367"
+        "LastUpdated": "1654469648"
     },
     {
         "Author": "Felys",
         "Name": "EnemyListDebuffs",
-        "Description": "Displays your debuffs on the enemy list. Original implementation credit to aers.",
+        "Description": "\u5728\u654c\u4eba\u5217\u8868\u4e0a\u663e\u793a\u4f60\u7ed9\u4e0e\u7684\u8d1f\u9762\u72b6\u6001\u3002\u6700\u65e9\u7531aers\u5b9e\u73b0\u3002",
         "InternalName": "EnemyListDebuffs",
         "AssemblyVersion": "0.3.1.0",
         "RepoUrl": "https://github.com/Felys1998/EnemyListDebuffs",
@@ -851,7 +851,7 @@
         "CategoryTags": [
             "UI"
         ],
-        "LastUpdated": "1654449367"
+        "LastUpdated": "1654469648"
     },
     {
         "Author": "daemitus",
@@ -876,7 +876,7 @@
         "CategoryTags": [
             "minigames"
         ],
-        "LastUpdated": "1654449367"
+        "LastUpdated": "1654469648"
     },
     {
         "Author": "Eternita",
@@ -897,12 +897,12 @@
         "IsTestingExclusive": false,
         "DownloadCount": 1971,
         "CategoryTags": [],
-        "LastUpdated": "1654449367"
+        "LastUpdated": "1654469648"
     },
     {
         "Author": "PGGB",
         "Name": "DeviceChangeFix",
-        "Description": "Stops controller input from freezing randomly.",
+        "Description": "\u505c\u6b62\u624b\u67c4\u8f93\u5165\u968f\u673a\u51bb\u7ed3\u3002",
         "InternalName": "DeviceChangeFix",
         "AssemblyVersion": "1.0.0.0",
         "RepoUrl": "https://github.com/PGGB/DeviceChangeFix",
@@ -912,7 +912,7 @@
             "gamepad"
         ],
         "DalamudApiLevel": 5,
-        "Punchline": "Stops controller input from freezing randomly.",
+        "Punchline": "\u505c\u6b62\u624b\u67c4\u8f93\u5165\u968f\u673a\u51bb\u7ed3\u3002",
         "DownloadLinkInstall": "https://service-knj2phup-1253720819.sh.apigw.tencentcs.com/release/dalamudcounter-1623520723?plugin=DeviceChangeFix&isUpdate=False&isTesting=False&branch=cn-api5",
         "DownloadLinkUpdate": "https://service-knj2phup-1253720819.sh.apigw.tencentcs.com/release/dalamudcounter-1623520723?plugin=DeviceChangeFix&isUpdate=True&isTesting=False&branch=cn-api5",
         "DownloadLinkTesting": "https://service-knj2phup-1253720819.sh.apigw.tencentcs.com/release/dalamudcounter-1623520723?plugin=DeviceChangeFix&isUpdate=False&isTesting=True&branch=cn-api5",
@@ -920,7 +920,7 @@
         "IsTestingExclusive": false,
         "DownloadCount": 117,
         "CategoryTags": [],
-        "LastUpdated": "1654449367"
+        "LastUpdated": "1654469648"
     },
     {
         "Author": "ascclemens",
@@ -942,7 +942,7 @@
             "UI",
             "utility"
         ],
-        "LastUpdated": "1654449367"
+        "LastUpdated": "1654469648"
     },
     {
         "Author": "ascclemens",
@@ -963,7 +963,7 @@
         "CategoryTags": [
             "UI"
         ],
-        "LastUpdated": "1654449367"
+        "LastUpdated": "1654469648"
     },
     {
         "Author": "Haplo064, maintained by Franz",
@@ -989,7 +989,7 @@
         "CategoryTags": [
             "UI"
         ],
-        "LastUpdated": "1654449367"
+        "LastUpdated": "1654469648"
     },
     {
         "Author": "ascclemens",
@@ -1008,7 +1008,7 @@
         "IsTestingExclusive": false,
         "DownloadCount": 2641,
         "CategoryTags": [],
-        "LastUpdated": "1654449367"
+        "LastUpdated": "1654469648"
     },
     {
         "Author": "Haplo064",
@@ -1036,7 +1036,7 @@
         "CategoryTags": [
             "social"
         ],
-        "LastUpdated": "1654449367"
+        "LastUpdated": "1654469648"
     },
     {
         "Author": "attick",
@@ -1061,12 +1061,12 @@
         "CategoryTags": [
             "jobs"
         ],
-        "LastUpdated": "1654449367"
+        "LastUpdated": "1654469648"
     },
     {
         "Author": "Xorus",
         "Name": "EngageTimer",
-        "Description": "\u5012\u8ba1\u65f6\u63d2\u4ef6\u3002\u53ef\u4ee5\u81ea\u5b9a\u4e49\u5012\u8ba1\u65f6\u7684\u6837\u5f0f\u3002\u540c\u65f6\u63d0\u4f9b\u4e86\u4e00\u4e2a WS \u60ac\u6d6e\u7a97\u53ef\u4ee5\u5728 OBS \u5185\u4f7f\u7528\u4ee5\u663e\u793a\u6218\u6597\u65f6\u957f",
+        "Description": "\u663e\u793a\u6240\u6709\u5f00\u59cb\u5012\u8ba1\u65f6\u7684\u6570\u5b57\uff01\n\n\u529f\u80fd :\n- \u663e\u793a\u6240\u6709\u6570\u5b57\u7684\u5012\u8ba1\u65f6\n- \u53ef\u81ea\u5b9a\u4e49\u6570\u5b57\u7684\u7eb9\u7406\u6750\u8d28(\u9ed8\u8ba4\uff0c\u9ec4\u8272\uff0cWoW \u98ce\u683c\u6216\u81ea\u5b9a\u4e49\u6587\u4ef6)\n- \u5e26\u6709\u6218\u6597\u8ba1\u65f6\u5668\u548c\u5012\u8ba1\u65f6\u5668\u7684\u6d6e\u52a8\u7a97\u53e3\n- \u517c\u5bb9OBS\u6d4f\u89c8\u5668\u6e90\u7684\u9875\u9762\n\n\u4e3a\u4ec0\u4e48\u517c\u5bb9OBS\uff1f \u662f\u8fd9\u6837\u7684\uff0c\u5982\u679c\u60a8\u60f3\u8981\u5728\u5f55\u5236\u4e2d\u80fd\u663e\u793a\u4e00\u4e2a\u8d85\u5927\u7684\u5012\u8ba1\u65f6\uff0c\u8fd9\u4f1a\u975e\u5e38\u6709\u7528\u3002\n\u67e5\u770b\u4ed3\u5e93\u83b7\u53d6\u66f4\u591a\u4fe1\u606f\u3002\n\n\u8bf7\u653e\u5fc3\u7ed9\u6211\u53cd\u9988bug\u6216\u66f4\u591a\u53ef\u6539\u8fdb\u7684\u5185\u5bb9\uff01",
         "InternalName": "EngageTimer",
         "AssemblyVersion": "2.2.0.2",
         "RepoUrl": "https://github.com/xorus/EngageTimer",
@@ -1095,12 +1095,12 @@
         "CategoryTags": [
             "jobs"
         ],
-        "LastUpdated": "1654449367"
+        "LastUpdated": "1654469648"
     },
     {
         "Author": "Kouzukii",
         "Name": "\u6b7b\u4ea1\u56de\u5fc6",
-        "Description": "\u5feb\u901f\u7684\u627e\u51fa\u662f\u4ec0\u4e48\u51fb\u5012\u4e86\u4f60\uff0c\u6216\u8005\u4f60\u7684\u4f19\u4f34\uff01\n\n\u5c55\u793a:\n- \u6cbb\u7597\n- \u53d7\u5230\u4f24\u5bb3\n- \u51cf\u76ca\u6548\u679c\n- \u589e\u76ca\u6548\u679c\n- \u51cf\u4f24\n- \u653b\u51fb\u3001\u683c\u6321\u3001\u53cd\u51fb\u4ee5\u53ca\u4f24\u5bb3\u6e90",
+        "Description": "\u5feb\u901f\u5730\u627e\u51fa\u662f\u4ec0\u4e48\u51fb\u5012\u4e86\u4f60\u6216\u8005\u961f\u53cb\uff01\n\n\u5c55\u793a:\n- \u6cbb\u7597\n- \u53d7\u5230\u4f24\u5bb3\n- \u51cf\u76ca\u6548\u679c\n- \u589e\u76ca\u6548\u679c\n- \u51cf\u4f24\n- \u653b\u51fb\u3001\u683c\u6321\u3001\u53cd\u51fb\u4ee5\u53ca\u4f24\u5bb3\u6e90",
         "InternalName": "DeathRecap",
         "AssemblyVersion": "1.7.0.1",
         "RepoUrl": "https://github.com/Kouzukii/ffxiv-deathrecap",
@@ -1111,7 +1111,7 @@
             "\u8bb0\u5f55"
         ],
         "DalamudApiLevel": 6,
-        "Punchline": "\u5feb\u901f\u7684\u627e\u51fa\u662f\u4ec0\u4e48\u51fb\u5012\u4e86\u4f60\uff0c\u6216\u8005\u4f60\u7684\u4f19\u4f34\uff01",
+        "Punchline": "\u5feb\u901f\u5730\u627e\u51fa\u662f\u4ec0\u4e48\u51fb\u5012\u4e86\u4f60\u6216\u8005\u961f\u53cb\uff01",
         "DownloadLinkInstall": "https://service-knj2phup-1253720819.sh.apigw.tencentcs.com/release/dalamudcounter-1623520723?plugin=DeathRecap&isUpdate=False&isTesting=False&branch=cn-api5",
         "DownloadLinkUpdate": "https://service-knj2phup-1253720819.sh.apigw.tencentcs.com/release/dalamudcounter-1623520723?plugin=DeathRecap&isUpdate=True&isTesting=False&branch=cn-api5",
         "DownloadLinkTesting": "https://service-knj2phup-1253720819.sh.apigw.tencentcs.com/release/dalamudcounter-1623520723?plugin=DeathRecap&isUpdate=False&isTesting=True&branch=cn-api5",
@@ -1119,7 +1119,7 @@
         "IsTestingExclusive": false,
         "DownloadCount": 2391,
         "CategoryTags": [],
-        "LastUpdated": "1654449367"
+        "LastUpdated": "1654469648"
     },
     {
         "Author": "goat, modded by Franz",
@@ -1147,7 +1147,7 @@
         "CategoryTags": [
             "social"
         ],
-        "LastUpdated": "1654449367"
+        "LastUpdated": "1654469648"
     },
     {
         "Author": "ascclemens",
@@ -1167,7 +1167,7 @@
         "CategoryTags": [
             "UI"
         ],
-        "LastUpdated": "1654449367"
+        "LastUpdated": "1654469648"
     },
     {
         "Author": "Kouzukii",
@@ -1187,12 +1187,12 @@
         "IsTestingExclusive": false,
         "DownloadCount": 653,
         "CategoryTags": [],
-        "LastUpdated": "1654449367"
+        "LastUpdated": "1654469648"
     },
     {
         "Author": "karashiiro",
         "Name": "SoundSetter",
-        "Description": "A Dalamud plugin that allows volume control from anywhere, including gpose and cutscenes.",
+        "Description": "\u4e00\u4e2a Dalamud \u63d2\u4ef6\uff0c\u53ef\u968f\u65f6\u968f\u5730\u8c03\u6574\u97f3\u91cf\uff0c\u5305\u62ec\u96c6\u4f53\u52a8\u4f5c\u548c\u8fc7\u573a\u52a8\u753b\u3002",
         "InternalName": "SoundSetter",
         "AssemblyVersion": "1.5.6.0",
         "RepoUrl": "https://github.com/karashiiro/SoundSetter",
@@ -1214,7 +1214,7 @@
         "CategoryTags": [
             "sound"
         ],
-        "LastUpdated": "1654449367"
+        "LastUpdated": "1654469648"
     },
     {
         "Author": "Haplo064",
@@ -1243,7 +1243,7 @@
         "IsTestingExclusive": false,
         "DownloadCount": 1594,
         "CategoryTags": [],
-        "LastUpdated": "1654449367"
+        "LastUpdated": "1654469648"
     },
     {
         "Author": "MgAl2O4",
@@ -1275,12 +1275,12 @@
         "CategoryTags": [
             "minigames"
         ],
-        "LastUpdated": "1654449367"
+        "LastUpdated": "1654469648"
     },
     {
         "Author": "MidoriKami",
         "Name": "Chill Frames",
-        "Description": "Tired of your GPU melting your face off while just running around? Why render at 240 FPS when you're just staring at that gathering node? Fret no more! Chill Frames allows you to limite the games framerate while out of combat!",
+        "Description": "\u611f\u89c9\u53ea\u662f\u56db\u5904\u8d70\u8d70\uff0c\u663e\u5361\u5c31\u70eb\u5230\u80fd\u714e\u9e21\u86cb\u4e86\uff1f\u5728\u91c7\u96c6\u6a21\u5f0f\u4e0b\u4f55\u5fc5\u8fd8\u8981\u6e32\u67d3240\u8d85\u9ad8\u5e27\u7387\uff1f\u522b\u518d\u82e6\u607c\u4e86\uff01Chill Frames \u53ef\u4ee5\u5728\u975e\u6218\u6597\u72b6\u6001\u4e0b\u81ea\u52a8\u9650\u5236\u5e27\u7387\uff01",
         "InternalName": "ChillFrames",
         "AssemblyVersion": "1.1.2.1",
         "RepoUrl": "https://github.com/MidoriKami/ChillFrames",
@@ -1289,7 +1289,7 @@
             "utility"
         ],
         "DalamudApiLevel": 5,
-        "Punchline": "Limit Framerate while out of combat",
+        "Punchline": "\u5728\u975e\u6218\u6597\u65f6\u9650\u5236\u5e27\u7387",
         "DownloadLinkInstall": "https://service-knj2phup-1253720819.sh.apigw.tencentcs.com/release/dalamudcounter-1623520723?plugin=ChillFrames&isUpdate=False&isTesting=False&branch=cn-api5",
         "DownloadLinkUpdate": "https://service-knj2phup-1253720819.sh.apigw.tencentcs.com/release/dalamudcounter-1623520723?plugin=ChillFrames&isUpdate=True&isTesting=False&branch=cn-api5",
         "DownloadLinkTesting": "https://service-knj2phup-1253720819.sh.apigw.tencentcs.com/release/dalamudcounter-1623520723?plugin=ChillFrames&isUpdate=False&isTesting=True&branch=cn-api5",
@@ -1297,7 +1297,7 @@
         "IsTestingExclusive": false,
         "DownloadCount": 644,
         "CategoryTags": [],
-        "LastUpdated": "1654449367"
+        "LastUpdated": "1654469648"
     },
     {
         "Author": "Caraxi",
@@ -1318,7 +1318,7 @@
         "CategoryTags": [
             "UI"
         ],
-        "LastUpdated": "1654449367"
+        "LastUpdated": "1654469648"
     },
     {
         "Author": "Caraxi",
@@ -1340,7 +1340,7 @@
             "inventory",
             "utility"
         ],
-        "LastUpdated": "1654449367"
+        "LastUpdated": "1654469648"
     },
     {
         "Author": "ascclemens",
@@ -1362,12 +1362,12 @@
             "UI",
             "social"
         ],
-        "LastUpdated": "1654449367"
+        "LastUpdated": "1654469648"
     },
     {
         "Author": "shdwp",
         "Name": "PartyIcons",
-        "Description": "Adjusts player nameplates base on current content. For example you can display raid positions (that are assigned automatically by listening to the chat), job icons, or names with job icons.\n\nReverse-engineering effort achived by authors of JobIcons: haplo, daemitus, Loskh, wozaiha, without them this plugin would not be possible!",
+        "Description": "\u6839\u636e\u5f53\u524d\u5185\u5bb9\u8c03\u6574\u73a9\u5bb6\u59d3\u540d\u677f\u3002\u6bd4\u5982\u663e\u793a\u7ad9\u4f4d\uff08\u6839\u636e\u81ea\u52a8\u8bc6\u522b\u7684\u5c0f\u961f\u804a\u5929\u5185\u5bb9\uff09\u3001\u804c\u4e1a\u56fe\u6807\uff0c\u6216\u8005\u662f\u5e26\u6709\u540d\u5b57\u7684\u804c\u4e1a\u56fe\u6807\u3002\n\n\u611f\u8c22\u4ee5\u4e0b JobIcons \u4f5c\u8005\u7684\u52aa\u529b\uff1ahaplo\u3001daemitus\u3001Loskh\u3001wozaiha\uff0c\u6ca1\u6709\u4ed6\u4eec\u5c31\u6ca1\u6709\u8fd9\u4e2a\u63d2\u4ef6\uff01",
         "InternalName": "PartyIcons",
         "AssemblyVersion": "1.0.3.3",
         "RepoUrl": "https://github.com/shdwp/xivPartyIcons",
@@ -1376,7 +1376,7 @@
             "UI"
         ],
         "DalamudApiLevel": 5,
-        "Punchline": "Replace names with job icons, raid role positions and more!",
+        "Punchline": "\u4f7f\u7528\u804c\u4e1a\u56fe\u6807\u4ee3\u66ff\u59d3\u540d\u3001\u7ad9\u4f4d\u548c\u66f4\u591a\uff01",
         "ImageUrls": [
             "https://github.com/goatcorp/DalamudPlugins/raw/api5/plugins/PartyIcons/images/image1.png",
             "https://github.com/goatcorp/DalamudPlugins/raw/api5/plugins/PartyIcons/images/image2.png",
@@ -1391,7 +1391,7 @@
         "IsTestingExclusive": false,
         "DownloadCount": 1010,
         "CategoryTags": [],
-        "LastUpdated": "1654449367"
+        "LastUpdated": "1654469648"
     },
     {
         "Author": "attick",
@@ -1415,7 +1415,7 @@
         "CategoryTags": [
             "jobs"
         ],
-        "LastUpdated": "1654449367"
+        "LastUpdated": "1654469648"
     },
     {
         "Author": "Strati",
@@ -1441,12 +1441,12 @@
         "CategoryTags": [
             "UI"
         ],
-        "LastUpdated": "1654449367"
+        "LastUpdated": "1654469648"
     },
     {
         "Author": "Haplo064",
         "Name": "Accurate CountDown",
-        "Description": "Shows the current countdown time.",
+        "Description": "\u663e\u793a\u51c6\u786e\u5012\u8ba1\u65f6",
         "InternalName": "AccurateCountDown",
         "AssemblyVersion": "1.1.0.0",
         "RepoUrl": "https://github.com/Haplo064/Europe",
@@ -1467,7 +1467,7 @@
         "CategoryTags": [
             "UI"
         ],
-        "LastUpdated": "1654449367"
+        "LastUpdated": "1654469648"
     },
     {
         "Author": "Caraxi",
@@ -1488,7 +1488,7 @@
         "CategoryTags": [
             "utility"
         ],
-        "LastUpdated": "1654449367"
+        "LastUpdated": "1654469648"
     },
     {
         "Author": "PunishedPineapple",
@@ -1521,12 +1521,12 @@
         "CategoryTags": [
             "UI"
         ],
-        "LastUpdated": "1654449367"
+        "LastUpdated": "1654469648"
     },
     {
         "Author": "aers, JHerig",
         "Name": "NamePlateDebuffs",
-        "Description": "Displays your debuffs on enemy nameplates.",
+        "Description": "\u5728\u654c\u4eba\u540d\u724c\u4e0a\u663e\u793a debuff\u3002",
         "InternalName": "NamePlateDebuffs",
         "AssemblyVersion": "0.5.1.0",
         "RepoUrl": "https://github.com/jherig/NamePlateDebuffs",
@@ -1542,7 +1542,7 @@
             "UI",
             "jobs"
         ],
-        "LastUpdated": "1654449367"
+        "LastUpdated": "1654469648"
     },
     {
         "Author": "Not Cara",
@@ -1567,12 +1567,12 @@
         "IsTestingExclusive": false,
         "DownloadCount": 137,
         "CategoryTags": [],
-        "LastUpdated": "1654449367"
+        "LastUpdated": "1654469648"
     },
     {
         "Author": "Dragon",
         "Name": "Hunt Buddy",
-        "Description": "A daily hunt bill tracker",
+        "Description": "\u6bcf\u65e5\u72e9\u730e\u8ffd\u8e2a\u5668",
         "InternalName": "HuntBuddy",
         "AssemblyVersion": "0.1.2.0",
         "RepoUrl": "https://github.com/SheepGoMeh/HuntBuddy",
@@ -1583,7 +1583,7 @@
             "Utility"
         ],
         "DalamudApiLevel": 5,
-        "Punchline": "Helps you track your daily hunt bills",
+        "Punchline": "\u5e2e\u4f60\u627e\u5230\u6bcf\u65e5\u72e9\u730e\u7248\u7684\u602a\u7269\u4f4d\u7f6e",
         "DownloadLinkInstall": "https://service-knj2phup-1253720819.sh.apigw.tencentcs.com/release/dalamudcounter-1623520723?plugin=HuntBuddy&isUpdate=False&isTesting=False&branch=cn-api5",
         "DownloadLinkUpdate": "https://service-knj2phup-1253720819.sh.apigw.tencentcs.com/release/dalamudcounter-1623520723?plugin=HuntBuddy&isUpdate=True&isTesting=False&branch=cn-api5",
         "DownloadLinkTesting": "https://service-knj2phup-1253720819.sh.apigw.tencentcs.com/release/dalamudcounter-1623520723?plugin=HuntBuddy&isUpdate=False&isTesting=True&branch=cn-api5",
@@ -1591,7 +1591,7 @@
         "IsTestingExclusive": false,
         "DownloadCount": 2247,
         "CategoryTags": [],
-        "LastUpdated": "1654449367"
+        "LastUpdated": "1654469648"
     },
     {
         "Author": "Loskh",
@@ -1602,7 +1602,7 @@
         "RepoUrl": "https://github.com/Loskh/StarlightBreaker",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 5,
-        "Punchline": "Turn off profanity filter.",
+        "Punchline": "\u5173\u95ed\u56fd\u670d\u804a\u5929\u654f\u611f\u5185\u5bb9\u7684\u5c4f\u853d\u3002",
         "DownloadLinkInstall": "https://service-knj2phup-1253720819.sh.apigw.tencentcs.com/release/dalamudcounter-1623520723?plugin=StarlightBreaker&isUpdate=False&isTesting=False&branch=cn-api5",
         "DownloadLinkUpdate": "https://service-knj2phup-1253720819.sh.apigw.tencentcs.com/release/dalamudcounter-1623520723?plugin=StarlightBreaker&isUpdate=True&isTesting=False&branch=cn-api5",
         "DownloadLinkTesting": "https://service-knj2phup-1253720819.sh.apigw.tencentcs.com/release/dalamudcounter-1623520723?plugin=StarlightBreaker&isUpdate=False&isTesting=True&branch=cn-api5",
@@ -1610,18 +1610,18 @@
         "IsTestingExclusive": false,
         "DownloadCount": 11606,
         "CategoryTags": [],
-        "LastUpdated": "1654449367"
+        "LastUpdated": "1654469648"
     },
     {
         "Author": "ascclemens, VergilGao",
         "Name": "Good Memory CN",
-        "Description": "\u5728\u7269\u54c1\u63cf\u8ff0\u4e2d\u6dfb\u52a0\u4e00\u4e2a\u6307\u793a\u5668\u6765\u663e\u793a\u60a8\u662f\u5426\u5df2\u7ecf\u83b7\u5f97\u8be5\u7269\u54c1\u3002\n\n\u6b64\u6307\u793a\u5668\u5728\u7269\u54c1\u63cf\u8ff0\u4e2d\u7684\u5e95\u90e8\u663e\u793a\u201c\u5df2\u83b7\u5f97\uff1a\u662f/\u5426\u201d\u3002\n\u53ea\u4f5c\u7528\u4e8e\u53ef\u89e3\u9501\u7684\u7269\u54c1\uff0c\u6bd4\u5982\u4e50\u8c31\u3001\u5ba0\u7269\u7b49\u3002\n\nSE \u7adf\u7136\u8bf4\u8fd9\u4e2a\u63d2\u4ef6\u7684\u529f\u80fd\u65e0\u6cd5\u5b9e\u73b0\uff01\uff01",
+        "Description": "\u5728\u7269\u54c1\u8be6\u60c5\u4e2d\u6dfb\u52a0\u4e00\u4e2a\u9009\u9879\u6765\u6807\u8bc6\u60a8\u662f\u5426\u5df2\u7ecf\u83b7\u5f97\u8be5\u7269\u54c1\u3002\n\n\u6b64\u6307\u793a\u5668\u5728\u7269\u54c1\u63cf\u8ff0\u4e2d\u7684\u5e95\u90e8\u663e\u793a\u201c\u5df2\u83b7\u5f97\uff1a\u662f/\u5426\u201d\u3002\n\u53ea\u4f5c\u7528\u4e8e\u53ef\u89e3\u9501\u7684\u7269\u54c1\uff0c\u6bd4\u5982\u4e50\u8c31\u3001\u5ba0\u7269\u7b49\u3002\n\u6b8b\u7834\u7684\u4e50\u8c31\u4f1a\u663e\u793a\u4ed6\u53ef\u4ee5\u5236\u9020\u7684\u6210\u54c1\u4e50\u8c31\u7684\u83b7\u5f97\u60c5\u51b5\u3002\n\nSE\u7adf\u7136\u8bf4\u8fd9\u4e2a\u529f\u80fd\u65e0\u6cd5\u5b9e\u73b0\uff01\uff01",
         "InternalName": "GoodMemory",
         "AssemblyVersion": "1.1.0",
         "RepoUrl": "https://github.com/VergilGao/GoodMemoryCN",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 5,
-        "Punchline": "\u5728\u7269\u54c1\u8be6\u60c5\u4e2d\u6dfb\u52a0\u4e00\u4e2a\u6807\u5fd7\u6765\u663e\u793a\u60a8\u662f\u5426\u5df2\u7ecf\u83b7\u5f97\u8be5\u7269\u54c1\u3002",
+        "Punchline": "\u5728\u7269\u54c1\u8be6\u60c5\u4e2d\u6dfb\u52a0\u4e00\u4e2a\u9009\u9879\u6765\u6807\u8bc6\u60a8\u662f\u5426\u5df2\u7ecf\u83b7\u5f97\u8be5\u7269\u54c1\u3002",
         "DownloadLinkInstall": "https://service-knj2phup-1253720819.sh.apigw.tencentcs.com/release/dalamudcounter-1623520723?plugin=GoodMemory&isUpdate=False&isTesting=False&branch=cn-api5",
         "DownloadLinkUpdate": "https://service-knj2phup-1253720819.sh.apigw.tencentcs.com/release/dalamudcounter-1623520723?plugin=GoodMemory&isUpdate=True&isTesting=False&branch=cn-api5",
         "DownloadLinkTesting": "https://service-knj2phup-1253720819.sh.apigw.tencentcs.com/release/dalamudcounter-1623520723?plugin=GoodMemory&isUpdate=False&isTesting=True&branch=cn-api5",
@@ -1632,12 +1632,12 @@
             "UI",
             "utility"
         ],
-        "LastUpdated": "1654449367"
+        "LastUpdated": "1654469648"
     },
     {
         "Author": "d87",
         "Name": "BigPlayerDebuffs",
-        "Description": "Scales up buffs/debuffs applied by you on Target Status frames",
+        "Description": "\u5728\u76ee\u6807\u7684 buff \u680f\u4e0a\uff0c\u5c06\u81ea\u5df1\u65bd\u52a0\u7684 buff \u653e\u5927\u663e\u793a\u3002",
         "InternalName": "BigPlayerDebuffs",
         "AssemblyVersion": "1.1.0.3",
         "RepoUrl": "https://github.com/rgd87/BigPlayerDebuffs",
@@ -1657,7 +1657,7 @@
             "UI",
             "jobs"
         ],
-        "LastUpdated": "1654449367"
+        "LastUpdated": "1654469648"
     },
     {
         "Author": "Ottermandias",
@@ -1691,7 +1691,7 @@
         "CategoryTags": [
             "UI"
         ],
-        "LastUpdated": "1654449367"
+        "LastUpdated": "1654469648"
     },
     {
         "Author": "daemitus",
@@ -1717,7 +1717,7 @@
         "CategoryTags": [
             "minigames"
         ],
-        "LastUpdated": "1654449367"
+        "LastUpdated": "1654469648"
     },
     {
         "Author": "kalilistic",
@@ -1748,7 +1748,7 @@
         "CategoryTags": [
             "inventory"
         ],
-        "LastUpdated": "1654449367"
+        "LastUpdated": "1654469648"
     },
     {
         "Author": "kalilistic",
@@ -1776,12 +1776,12 @@
             "UI",
             "utility"
         ],
-        "LastUpdated": "1654449367"
+        "LastUpdated": "1654469648"
     },
     {
         "Author": "goat",
         "Name": "Fancy Loading Screens",
-        "Description": "\u8be5\u63d2\u4ef6\u5728\u8fc7\u56fe\u65f6\u663e\u793a\u76ee\u6807\u533a\u57df\u7684\u6f02\u4eae\u56fe\u3002",
+        "Description": "\u6b64\u63d2\u4ef6\u53ef\u5728\u8bfb\u56fe\u65f6\u663e\u793a\u76ee\u6807\u533a\u57df\u7684\u5370\u8c61\u753b\u3002\n\u6ce8\u610f\uff1a\u4ec5\u5728 16:9 \u663e\u793a\u5668\u4e0a\u770b\u8d77\u6765\u5b8c\u597d\uff01\u5370\u8c61\u753b\u5c31\u8fd9\u4e48\u5927\uff0c\u6211\u4eec\u4e5f\u65e0\u6cd5\u653e\u5927\u6216\u8005\u4fee\u590d\u5b83\u3002\u975e\u5e38\u62b1\u6b49\uff01",
         "InternalName": "Dalamud.LoadingImage",
         "AssemblyVersion": "1.0.0.6",
         "ApplicableVersion": "any",
@@ -1796,7 +1796,7 @@
         "CategoryTags": [
             "other"
         ],
-        "LastUpdated": "1654449367"
+        "LastUpdated": "1654469648"
     },
     {
         "Author": "ascclemens",
@@ -1817,7 +1817,7 @@
         "CategoryTags": [
             "UI"
         ],
-        "LastUpdated": "1654449367"
+        "LastUpdated": "1654469648"
     },
     {
         "Author": "ocealot",
@@ -1842,7 +1842,7 @@
         "CategoryTags": [
             "UI"
         ],
-        "LastUpdated": "1654449367"
+        "LastUpdated": "1654469648"
     },
     {
         "Author": "fmauNeko",
@@ -1864,7 +1864,7 @@
             "UI",
             "inventory"
         ],
-        "LastUpdated": "1654449367"
+        "LastUpdated": "1654469648"
     },
     {
         "Author": "ocealot",
@@ -1889,7 +1889,7 @@
         "CategoryTags": [
             "UI"
         ],
-        "LastUpdated": "1654449367"
+        "LastUpdated": "1654469648"
     },
     {
         "Author": "Eternita",
@@ -1910,7 +1910,7 @@
         "CategoryTags": [
             "UI"
         ],
-        "LastUpdated": "1654449367"
+        "LastUpdated": "1654469648"
     },
     {
         "Author": "Avaflow",
@@ -1932,7 +1932,7 @@
         "CategoryTags": [
             "other"
         ],
-        "LastUpdated": "1654449367"
+        "LastUpdated": "1654469648"
     },
     {
         "Author": "Kouzukii",
@@ -1955,7 +1955,7 @@
         "IsTestingExclusive": false,
         "DownloadCount": 4464,
         "CategoryTags": [],
-        "LastUpdated": "1654449367"
+        "LastUpdated": "1654469648"
     },
     {
         "Author": "ascclemens",
@@ -1976,7 +1976,7 @@
         "CategoryTags": [
             "sound"
         ],
-        "LastUpdated": "1654449367"
+        "LastUpdated": "1654469648"
     },
     {
         "Author": "kij",
@@ -2001,12 +2001,12 @@
             "social",
             "utility"
         ],
-        "LastUpdated": "1654449367"
+        "LastUpdated": "1654469648"
     },
     {
         "Author": "Lharz",
         "Name": "Currency Alert",
-        "Description": "/currencyalert: show the configuration panel.",
+        "Description": "/currencyalert \u6253\u5f00\u914d\u7f6e\u9762\u677f",
         "InternalName": "CurrencyAlert",
         "AssemblyVersion": "0.3.1.0",
         "ApplicableVersion": "any",
@@ -2018,7 +2018,7 @@
             "other"
         ],
         "DalamudApiLevel": 5,
-        "Punchline": "Lets you setup alerts upon reaching certain currencies amount (such as Poetics or PVP marks).",
+        "Punchline": "\u5141\u8bb8\u8bbe\u7f6e\u7279\u5b9a\u8d27\u5e01\u8fbe\u5230\u4e00\u5b9a\u6570\u91cf\u65f6\u6536\u5230\u63d0\u9192\uff0c\u6bd4\u5982\u8bd7\u5b66\u548c\u72fc\u5370\u6218\u8bb0\u7b49\u3002",
         "DownloadLinkInstall": "https://service-knj2phup-1253720819.sh.apigw.tencentcs.com/release/dalamudcounter-1623520723?plugin=CurrencyAlert&isUpdate=False&isTesting=False&branch=cn-api5",
         "DownloadLinkUpdate": "https://service-knj2phup-1253720819.sh.apigw.tencentcs.com/release/dalamudcounter-1623520723?plugin=CurrencyAlert&isUpdate=True&isTesting=False&branch=cn-api5",
         "DownloadLinkTesting": "https://service-knj2phup-1253720819.sh.apigw.tencentcs.com/release/dalamudcounter-1623520723?plugin=CurrencyAlert&isUpdate=False&isTesting=True&branch=cn-api5",
@@ -2026,12 +2026,12 @@
         "IsTestingExclusive": false,
         "DownloadCount": 597,
         "CategoryTags": [],
-        "LastUpdated": "1654449367"
+        "LastUpdated": "1654469648"
     },
     {
         "Author": "goat",
         "Name": "Wotsit",
-        "Description": "Adds a convenient quick search akin to Spotlight that lets you open game windows, teleport, find wiki articles, and more.\nPress Control + T to open the search window. This can be changed by searching for \"Wotsit Settings\".",
+        "Description": "\u6dfb\u52a0\u4e00\u4e2a\u7c7b\u4f3cSpotlight \u7684\u65b9\u4fbf\u5feb\u901f\u641c\u7d22\uff0c\u8ba9\u60a8\u6253\u5f00\u6e38\u620f\u7a97\u53e3\u3001\u4f20\u9001\u3001\u627e\u5230\u7ef4\u57fa\u6587\u7ae0\u7b49\u7b49\u3002\n\u6309\u4e0b Control + T \u6253\u5f00\u641c\u7d22\u7a97\u53e3\u3002\u8fd9\u53ef\u4ee5\u901a\u8fc7\u641c\u7d22\u201cWotsit Settings\u201d\u6765\u66f4\u6539\u3002",
         "InternalName": "Dalamud.FindAnything",
         "AssemblyVersion": "1.0.1.4",
         "ApplicableVersion": "any",
@@ -2041,7 +2041,7 @@
             "wiki"
         ],
         "DalamudApiLevel": 5,
-        "Punchline": "Find anything, go anywhere, in style.",
+        "Punchline": "\u67e5\u627e\u4efb\u4f55\u4e1c\u897f\uff0c\u53bb\u4efb\u4f55\u5730\u65b9\u3002",
         "DownloadLinkInstall": "https://service-knj2phup-1253720819.sh.apigw.tencentcs.com/release/dalamudcounter-1623520723?plugin=Dalamud.FindAnything&isUpdate=False&isTesting=False&branch=cn-api5",
         "DownloadLinkUpdate": "https://service-knj2phup-1253720819.sh.apigw.tencentcs.com/release/dalamudcounter-1623520723?plugin=Dalamud.FindAnything&isUpdate=True&isTesting=False&branch=cn-api5",
         "DownloadLinkTesting": "https://service-knj2phup-1253720819.sh.apigw.tencentcs.com/release/dalamudcounter-1623520723?plugin=Dalamud.FindAnything&isUpdate=False&isTesting=True&branch=cn-api5",
@@ -2049,7 +2049,7 @@
         "IsTestingExclusive": false,
         "DownloadCount": 930,
         "CategoryTags": [],
-        "LastUpdated": "1654449367"
+        "LastUpdated": "1654469648"
     },
     {
         "Author": "Haplo064",
@@ -2081,7 +2081,7 @@
         "CategoryTags": [
             "UI"
         ],
-        "LastUpdated": "1654449367"
+        "LastUpdated": "1654469648"
     },
     {
         "Author": "ascclemens",
@@ -2101,12 +2101,12 @@
         "CategoryTags": [
             "social"
         ],
-        "LastUpdated": "1654449367"
+        "LastUpdated": "1654469648"
     },
     {
         "Author": "Caraxi",
         "Name": "Simple Tweaks Plugin",
-        "Description": "\u4e00\u4e9b\u5c0f\u7684\u529f\u80fd\u4f18\u5316\u7684\u5408\u96c6\uff0c\u76ee\u6807\u662f\u5728\u4e0d\u8fdb\u884c\u91cd\u5927\u6539\u52a8\u7684\u60c5\u51b5\u4e0b\u4f18\u5316\u6e38\u620f\u4f53\u9a8c\n\u6240\u6709\u7684\u529f\u80fd\u90fd\u662f\u53ef\u9009\u7684\uff0c\u5e76\u4e14\u9ed8\u8ba4\u5173\u95ed\u3002\u8bbf\u95ee\u6211\u4eec\u7684\u9879\u76ee\u754c\u9762\u53ef\u4ee5\u67e5\u770b\u6240\u6709\u4f18\u5316\u7684\u5217\u8868\u3002",
+        "Description": "\u4e00\u4e9b\u5c0f\u7684\u529f\u80fd\u4f18\u5316\u7684\u5408\u96c6\uff0c\u76ee\u6807\u662f\u5728\u4e0d\u8fdb\u884c\u91cd\u5927\u6539\u52a8\u7684\u60c5\u51b5\u4e0b\u4f18\u5316\u6e38\u620f\u4f53\u9a8c\n\u6240\u6709\u7684\u529f\u80fd\u90fd\u662f\u53ef\u9009\u7684\uff0c\u5e76\u4e14\u9ed8\u8ba4\u5173\u95ed\u3002\u8bbf\u95ee\u6211\u4eec\u7684\u9879\u76ee\u754c\u9762\u53ef\u4ee5\u67e5\u770b\u6240\u6709\u4f18\u5316\u7684\u5217\u8868\u3002\uff08\u70b9\u51fb\u4e0b\u9762\u7684 Globe \u56fe\u6807\uff09\n\u5230General Options\u6807\u7b7e\u9875\uff0c\u627e\u5230Language\u680f\uff0c\u70b9\u51fbUpdate Translations\u540e\uff0c\u9009\u62e9zh-CN\u663e\u793a\u4e2d\u6587",
         "InternalName": "SimpleTweaksPlugin",
         "AssemblyVersion": "1.6.6.0",
         "RepoUrl": "https://github.com/Caraxi/SimpleTweaksPlugin",
@@ -2125,7 +2125,7 @@
             "utility",
             "social"
         ],
-        "LastUpdated": "1654449367"
+        "LastUpdated": "1654469648"
     },
     {
         "Author": "Azure Gem",
@@ -2145,7 +2145,7 @@
         "CategoryTags": [
             "UI"
         ],
-        "LastUpdated": "1654449367"
+        "LastUpdated": "1654469648"
     },
     {
         "Author": "jdsmith2816",
@@ -2169,18 +2169,18 @@
         "CategoryTags": [
             "UI"
         ],
-        "LastUpdated": "1654449367"
+        "LastUpdated": "1654469648"
     },
     {
         "Author": "UnknownX",
         "Name": "A Realm Recorded",
-        "Description": "Adds additional features to the duty recorder and automatically starts it in most instances. Please make sure the setting is enabled inside \"/record\".",
+        "Description": "\u7ed9\u4efb\u52a1\u56de\u987e\u6dfb\u52a0\u9644\u52a0\u529f\u80fd\u5230\u5e76\u5728\u5927\u591a\u6570\u60c5\u51b5\u4e0b\u81ea\u52a8\u542f\u52a8\u3002\u8bf7\u786e\u4fdd\u5728\u201c/record\u201d\u4e2d\u542f\u7528\u8bbe\u7f6e\u3002",
         "InternalName": "ARealmRecorded",
         "AssemblyVersion": "0.4.1.0",
         "RepoUrl": "https://github.com/UnknownX7/ARealmRecorded",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 5,
-        "Punchline": "Allows you to use the duty recorder",
+        "Punchline": "\u5141\u8bb8\u60a8\u4f7f\u7528\u4efb\u52a1\u56de\u987e",
         "ImageUrls": [
             ""
         ],
@@ -2192,7 +2192,7 @@
         "IsTestingExclusive": false,
         "DownloadCount": 0,
         "CategoryTags": [],
-        "LastUpdated": "1654449367"
+        "LastUpdated": "1654469648"
     },
     {
         "Author": "Sonar Team",
@@ -2232,7 +2232,7 @@
         "CategoryTags": [
             "UI"
         ],
-        "LastUpdated": "1654449367"
+        "LastUpdated": "1654469648"
     },
     {
         "Author": "Pohky",
@@ -2254,12 +2254,12 @@
             "UI",
             "utility"
         ],
-        "LastUpdated": "1654449367"
+        "LastUpdated": "1654469648"
     },
     {
         "Author": "Marconsou",
         "Name": "MP Tick Bar",
-        "Description": "-Fast Fire III marker on the bar.\n-Autostarts the bar before combat starts.\n-Countdown with time offset.\n-Compatible with FFXIV Material UI.",
+        "Description": "-\u5feb\u901f\u7206\u708e\u56fe\u6807\u3002\n-\u6218\u6597\u5f00\u59cb\u524d\u81ea\u52a8\u542f\u52a8 Bar\u3002\n-\u5e26\u6709\u65f6\u95f4\u504f\u79fb\u7684\u5012\u8ba1\u65f6\u3002\n-\u517c\u5bb9 FFXIV Material UI \u3002",
         "InternalName": "MPTickBar",
         "AssemblyVersion": "1.4.0.4",
         "RepoUrl": "https://github.com/marconsou/mp-tick-bar",
@@ -2273,7 +2273,7 @@
             "mage"
         ],
         "DalamudApiLevel": 5,
-        "Punchline": "Visually tracks MP regeneration ticks (Black Mage only).",
+        "Punchline": "\u53ef\u89c6\u5316\u56de\u84dd\u76d1\u63a7\uff08\u9ed1\u9b54\u9650\u5b9a\uff09",
         "DownloadLinkInstall": "https://service-knj2phup-1253720819.sh.apigw.tencentcs.com/release/dalamudcounter-1623520723?plugin=MPTickBar&isUpdate=False&isTesting=False&branch=cn-api5",
         "DownloadLinkUpdate": "https://service-knj2phup-1253720819.sh.apigw.tencentcs.com/release/dalamudcounter-1623520723?plugin=MPTickBar&isUpdate=True&isTesting=False&branch=cn-api5",
         "DownloadLinkTesting": "https://service-knj2phup-1253720819.sh.apigw.tencentcs.com/release/dalamudcounter-1623520723?plugin=MPTickBar&isUpdate=False&isTesting=True&branch=cn-api5",
@@ -2283,6 +2283,6 @@
         "CategoryTags": [
             "jobs"
         ],
-        "LastUpdated": "1654449367"
+        "LastUpdated": "1654469648"
     }
 ]
