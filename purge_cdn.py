@@ -132,7 +132,3 @@ def purge(args):
 
 if __name__ == '__main__':
     cli()
-
-
-
-
