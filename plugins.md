@@ -30,7 +30,6 @@
 | PingPlugin | karashiiro | Dalamud 的 ping 显示插件。 |
 | VisibilityCN | Dragon | 让你可以隐藏玩家，宠物和陆行鸟<br>内含VoidList（更好的黑名单插件）<br>/pvis 打开面板<br>/xlhelp 获取更多帮助信息 |
 | Reset enmity command | akira0245 | 添加一个清除木人仇恨指令。 |
-| No Kill Plugin | Bluefissure | 一个防止游戏自动关闭的简单插件 |
 | Player Tags | r00telement | 在姓名板和聊天区域轻量化显示职业。创建自定义标签并将其添加到上下文菜单中的玩家。 |
 | Housemate | perchbird | Housemate 提供多种功能，可以帮助你从游戏里其他人的房屋中获得灵感。<br>如果你正在寻找一个特定的家具或庭具，你可以在住宅区闲逛并检查其他人使用的家(庭) 具清单。如果你想看看别人拼的家具是由什么东西组成的，打开物品叠加功能，就可以看到它们是什么了！<br><br>注意：这个插件仅能显示信息，并不能帮助你放置家(庭) 具，甚至是卡bug放置家具到奇怪的位置。 |
 | Daily Duty CN | MidoriKami, NiGuangOwO | 追踪并完成那些日常和周常任务。 |

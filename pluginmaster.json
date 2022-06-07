@@ -14,11 +14,11 @@
         "DownloadLinkTesting": "https://service-knj2phup-1253720819.sh.apigw.tencentcs.com/release/dalamudcounter-1623520723?plugin=DamageInfoPlugin&isUpdate=False&isTesting=True&branch=cn-api5",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "DownloadCount": 3920,
+        "DownloadCount": 3978,
         "CategoryTags": [
             "UI"
         ],
-        "LastUpdated": "1654469648"
+        "LastUpdated": "1654626069"
     },
     {
         "Author": "Chalkos",
@@ -48,11 +48,11 @@
         "DownloadLinkTesting": "https://service-knj2phup-1253720819.sh.apigw.tencentcs.com/release/dalamudcounter-1623520723?plugin=RepairMe&isUpdate=False&isTesting=True&branch=cn-api5",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "DownloadCount": 2163,
+        "DownloadCount": 2217,
         "CategoryTags": [
             "inventory"
         ],
-        "LastUpdated": "1654469648"
+        "LastUpdated": "1654626069"
     },
     {
         "Author": "Caraxi",
@@ -69,11 +69,11 @@
         "DownloadLinkTesting": "https://service-knj2phup-1253720819.sh.apigw.tencentcs.com/release/dalamudcounter-1623520723?plugin=FPSPlugin&isUpdate=False&isTesting=True&branch=cn-api5",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "DownloadCount": 6805,
+        "DownloadCount": 6938,
         "CategoryTags": [
             "UI"
         ],
-        "LastUpdated": "1654469648"
+        "LastUpdated": "1654626069"
     },
     {
         "Author": "haplo, daemitus, Loskh, wozaiha",
@@ -89,11 +89,11 @@
         "DownloadLinkTesting": "https://service-knj2phup-1253720819.sh.apigw.tencentcs.com/release/dalamudcounter-1623520723?plugin=JobIcons&isUpdate=False&isTesting=True&branch=cn-api5",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "DownloadCount": 6448,
+        "DownloadCount": 6533,
         "CategoryTags": [
             "jobs"
         ],
-        "LastUpdated": "1654469648"
+        "LastUpdated": "1654626069"
     },
     {
         "Author": "tesu",
@@ -118,11 +118,11 @@
         "DownloadLinkTesting": "https://service-knj2phup-1253720819.sh.apigw.tencentcs.com/release/dalamudcounter-1623520723?plugin=PennyPincher&isUpdate=False&isTesting=True&branch=cn-api5",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "DownloadCount": 10338,
+        "DownloadCount": 10576,
         "CategoryTags": [
             "inventory"
         ],
-        "LastUpdated": "1654469648"
+        "LastUpdated": "1654626069"
     },
     {
         "Author": "MgAl2O4",
@@ -151,13 +151,13 @@
         "DownloadLinkTesting": "https://service-knj2phup-1253720819.sh.apigw.tencentcs.com/release/dalamudcounter-1623520723?plugin=HarpHero&isUpdate=False&isTesting=True&branch=cn-api5",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "DownloadCount": 3764,
+        "DownloadCount": 3838,
         "CategoryTags": [
             "jobs",
             "utility",
             "sound"
         ],
-        "LastUpdated": "1654469648"
+        "LastUpdated": "1654626069"
     },
     {
         "Author": "Ottermandias",
@@ -183,11 +183,11 @@
         "DownloadLinkTesting": "https://service-knj2phup-1253720819.sh.apigw.tencentcs.com/release/dalamudcounter-1623520723?plugin=GatherBuddy&isUpdate=False&isTesting=True&branch=cn-api5",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "DownloadCount": 2450,
+        "DownloadCount": 2613,
         "CategoryTags": [
             "jobs"
         ],
-        "LastUpdated": "1654469648"
+        "LastUpdated": "1654626069"
     },
     {
         "Author": "ocealot",
@@ -208,11 +208,11 @@
         "DownloadLinkTesting": "https://service-knj2phup-1253720819.sh.apigw.tencentcs.com/release/dalamudcounter-1623520723?plugin=JobBars&isUpdate=False&isTesting=True&branch=cn-api5",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "DownloadCount": 8855,
+        "DownloadCount": 9015,
         "CategoryTags": [
             "jobs"
         ],
-        "LastUpdated": "1654469648"
+        "LastUpdated": "1654626069"
     },
     {
         "Author": "PunishedPineapple",
@@ -238,9 +238,9 @@
         "DownloadLinkTesting": "https://service-knj2phup-1253720819.sh.apigw.tencentcs.com/release/dalamudcounter-1623520723?plugin=WhatDidYouSay&isUpdate=False&isTesting=True&branch=cn-api5",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "DownloadCount": 256,
+        "DownloadCount": 312,
         "CategoryTags": [],
-        "LastUpdated": "1654469648"
+        "LastUpdated": "1654626069"
     },
     {
         "Author": "ascclemens",
@@ -257,11 +257,11 @@
         "DownloadLinkTesting": "https://service-knj2phup-1253720819.sh.apigw.tencentcs.com/release/dalamudcounter-1623520723?plugin=Globetrotter&isUpdate=False&isTesting=True&branch=cn-api5",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "DownloadCount": 13434,
+        "DownloadCount": 13728,
         "CategoryTags": [
             "utility"
         ],
-        "LastUpdated": "1654469648"
+        "LastUpdated": "1654626069"
     },
     {
         "Author": "digital pet\uff0cAinaSnow",
@@ -284,9 +284,9 @@
         "DownloadLinkTesting": "https://service-knj2phup-1253720819.sh.apigw.tencentcs.com/release/dalamudcounter-1623520723?plugin=AetherSenseRedux&isUpdate=False&isTesting=True&branch=cn-api5",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "DownloadCount": 292,
+        "DownloadCount": 309,
         "CategoryTags": [],
-        "LastUpdated": "1654469648"
+        "LastUpdated": "1654626069"
     },
     {
         "Author": "Chivalrik",
@@ -303,11 +303,11 @@
         "DownloadLinkTesting": "https://service-knj2phup-1253720819.sh.apigw.tencentcs.com/release/dalamudcounter-1623520723?plugin=Compass&isUpdate=False&isTesting=True&branch=cn-api5",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "DownloadCount": 2009,
+        "DownloadCount": 2040,
         "CategoryTags": [
             "UI"
         ],
-        "LastUpdated": "1654469648"
+        "LastUpdated": "1654626069"
     },
     {
         "Author": "Bluefissure",
@@ -327,11 +327,11 @@
         "DownloadLinkTesting": "https://service-knj2phup-1253720819.sh.apigw.tencentcs.com/release/dalamudcounter-1623520723?plugin=MapLinker&isUpdate=False&isTesting=True&branch=cn-api5",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "DownloadCount": 2099,
+        "DownloadCount": 2124,
         "CategoryTags": [
             "UI"
         ],
-        "LastUpdated": "1654469648"
+        "LastUpdated": "1654626069"
     },
     {
         "Author": "Meli & perchbird",
@@ -352,11 +352,11 @@
         "DownloadLinkTesting": "https://service-knj2phup-1253720819.sh.apigw.tencentcs.com/release/dalamudcounter-1623520723?plugin=orchestrion&isUpdate=False&isTesting=True&branch=cn-api5",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "DownloadCount": 2893,
+        "DownloadCount": 2926,
         "CategoryTags": [
             "sound"
         ],
-        "LastUpdated": "1654469648"
+        "LastUpdated": "1654626069"
     },
     {
         "Author": "Caraxi & Ottermandias",
@@ -382,9 +382,9 @@
         "DownloadLinkTesting": "https://service-knj2phup-1253720819.sh.apigw.tencentcs.com/release/dalamudcounter-1623520723?plugin=ChatAlerts&isUpdate=False&isTesting=True&branch=cn-api5",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "DownloadCount": 327,
+        "DownloadCount": 353,
         "CategoryTags": [],
-        "LastUpdated": "1654469648"
+        "LastUpdated": "1654626069"
     },
     {
         "Author": "Ottermandias",
@@ -412,12 +412,12 @@
         "DownloadLinkTesting": "https://service-knj2phup-1253720819.sh.apigw.tencentcs.com/release/dalamudcounter-1623520723?plugin=AutoVisor&isUpdate=False&isTesting=True&branch=cn-api5",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "DownloadCount": 1136,
+        "DownloadCount": 1147,
         "CategoryTags": [
             "UI",
             "utility"
         ],
-        "LastUpdated": "1654469648"
+        "LastUpdated": "1654626069"
     },
     {
         "Author": "MidoriKami",
@@ -439,9 +439,9 @@
         "DownloadLinkTesting": "https://service-knj2phup-1253720819.sh.apigw.tencentcs.com/release/dalamudcounter-1623520723?plugin=NoTankYou&isUpdate=False&isTesting=True&branch=cn-api5",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "DownloadCount": 1073,
+        "DownloadCount": 1217,
         "CategoryTags": [],
-        "LastUpdated": "1654469648"
+        "LastUpdated": "1654626069"
     },
     {
         "Author": "kalilistic, karashiiro",
@@ -465,11 +465,11 @@
         "DownloadLinkTesting": "https://service-knj2phup-1253720819.sh.apigw.tencentcs.com/release/dalamudcounter-1623520723?plugin=NeatNoter&isUpdate=False&isTesting=True&branch=cn-api5",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "DownloadCount": 1528,
+        "DownloadCount": 1554,
         "CategoryTags": [
             "UI"
         ],
-        "LastUpdated": "1654469648"
+        "LastUpdated": "1654626069"
     },
     {
         "Author": "attick & perchbird",
@@ -486,12 +486,12 @@
         "DownloadLinkTesting": "https://service-knj2phup-1253720819.sh.apigw.tencentcs.com/release/dalamudcounter-1623520723?plugin=TitleEdit&isUpdate=False&isTesting=True&branch=cn-api5",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "DownloadCount": 1273,
+        "DownloadCount": 1287,
         "CategoryTags": [
             "UI",
             "utility"
         ],
-        "LastUpdated": "1654469648"
+        "LastUpdated": "1654626069"
     },
     {
         "Author": "Aireil",
@@ -508,11 +508,11 @@
         "DownloadLinkTesting": "https://service-knj2phup-1253720819.sh.apigw.tencentcs.com/release/dalamudcounter-1623520723?plugin=FlyTextFilter&isUpdate=False&isTesting=True&branch=cn-api5",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "DownloadCount": 761,
+        "DownloadCount": 780,
         "CategoryTags": [
             "UI"
         ],
-        "LastUpdated": "1654469648"
+        "LastUpdated": "1654626069"
     },
     {
         "Author": "karashiiro",
@@ -538,11 +538,11 @@
         "DownloadLinkTesting": "https://service-knj2phup-1253720819.sh.apigw.tencentcs.com/release/dalamudcounter-1623520723?plugin=PingPlugin&isUpdate=False&isTesting=True&branch=cn-api5",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "DownloadCount": 7343,
+        "DownloadCount": 7494,
         "CategoryTags": [
             "UI"
         ],
-        "LastUpdated": "1654469648"
+        "LastUpdated": "1654626069"
     },
     {
         "Author": "Dragon",
@@ -568,11 +568,11 @@
         "DownloadLinkTesting": "https://service-knj2phup-1253720819.sh.apigw.tencentcs.com/release/dalamudcounter-1623520723?plugin=Visibility&isUpdate=False&isTesting=True&branch=cn-api5",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "DownloadCount": 3557,
+        "DownloadCount": 3616,
         "CategoryTags": [
             "UI"
         ],
-        "LastUpdated": "1654469648"
+        "LastUpdated": "1654626069"
     },
     {
         "Author": "akira0245",
@@ -596,31 +596,11 @@
         "DownloadLinkTesting": "https://service-knj2phup-1253720819.sh.apigw.tencentcs.com/release/dalamudcounter-1623520723?plugin=Reset enmity command&isUpdate=False&isTesting=True&branch=cn-api5",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "DownloadCount": 1191,
+        "DownloadCount": 1217,
         "CategoryTags": [
             "jobs"
         ],
-        "LastUpdated": "1654469648"
-    },
-    {
-        "Author": "Bluefissure",
-        "Name": "No Kill Plugin",
-        "Description": "\u4e00\u4e2a\u9632\u6b62\u6e38\u620f\u81ea\u52a8\u5173\u95ed\u7684\u7b80\u5355\u63d2\u4ef6",
-        "InternalName": "NoKillPlugin",
-        "AssemblyVersion": "1.0.4.3",
-        "RepoUrl": "https://github.com/Bluefissure/NoKillPlugin",
-        "ApplicableVersion": "any",
-        "DalamudApiLevel": 5,
-        "DownloadLinkInstall": "https://service-knj2phup-1253720819.sh.apigw.tencentcs.com/release/dalamudcounter-1623520723?plugin=NoKillPlugin&isUpdate=False&isTesting=False&branch=cn-api5",
-        "DownloadLinkUpdate": "https://service-knj2phup-1253720819.sh.apigw.tencentcs.com/release/dalamudcounter-1623520723?plugin=NoKillPlugin&isUpdate=True&isTesting=False&branch=cn-api5",
-        "DownloadLinkTesting": "https://service-knj2phup-1253720819.sh.apigw.tencentcs.com/release/dalamudcounter-1623520723?plugin=NoKillPlugin&isUpdate=False&isTesting=True&branch=cn-api5",
-        "IsHide": false,
-        "IsTestingExclusive": false,
-        "DownloadCount": 8847,
-        "CategoryTags": [
-            "other"
-        ],
-        "LastUpdated": "1654469648"
+        "LastUpdated": "1654626069"
     },
     {
         "Author": "r00telement",
@@ -645,9 +625,9 @@
         "DownloadLinkTesting": "https://service-knj2phup-1253720819.sh.apigw.tencentcs.com/release/dalamudcounter-1623520723?plugin=PlayerTags&isUpdate=False&isTesting=True&branch=cn-api5",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "DownloadCount": 724,
+        "DownloadCount": 764,
         "CategoryTags": [],
-        "LastUpdated": "1654469648"
+        "LastUpdated": "1654626069"
     },
     {
         "Author": "perchbird",
@@ -664,11 +644,11 @@
         "DownloadLinkTesting": "https://service-knj2phup-1253720819.sh.apigw.tencentcs.com/release/dalamudcounter-1623520723?plugin=Housemate&isUpdate=False&isTesting=True&branch=cn-api5",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "DownloadCount": 3050,
+        "DownloadCount": 3091,
         "CategoryTags": [
             "UI"
         ],
-        "LastUpdated": "1654469648"
+        "LastUpdated": "1654626069"
     },
     {
         "Author": "MidoriKami, NiGuangOwO",
@@ -688,9 +668,9 @@
         "DownloadLinkTesting": "https://service-knj2phup-1253720819.sh.apigw.tencentcs.com/release/dalamudcounter-1623520723?plugin=DailyDuty&isUpdate=False&isTesting=True&branch=cn-api5",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "DownloadCount": 3451,
+        "DownloadCount": 3558,
         "CategoryTags": [],
-        "LastUpdated": "1654469648"
+        "LastUpdated": "1654626069"
     },
     {
         "Author": "perchbird",
@@ -707,11 +687,11 @@
         "DownloadLinkTesting": "https://service-knj2phup-1253720819.sh.apigw.tencentcs.com/release/dalamudcounter-1623520723?plugin=PrefPro&isUpdate=False&isTesting=True&branch=cn-api5",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "DownloadCount": 271,
+        "DownloadCount": 280,
         "CategoryTags": [
             "UI"
         ],
-        "LastUpdated": "1654469648"
+        "LastUpdated": "1654626069"
     },
     {
         "Author": "ascclemens",
@@ -728,12 +708,12 @@
         "DownloadLinkTesting": "https://service-knj2phup-1253720819.sh.apigw.tencentcs.com/release/dalamudcounter-1623520723?plugin=Namingway&isUpdate=False&isTesting=True&branch=cn-api5",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "DownloadCount": 996,
+        "DownloadCount": 1004,
         "CategoryTags": [
             "UI",
             "jobs"
         ],
-        "LastUpdated": "1654469648"
+        "LastUpdated": "1654626069"
     },
     {
         "Author": "Bluefissure",
@@ -754,9 +734,9 @@
         "DownloadLinkTesting": "https://service-knj2phup-1253720819.sh.apigw.tencentcs.com/release/dalamudcounter-1623520723?plugin=OBSPlugin&isUpdate=False&isTesting=True&branch=cn-api5",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "DownloadCount": 370,
+        "DownloadCount": 384,
         "CategoryTags": [],
-        "LastUpdated": "1654469648"
+        "LastUpdated": "1654626069"
     },
     {
         "Author": "PunishedPineapple",
@@ -783,9 +763,9 @@
         "DownloadLinkTesting": "https://service-knj2phup-1253720819.sh.apigw.tencentcs.com/release/dalamudcounter-1623520723?plugin=ReadyCheckHelper&isUpdate=False&isTesting=True&branch=cn-api5",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "DownloadCount": 1411,
+        "DownloadCount": 1475,
         "CategoryTags": [],
-        "LastUpdated": "1654469648"
+        "LastUpdated": "1654626069"
     },
     {
         "Author": "ascclemens",
@@ -802,11 +782,11 @@
         "DownloadLinkTesting": "https://service-knj2phup-1253720819.sh.apigw.tencentcs.com/release/dalamudcounter-1623520723?plugin=TheGreatSeparator&isUpdate=False&isTesting=True&branch=cn-api5",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "DownloadCount": 737,
+        "DownloadCount": 749,
         "CategoryTags": [
             "UI"
         ],
-        "LastUpdated": "1654469648"
+        "LastUpdated": "1654626069"
     },
     {
         "Author": "UnknownX",
@@ -827,11 +807,11 @@
         "DownloadLinkTesting": "https://service-knj2phup-1253720819.sh.apigw.tencentcs.com/release/dalamudcounter-1623520723?plugin=QoLBar&isUpdate=False&isTesting=True&branch=cn-api5",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "DownloadCount": 3493,
+        "DownloadCount": 3519,
         "CategoryTags": [
             "UI"
         ],
-        "LastUpdated": "1654469648"
+        "LastUpdated": "1654626069"
     },
     {
         "Author": "Felys",
@@ -847,11 +827,11 @@
         "DownloadLinkTesting": "https://service-knj2phup-1253720819.sh.apigw.tencentcs.com/release/dalamudcounter-1623520723?plugin=EnemyListDebuffs&isUpdate=False&isTesting=True&branch=cn-api5",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "DownloadCount": 1113,
+        "DownloadCount": 1181,
         "CategoryTags": [
             "UI"
         ],
-        "LastUpdated": "1654469648"
+        "LastUpdated": "1654626069"
     },
     {
         "Author": "daemitus",
@@ -872,11 +852,11 @@
         "DownloadLinkTesting": "https://service-knj2phup-1253720819.sh.apigw.tencentcs.com/release/dalamudcounter-1623520723?plugin=FauxHollowsSolver&isUpdate=False&isTesting=True&branch=cn-api5",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "DownloadCount": 4687,
+        "DownloadCount": 4829,
         "CategoryTags": [
             "minigames"
         ],
-        "LastUpdated": "1654469648"
+        "LastUpdated": "1654626069"
     },
     {
         "Author": "Eternita",
@@ -895,9 +875,9 @@
         "DownloadLinkTesting": "https://service-knj2phup-1253720819.sh.apigw.tencentcs.com/release/dalamudcounter-1623520723?plugin=NotificationMaster&isUpdate=False&isTesting=True&branch=cn-api5",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "DownloadCount": 1971,
+        "DownloadCount": 2012,
         "CategoryTags": [],
-        "LastUpdated": "1654469648"
+        "LastUpdated": "1654626069"
     },
     {
         "Author": "PGGB",
@@ -918,9 +898,9 @@
         "DownloadLinkTesting": "https://service-knj2phup-1253720819.sh.apigw.tencentcs.com/release/dalamudcounter-1623520723?plugin=DeviceChangeFix&isUpdate=False&isTesting=True&branch=cn-api5",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "DownloadCount": 117,
+        "DownloadCount": 138,
         "CategoryTags": [],
-        "LastUpdated": "1654469648"
+        "LastUpdated": "1654626069"
     },
     {
         "Author": "ascclemens",
@@ -937,12 +917,12 @@
         "DownloadLinkTesting": "https://service-knj2phup-1253720819.sh.apigw.tencentcs.com/release/dalamudcounter-1623520723?plugin=Tourist&isUpdate=False&isTesting=True&branch=cn-api5",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "DownloadCount": 6275,
+        "DownloadCount": 6407,
         "CategoryTags": [
             "UI",
             "utility"
         ],
-        "LastUpdated": "1654469648"
+        "LastUpdated": "1654626069"
     },
     {
         "Author": "ascclemens",
@@ -959,11 +939,11 @@
         "DownloadLinkTesting": "https://service-knj2phup-1253720819.sh.apigw.tencentcs.com/release/dalamudcounter-1623520723?plugin=BetterPartyFinder&isUpdate=False&isTesting=True&branch=cn-api5",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "DownloadCount": 2672,
+        "DownloadCount": 2706,
         "CategoryTags": [
             "UI"
         ],
-        "LastUpdated": "1654469648"
+        "LastUpdated": "1654626069"
     },
     {
         "Author": "Haplo064, maintained by Franz",
@@ -985,11 +965,11 @@
         "DownloadLinkTesting": "https://service-knj2phup-1253720819.sh.apigw.tencentcs.com/release/dalamudcounter-1623520723?plugin=WheresWOLdo&isUpdate=False&isTesting=True&branch=cn-api5",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "DownloadCount": 2457,
+        "DownloadCount": 2513,
         "CategoryTags": [
             "UI"
         ],
-        "LastUpdated": "1654469648"
+        "LastUpdated": "1654626069"
     },
     {
         "Author": "ascclemens",
@@ -1006,9 +986,9 @@
         "DownloadLinkTesting": "https://service-knj2phup-1253720819.sh.apigw.tencentcs.com/release/dalamudcounter-1623520723?plugin=Glamaholic&isUpdate=False&isTesting=True&branch=cn-api5",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "DownloadCount": 2641,
+        "DownloadCount": 2711,
         "CategoryTags": [],
-        "LastUpdated": "1654469648"
+        "LastUpdated": "1654626069"
     },
     {
         "Author": "Haplo064",
@@ -1032,11 +1012,11 @@
         "DownloadLinkTesting": "https://service-knj2phup-1253720819.sh.apigw.tencentcs.com/release/dalamudcounter-1623520723?plugin=ChatBubbles&isUpdate=False&isTesting=True&branch=cn-api5",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "DownloadCount": 12086,
+        "DownloadCount": 12280,
         "CategoryTags": [
             "social"
         ],
-        "LastUpdated": "1654469648"
+        "LastUpdated": "1654626069"
     },
     {
         "Author": "attick",
@@ -1057,11 +1037,11 @@
         "DownloadLinkTesting": "https://service-knj2phup-1253720819.sh.apigw.tencentcs.com/release/dalamudcounter-1623520723?plugin=MOAction&isUpdate=False&isTesting=True&branch=cn-api5",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "DownloadCount": 4261,
+        "DownloadCount": 4321,
         "CategoryTags": [
             "jobs"
         ],
-        "LastUpdated": "1654469648"
+        "LastUpdated": "1654626069"
     },
     {
         "Author": "Xorus",
@@ -1091,11 +1071,11 @@
         "DownloadLinkTesting": "https://service-knj2phup-1253720819.sh.apigw.tencentcs.com/release/dalamudcounter-1623520723?plugin=EngageTimer&isUpdate=False&isTesting=True&branch=cn-api5",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "DownloadCount": 3345,
+        "DownloadCount": 3422,
         "CategoryTags": [
             "jobs"
         ],
-        "LastUpdated": "1654469648"
+        "LastUpdated": "1654626069"
     },
     {
         "Author": "Kouzukii",
@@ -1117,9 +1097,9 @@
         "DownloadLinkTesting": "https://service-knj2phup-1253720819.sh.apigw.tencentcs.com/release/dalamudcounter-1623520723?plugin=DeathRecap&isUpdate=False&isTesting=True&branch=cn-api5",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "DownloadCount": 2391,
+        "DownloadCount": 2914,
         "CategoryTags": [],
-        "LastUpdated": "1654469648"
+        "LastUpdated": "1654626069"
     },
     {
         "Author": "goat, modded by Franz",
@@ -1143,11 +1123,11 @@
         "DownloadLinkTesting": "https://service-knj2phup-1253720819.sh.apigw.tencentcs.com/release/dalamudcounter-1623520723?plugin=owofy&isUpdate=False&isTesting=True&branch=cn-api5",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "DownloadCount": 661,
+        "DownloadCount": 755,
         "CategoryTags": [
             "social"
         ],
-        "LastUpdated": "1654469648"
+        "LastUpdated": "1654626069"
     },
     {
         "Author": "ascclemens",
@@ -1163,11 +1143,11 @@
         "DownloadLinkTesting": "https://service-knj2phup-1253720819.sh.apigw.tencentcs.com/release/dalamudcounter-1623520723?plugin=BurntToast&isUpdate=False&isTesting=True&branch=cn-api5",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "DownloadCount": 917,
+        "DownloadCount": 939,
         "CategoryTags": [
             "UI"
         ],
-        "LastUpdated": "1654469648"
+        "LastUpdated": "1654626069"
     },
     {
         "Author": "Kouzukii",
@@ -1185,9 +1165,9 @@
         "DownloadLinkTesting": "https://service-knj2phup-1253720819.sh.apigw.tencentcs.com/release/dalamudcounter-1623520723?plugin=faderPlugin&isUpdate=False&isTesting=True&branch=cn-api5",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "DownloadCount": 653,
+        "DownloadCount": 700,
         "CategoryTags": [],
-        "LastUpdated": "1654469648"
+        "LastUpdated": "1654626069"
     },
     {
         "Author": "karashiiro",
@@ -1210,11 +1190,11 @@
         "DownloadLinkTesting": "https://service-knj2phup-1253720819.sh.apigw.tencentcs.com/release/dalamudcounter-1623520723?plugin=SoundSetter&isUpdate=False&isTesting=True&branch=cn-api5",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "DownloadCount": 468,
+        "DownloadCount": 482,
         "CategoryTags": [
             "sound"
         ],
-        "LastUpdated": "1654469648"
+        "LastUpdated": "1654626069"
     },
     {
         "Author": "Haplo064",
@@ -1243,7 +1223,7 @@
         "IsTestingExclusive": false,
         "DownloadCount": 1594,
         "CategoryTags": [],
-        "LastUpdated": "1654469648"
+        "LastUpdated": "1654626069"
     },
     {
         "Author": "MgAl2O4",
@@ -1271,11 +1251,11 @@
         "DownloadLinkTesting": "https://service-knj2phup-1253720819.sh.apigw.tencentcs.com/release/dalamudcounter-1623520723?plugin=TriadBuddy&isUpdate=False&isTesting=True&branch=cn-api5",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "DownloadCount": 9213,
+        "DownloadCount": 9489,
         "CategoryTags": [
             "minigames"
         ],
-        "LastUpdated": "1654469648"
+        "LastUpdated": "1654626069"
     },
     {
         "Author": "MidoriKami",
@@ -1295,9 +1275,9 @@
         "DownloadLinkTesting": "https://service-knj2phup-1253720819.sh.apigw.tencentcs.com/release/dalamudcounter-1623520723?plugin=ChillFrames&isUpdate=False&isTesting=True&branch=cn-api5",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "DownloadCount": 644,
+        "DownloadCount": 676,
         "CategoryTags": [],
-        "LastUpdated": "1654469648"
+        "LastUpdated": "1654626069"
     },
     {
         "Author": "Caraxi",
@@ -1314,11 +1294,11 @@
         "DownloadLinkTesting": "https://service-knj2phup-1253720819.sh.apigw.tencentcs.com/release/dalamudcounter-1623520723?plugin=AdventurerInNeed&isUpdate=False&isTesting=True&branch=cn-api5",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "DownloadCount": 2559,
+        "DownloadCount": 2594,
         "CategoryTags": [
             "UI"
         ],
-        "LastUpdated": "1654469648"
+        "LastUpdated": "1654626069"
     },
     {
         "Author": "Caraxi",
@@ -1335,12 +1315,12 @@
         "DownloadLinkTesting": "https://service-knj2phup-1253720819.sh.apigw.tencentcs.com/release/dalamudcounter-1623520723?plugin=ItemSearchPlugin&isUpdate=False&isTesting=True&branch=cn-api5",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "DownloadCount": 4876,
+        "DownloadCount": 4964,
         "CategoryTags": [
             "inventory",
             "utility"
         ],
-        "LastUpdated": "1654469648"
+        "LastUpdated": "1654626069"
     },
     {
         "Author": "ascclemens",
@@ -1357,12 +1337,12 @@
         "DownloadLinkTesting": "https://service-knj2phup-1253720819.sh.apigw.tencentcs.com/release/dalamudcounter-1623520723?plugin=PeepingTom&isUpdate=False&isTesting=True&branch=cn-api5",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "DownloadCount": 7288,
+        "DownloadCount": 7412,
         "CategoryTags": [
             "UI",
             "social"
         ],
-        "LastUpdated": "1654469648"
+        "LastUpdated": "1654626069"
     },
     {
         "Author": "shdwp",
@@ -1389,9 +1369,9 @@
         "DownloadLinkTesting": "https://service-knj2phup-1253720819.sh.apigw.tencentcs.com/release/dalamudcounter-1623520723?plugin=PartyIcons&isUpdate=False&isTesting=True&branch=cn-api5",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "DownloadCount": 1010,
+        "DownloadCount": 1081,
         "CategoryTags": [],
-        "LastUpdated": "1654469648"
+        "LastUpdated": "1654626069"
     },
     {
         "Author": "attick",
@@ -1411,11 +1391,11 @@
         "DownloadLinkTesting": "https://service-knj2phup-1253720819.sh.apigw.tencentcs.com/release/dalamudcounter-1623520723?plugin=XIVCombo&isUpdate=False&isTesting=True&branch=cn-api5",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "DownloadCount": 7955,
+        "DownloadCount": 8087,
         "CategoryTags": [
             "jobs"
         ],
-        "LastUpdated": "1654469648"
+        "LastUpdated": "1654626069"
     },
     {
         "Author": "Strati",
@@ -1437,11 +1417,11 @@
         "DownloadLinkTesting": "https://service-knj2phup-1253720819.sh.apigw.tencentcs.com/release/dalamudcounter-1623520723?plugin=DeepDungeonDex&isUpdate=False&isTesting=True&branch=cn-api5",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "DownloadCount": 3906,
+        "DownloadCount": 3981,
         "CategoryTags": [
             "UI"
         ],
-        "LastUpdated": "1654469648"
+        "LastUpdated": "1654626069"
     },
     {
         "Author": "Haplo064",
@@ -1463,11 +1443,11 @@
         "DownloadLinkTesting": "https://service-knj2phup-1253720819.sh.apigw.tencentcs.com/release/dalamudcounter-1623520723?plugin=AccurateCountDown&isUpdate=False&isTesting=True&branch=cn-api5",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "DownloadCount": 874,
+        "DownloadCount": 876,
         "CategoryTags": [
             "UI"
         ],
-        "LastUpdated": "1654469648"
+        "LastUpdated": "1654626069"
     },
     {
         "Author": "Caraxi",
@@ -1484,11 +1464,11 @@
         "DownloadLinkTesting": "https://service-knj2phup-1253720819.sh.apigw.tencentcs.com/release/dalamudcounter-1623520723?plugin=MacroChain&isUpdate=False&isTesting=True&branch=cn-api5",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "DownloadCount": 3281,
+        "DownloadCount": 3392,
         "CategoryTags": [
             "utility"
         ],
-        "LastUpdated": "1654469648"
+        "LastUpdated": "1654626069"
     },
     {
         "Author": "PunishedPineapple",
@@ -1517,11 +1497,11 @@
         "DownloadLinkTesting": "https://service-knj2phup-1253720819.sh.apigw.tencentcs.com/release/dalamudcounter-1623520723?plugin=WaymarkPresetPlugin&isUpdate=False&isTesting=True&branch=cn-api5",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "DownloadCount": 3637,
+        "DownloadCount": 3700,
         "CategoryTags": [
             "UI"
         ],
-        "LastUpdated": "1654469648"
+        "LastUpdated": "1654626069"
     },
     {
         "Author": "aers, JHerig",
@@ -1537,12 +1517,12 @@
         "DownloadLinkTesting": "https://service-knj2phup-1253720819.sh.apigw.tencentcs.com/release/dalamudcounter-1623520723?plugin=NamePlateDebuffs&isUpdate=False&isTesting=True&branch=cn-api5",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "DownloadCount": 371,
+        "DownloadCount": 430,
         "CategoryTags": [
             "UI",
             "jobs"
         ],
-        "LastUpdated": "1654469648"
+        "LastUpdated": "1654626069"
     },
     {
         "Author": "Not Cara",
@@ -1565,9 +1545,9 @@
         "DownloadLinkTesting": "https://service-knj2phup-1253720819.sh.apigw.tencentcs.com/release/dalamudcounter-1623520723?plugin=Dalamud.FullscreenCutscenes&isUpdate=False&isTesting=True&branch=cn-api5",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "DownloadCount": 137,
+        "DownloadCount": 156,
         "CategoryTags": [],
-        "LastUpdated": "1654469648"
+        "LastUpdated": "1654626069"
     },
     {
         "Author": "Dragon",
@@ -1589,9 +1569,9 @@
         "DownloadLinkTesting": "https://service-knj2phup-1253720819.sh.apigw.tencentcs.com/release/dalamudcounter-1623520723?plugin=HuntBuddy&isUpdate=False&isTesting=True&branch=cn-api5",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "DownloadCount": 2247,
+        "DownloadCount": 2377,
         "CategoryTags": [],
-        "LastUpdated": "1654469648"
+        "LastUpdated": "1654626069"
     },
     {
         "Author": "Loskh",
@@ -1608,9 +1588,9 @@
         "DownloadLinkTesting": "https://service-knj2phup-1253720819.sh.apigw.tencentcs.com/release/dalamudcounter-1623520723?plugin=StarlightBreaker&isUpdate=False&isTesting=True&branch=cn-api5",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "DownloadCount": 11606,
+        "DownloadCount": 11811,
         "CategoryTags": [],
-        "LastUpdated": "1654469648"
+        "LastUpdated": "1654626069"
     },
     {
         "Author": "ascclemens, VergilGao",
@@ -1627,12 +1607,12 @@
         "DownloadLinkTesting": "https://service-knj2phup-1253720819.sh.apigw.tencentcs.com/release/dalamudcounter-1623520723?plugin=GoodMemory&isUpdate=False&isTesting=True&branch=cn-api5",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "DownloadCount": 12085,
+        "DownloadCount": 12329,
         "CategoryTags": [
             "UI",
             "utility"
         ],
-        "LastUpdated": "1654469648"
+        "LastUpdated": "1654626069"
     },
     {
         "Author": "d87",
@@ -1652,12 +1632,12 @@
         "DownloadLinkTesting": "https://service-knj2phup-1253720819.sh.apigw.tencentcs.com/release/dalamudcounter-1623520723?plugin=BigPlayerDebuffs&isUpdate=False&isTesting=True&branch=cn-api5",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "DownloadCount": 4048,
+        "DownloadCount": 4252,
         "CategoryTags": [
             "UI",
             "jobs"
         ],
-        "LastUpdated": "1654469648"
+        "LastUpdated": "1654626069"
     },
     {
         "Author": "Ottermandias",
@@ -1687,11 +1667,11 @@
         "DownloadLinkTesting": "https://service-knj2phup-1253720819.sh.apigw.tencentcs.com/release/dalamudcounter-1623520723?plugin=RezPls&isUpdate=False&isTesting=True&branch=cn-api5",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "DownloadCount": 5205,
+        "DownloadCount": 5286,
         "CategoryTags": [
             "UI"
         ],
-        "LastUpdated": "1654469648"
+        "LastUpdated": "1654626069"
     },
     {
         "Author": "daemitus",
@@ -1713,11 +1693,11 @@
         "DownloadLinkTesting": "https://service-knj2phup-1253720819.sh.apigw.tencentcs.com/release/dalamudcounter-1623520723?plugin=MiniCactpotSolver&isUpdate=False&isTesting=True&branch=cn-api5",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "DownloadCount": 12307,
+        "DownloadCount": 12817,
         "CategoryTags": [
             "minigames"
         ],
-        "LastUpdated": "1654469648"
+        "LastUpdated": "1654626069"
     },
     {
         "Author": "kalilistic",
@@ -1744,11 +1724,11 @@
         "DownloadLinkTesting": "https://service-knj2phup-1253720819.sh.apigw.tencentcs.com/release/dalamudcounter-1623520723?plugin=PriceCheck&isUpdate=False&isTesting=True&branch=cn-api5",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "DownloadCount": 9677,
+        "DownloadCount": 9816,
         "CategoryTags": [
             "inventory"
         ],
-        "LastUpdated": "1654469648"
+        "LastUpdated": "1654626069"
     },
     {
         "Author": "kalilistic",
@@ -1771,12 +1751,12 @@
         "DownloadLinkTesting": "https://service-knj2phup-1253720819.sh.apigw.tencentcs.com/release/dalamudcounter-1623520723?plugin=Kapture&isUpdate=False&isTesting=True&branch=cn-api5",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "DownloadCount": 4371,
+        "DownloadCount": 4422,
         "CategoryTags": [
             "UI",
             "utility"
         ],
-        "LastUpdated": "1654469648"
+        "LastUpdated": "1654626069"
     },
     {
         "Author": "goat",
@@ -1792,11 +1772,11 @@
         "DownloadLinkTesting": "https://service-knj2phup-1253720819.sh.apigw.tencentcs.com/release/dalamudcounter-1623520723?plugin=Dalamud.LoadingImage&isUpdate=False&isTesting=True&branch=cn-api5",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "DownloadCount": 4917,
+        "DownloadCount": 4998,
         "CategoryTags": [
             "other"
         ],
-        "LastUpdated": "1654469648"
+        "LastUpdated": "1654626069"
     },
     {
         "Author": "ascclemens",
@@ -1813,11 +1793,11 @@
         "DownloadLinkTesting": "https://service-knj2phup-1253720819.sh.apigw.tencentcs.com/release/dalamudcounter-1623520723?plugin=Quest Map&isUpdate=False&isTesting=True&branch=cn-api5",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "DownloadCount": 2043,
+        "DownloadCount": 2072,
         "CategoryTags": [
             "UI"
         ],
-        "LastUpdated": "1654469648"
+        "LastUpdated": "1654626069"
     },
     {
         "Author": "ocealot",
@@ -1838,11 +1818,11 @@
         "DownloadLinkTesting": "https://service-knj2phup-1253720819.sh.apigw.tencentcs.com/release/dalamudcounter-1623520723?plugin=VFXEditor&isUpdate=False&isTesting=True&branch=cn-api5",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "DownloadCount": 1974,
+        "DownloadCount": 1991,
         "CategoryTags": [
             "UI"
         ],
-        "LastUpdated": "1654469648"
+        "LastUpdated": "1654626069"
     },
     {
         "Author": "fmauNeko",
@@ -1859,12 +1839,12 @@
         "DownloadLinkTesting": "https://service-knj2phup-1253720819.sh.apigw.tencentcs.com/release/dalamudcounter-1623520723?plugin=MarketBoardPlugin&isUpdate=False&isTesting=True&branch=cn-api5",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "DownloadCount": 14756,
+        "DownloadCount": 15050,
         "CategoryTags": [
             "UI",
             "inventory"
         ],
-        "LastUpdated": "1654469648"
+        "LastUpdated": "1654626069"
     },
     {
         "Author": "ocealot",
@@ -1885,11 +1865,11 @@
         "DownloadLinkTesting": "https://service-knj2phup-1253720819.sh.apigw.tencentcs.com/release/dalamudcounter-1623520723?plugin=EasyEyes&isUpdate=False&isTesting=True&branch=cn-api5",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "DownloadCount": 4073,
+        "DownloadCount": 4146,
         "CategoryTags": [
             "UI"
         ],
-        "LastUpdated": "1654469648"
+        "LastUpdated": "1654626069"
     },
     {
         "Author": "Eternita",
@@ -1906,11 +1886,11 @@
         "DownloadLinkTesting": "https://service-knj2phup-1253720819.sh.apigw.tencentcs.com/release/dalamudcounter-1623520723?plugin=QuestAWAY&isUpdate=False&isTesting=True&branch=cn-api5",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "DownloadCount": 1525,
+        "DownloadCount": 1549,
         "CategoryTags": [
             "UI"
         ],
-        "LastUpdated": "1654469648"
+        "LastUpdated": "1654626069"
     },
     {
         "Author": "Avaflow",
@@ -1928,11 +1908,11 @@
         "DownloadLinkTesting": "https://service-knj2phup-1253720819.sh.apigw.tencentcs.com/release/dalamudcounter-1623520723?plugin=OopsAllLalafells&isUpdate=False&isTesting=True&branch=cn-api5",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "DownloadCount": 4743,
+        "DownloadCount": 4783,
         "CategoryTags": [
             "other"
         ],
-        "LastUpdated": "1654469648"
+        "LastUpdated": "1654626069"
     },
     {
         "Author": "Kouzukii",
@@ -1953,9 +1933,9 @@
         "DownloadLinkTesting": "https://service-knj2phup-1253720819.sh.apigw.tencentcs.com/release/dalamudcounter-1623520723?plugin=CharacterPanelRefined&isUpdate=False&isTesting=True&branch=cn-api5",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "DownloadCount": 4464,
+        "DownloadCount": 4857,
         "CategoryTags": [],
-        "LastUpdated": "1654469648"
+        "LastUpdated": "1654626069"
     },
     {
         "Author": "ascclemens",
@@ -1972,11 +1952,11 @@
         "DownloadLinkTesting": "https://service-knj2phup-1253720819.sh.apigw.tencentcs.com/release/dalamudcounter-1623520723?plugin=SoundFilter&isUpdate=False&isTesting=True&branch=cn-api5",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "DownloadCount": 640,
+        "DownloadCount": 646,
         "CategoryTags": [
             "sound"
         ],
-        "LastUpdated": "1654469648"
+        "LastUpdated": "1654626069"
     },
     {
         "Author": "kij",
@@ -1996,12 +1976,12 @@
         "DownloadLinkTesting": "https://service-knj2phup-1253720819.sh.apigw.tencentcs.com/release/dalamudcounter-1623520723?plugin=ChatCoordinates&isUpdate=False&isTesting=True&branch=cn-api5",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "DownloadCount": 3321,
+        "DownloadCount": 3373,
         "CategoryTags": [
             "social",
             "utility"
         ],
-        "LastUpdated": "1654469648"
+        "LastUpdated": "1654626069"
     },
     {
         "Author": "Lharz",
@@ -2024,9 +2004,9 @@
         "DownloadLinkTesting": "https://service-knj2phup-1253720819.sh.apigw.tencentcs.com/release/dalamudcounter-1623520723?plugin=CurrencyAlert&isUpdate=False&isTesting=True&branch=cn-api5",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "DownloadCount": 597,
+        "DownloadCount": 684,
         "CategoryTags": [],
-        "LastUpdated": "1654469648"
+        "LastUpdated": "1654626069"
     },
     {
         "Author": "goat",
@@ -2047,9 +2027,9 @@
         "DownloadLinkTesting": "https://service-knj2phup-1253720819.sh.apigw.tencentcs.com/release/dalamudcounter-1623520723?plugin=Dalamud.FindAnything&isUpdate=False&isTesting=True&branch=cn-api5",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "DownloadCount": 930,
+        "DownloadCount": 954,
         "CategoryTags": [],
-        "LastUpdated": "1654469648"
+        "LastUpdated": "1654626069"
     },
     {
         "Author": "Haplo064",
@@ -2077,11 +2057,11 @@
         "DownloadLinkTesting": "https://service-knj2phup-1253720819.sh.apigw.tencentcs.com/release/dalamudcounter-1623520723?plugin=PixelPerfect&isUpdate=False&isTesting=True&branch=cn-api5",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "DownloadCount": 9759,
+        "DownloadCount": 9972,
         "CategoryTags": [
             "UI"
         ],
-        "LastUpdated": "1654469648"
+        "LastUpdated": "1654626069"
     },
     {
         "Author": "ascclemens",
@@ -2097,11 +2077,11 @@
         "DownloadLinkTesting": "https://service-knj2phup-1253720819.sh.apigw.tencentcs.com/release/dalamudcounter-1623520723?plugin=XIVChat&isUpdate=False&isTesting=True&branch=cn-api5",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "DownloadCount": 936,
+        "DownloadCount": 945,
         "CategoryTags": [
             "social"
         ],
-        "LastUpdated": "1654469648"
+        "LastUpdated": "1654626069"
     },
     {
         "Author": "Caraxi",
@@ -2118,14 +2098,14 @@
         "DownloadLinkTesting": "https://service-knj2phup-1253720819.sh.apigw.tencentcs.com/release/dalamudcounter-1623520723?plugin=SimpleTweaksPlugin&isUpdate=False&isTesting=True&branch=cn-api5",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "DownloadCount": 17554,
+        "DownloadCount": 17830,
         "CategoryTags": [
             "UI",
             "other",
             "utility",
             "social"
         ],
-        "LastUpdated": "1654469648"
+        "LastUpdated": "1654626069"
     },
     {
         "Author": "Azure Gem",
@@ -2141,11 +2121,11 @@
         "DownloadLinkTesting": "https://service-knj2phup-1253720819.sh.apigw.tencentcs.com/release/dalamudcounter-1623520723?plugin=WinTitle&isUpdate=False&isTesting=True&branch=cn-api5",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "DownloadCount": 901,
+        "DownloadCount": 905,
         "CategoryTags": [
             "UI"
         ],
-        "LastUpdated": "1654469648"
+        "LastUpdated": "1654626069"
     },
     {
         "Author": "jdsmith2816",
@@ -2165,11 +2145,11 @@
         "DownloadLinkTesting": "https://service-knj2phup-1253720819.sh.apigw.tencentcs.com/release/dalamudcounter-1623520723?plugin=DelvUI&isUpdate=False&isTesting=True&branch=cn-api5",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "DownloadCount": 6596,
+        "DownloadCount": 6696,
         "CategoryTags": [
             "UI"
         ],
-        "LastUpdated": "1654469648"
+        "LastUpdated": "1654626069"
     },
     {
         "Author": "UnknownX",
@@ -2190,9 +2170,9 @@
         "DownloadLinkTesting": "https://service-knj2phup-1253720819.sh.apigw.tencentcs.com/release/dalamudcounter-1623520723?plugin=ARealmRecorded&isUpdate=False&isTesting=True&branch=cn-api5",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "DownloadCount": 0,
+        "DownloadCount": 87,
         "CategoryTags": [],
-        "LastUpdated": "1654469648"
+        "LastUpdated": "1654626069"
     },
     {
         "Author": "Sonar Team",
@@ -2228,11 +2208,11 @@
         "IsHide": false,
         "IsTestingExclusive": false,
         "ApplicableVersion": "any",
-        "DownloadCount": 44058,
+        "DownloadCount": 44609,
         "CategoryTags": [
             "UI"
         ],
-        "LastUpdated": "1654469648"
+        "LastUpdated": "1654626069"
     },
     {
         "Author": "Pohky",
@@ -2249,12 +2229,12 @@
         "DownloadLinkTesting": "https://service-knj2phup-1253720819.sh.apigw.tencentcs.com/release/dalamudcounter-1623520723?plugin=TeleporterPlugin&isUpdate=False&isTesting=True&branch=cn-api5",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "DownloadCount": 4330,
+        "DownloadCount": 4411,
         "CategoryTags": [
             "UI",
             "utility"
         ],
-        "LastUpdated": "1654469648"
+        "LastUpdated": "1654626069"
     },
     {
         "Author": "Marconsou",
@@ -2279,10 +2259,10 @@
         "DownloadLinkTesting": "https://service-knj2phup-1253720819.sh.apigw.tencentcs.com/release/dalamudcounter-1623520723?plugin=MPTickBar&isUpdate=False&isTesting=True&branch=cn-api5",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "DownloadCount": 2418,
+        "DownloadCount": 2486,
         "CategoryTags": [
             "jobs"
         ],
-        "LastUpdated": "1654469648"
+        "LastUpdated": "1654626069"
     }
 ]
