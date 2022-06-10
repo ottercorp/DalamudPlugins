@@ -3,7 +3,7 @@ name: Update download counts
 on:
   schedule:
     # * is a special character in YAML so you have to quote this string
-    - cron:  '0 1 * * *'
+    - cron:  '0 */6 * * *'
   workflow_dispatch:
     
 jobs:
@@ -20,7 +20,7 @@ jobs:
     - uses: actions/checkout@v1
     - name: Update download counts
       run: |
-        wget -O downloadcounts.json https://service-knj2phup-1253720819.sh.apigw.tencentcs.com/release/dalamudcounter-1623520723/get-dlcount
+        wget -O downloadcounts.json https://aonyx.ffxiv.wang/Plugin/DownloadCounts
     - name: Commit files
       continue-on-error: false
       run: |
