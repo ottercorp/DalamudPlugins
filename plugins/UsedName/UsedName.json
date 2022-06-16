@@ -1,0 +1,15 @@
+{
+  "Author": "LittleNighmare",
+  "Name": "Used Name",
+  "InternalName": "UsedName",
+  "AssemblyVersion": "0.5.0.1",
+  "Description": "使用'/pusedname'显示还没用的窗口\n使用'/pusedname update'更新好友列表\n使用'/pusedname search xxxx'搜索xxxx的曾用名(不想支持昵称)\n使用'/pusedname nick xxxx aaaa'设置xxxx的昵称为aaaa，仅支持好友",
+  "ApplicableVersion": "any",
+  "RepoUrl": "https://github.com/LittleNightmare/UsedName",
+  "Tags": [
+    "social"
+  ],
+  "DalamudApiLevel": 5,
+  "LoadPriority": 0,
+  "Punchline": "*开发中* 一个简单记录玩家曾用名和昵称的工具，目前只支持好友列表。右键好友列表目标可查询曾用名与昵称"
+}
