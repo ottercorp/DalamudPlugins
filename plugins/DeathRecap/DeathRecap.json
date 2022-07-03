@@ -1,0 +1,20 @@
+{
+  "Author": "Kouzukii",
+  "Name": "死亡回忆",
+  "InternalName": "DeathRecap",
+  "AssemblyVersion": "1.7.0.1",
+  "Description": "快速的找出是什么击倒了你，或者你的伙伴！\n\n展示:\n- 治疗\n- 受到伤害\n- 减益效果\n- 增益效果\n- 减伤\n- 攻击、格挡、反击以及伤害源",
+  "ApplicableVersion": "any",
+  "RepoUrl": "https://github.com/Kouzukii/ffxiv-deathrecap",
+  "Tags": [
+    "死亡",
+    "回忆",
+    "记录"
+  ],
+  "CategoryTags": [
+    "工具"
+  ],
+  "DalamudApiLevel": 6,
+  "LoadPriority": 0,
+  "Punchline": "快速的找出是什么击倒了你，或者你的伙伴！"
+}

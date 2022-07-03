@@ -3,7 +3,7 @@ name: Update download counts
 on:
   schedule:
     # * is a special character in YAML so you have to quote this string
-    - cron:  '0 1 * * *'
+    - cron:  '0 */6 * * *'
   workflow_dispatch:
     
 jobs:
