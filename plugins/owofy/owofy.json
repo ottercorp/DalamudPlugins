@@ -5,7 +5,7 @@
   "AssemblyVersion": "1.4.1.1",
   "Description": "这个插件会对你的聊天框内容进行风格化处理，用于勾起本世纪初期的美好回忆（或黑历史）。",
   "ApplicableVersion": "any",
-  "DalamudApiLevel": 6,
+  "DalamudApiLevel": 5,
   "LoadPriority": 0,
   "ImageUrls": [
     "https://github.com/goaaats/dalamud-owo/raw/master/images/promo1.png",

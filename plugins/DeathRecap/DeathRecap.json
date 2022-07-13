@@ -14,7 +14,7 @@
   "CategoryTags": [
     "工具"
   ],
-  "DalamudApiLevel": 6,
+  "DalamudApiLevel": 5,
   "LoadPriority": 0,
   "Punchline": "快速的找出是什么击倒了你，或者你的伙伴！"
 }
