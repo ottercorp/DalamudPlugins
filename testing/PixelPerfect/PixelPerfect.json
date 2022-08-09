@@ -6,7 +6,7 @@
 	"Description": "Showing exactly where to stand since 2020.",
 	"Tags": ["Hitbox", "Overlay", "Indicator"],
 	"RepoUrl": "https://github.com/Haplo064/PixelPerfect",
-	"AssemblyVersion": "2.0.0.0",
+	"AssemblyVersion": "2.0.0.1",
 	"ApplicableVersion": "any",
 	"DalamudApiLevel": 6,
 	"LoadPriority": 0,
