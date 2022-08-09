@@ -1,4 +1,5 @@
 {
+    "PingPlugin": "A ping display plugin for Dalamud.",
     "MapLinker": "Automatically record the maplinks in chat and retrieval later.",
     "MapLinker-Punchline": "Record the maplinks in chat",
     "SonarPlugin": "Automatically send and receive hunt and fate relays. /sonar to open, /sonarconfig to configure. This plugin is closed source and support is only provided in the Sonar Support discord.",

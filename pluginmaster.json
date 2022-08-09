@@ -1,5 +1,35 @@
 [
     {
+        "Author": "karashiiro",
+        "Name": "PingPlugin",
+        "Description": "Dalamud \u7684 ping \u663e\u793a\u63d2\u4ef6\u3002",
+        "InternalName": "PingPlugin",
+        "AssemblyVersion": "2.4.1.0",
+        "RepoUrl": "https://github.com/karashiiro/PingPlugin",
+        "ApplicableVersion": "any",
+        "Tags": [
+            "ping",
+            "monitor",
+            "utility",
+            "tool"
+        ],
+        "DalamudApiLevel": 6,
+        "ImageUrls": [
+            "https://raw.githubusercontent.com/karashiiro/PingPlugin/main/Assets/image1.png"
+        ],
+        "IconUrl": "https://raw.githubusercontent.com/karashiiro/PingPlugin/main/Assets/icon.png",
+        "DownloadLinkInstall": "https://service-knj2phup-1253720819.sh.apigw.tencentcs.com/release/dalamudcounter-1623520723?plugin=PingPlugin&isUpdate=False&isTesting=False&branch=cn-api5",
+        "DownloadLinkUpdate": "https://service-knj2phup-1253720819.sh.apigw.tencentcs.com/release/dalamudcounter-1623520723?plugin=PingPlugin&isUpdate=True&isTesting=False&branch=cn-api5",
+        "DownloadLinkTesting": "https://service-knj2phup-1253720819.sh.apigw.tencentcs.com/release/dalamudcounter-1623520723?plugin=PingPlugin&isUpdate=False&isTesting=True&branch=cn-api5",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadCount": 8856,
+        "CategoryTags": [
+            "UI"
+        ],
+        "LastUpdated": "1660086150"
+    },
+    {
         "Author": "Bluefissure",
         "Name": "MapLinker",
         "Description": "\u81ea\u52a8\u8bb0\u5f55\u804a\u5929\u4e2d\u7684\u5730\u56fe\u6807\u8bb0\u5e76\u5728\u4e4b\u540e\u67e5\u8be2\u3002",
@@ -21,7 +51,7 @@
         "CategoryTags": [
             "UI"
         ],
-        "LastUpdated": "1660070492"
+        "LastUpdated": "1660086150"
     },
     {
         "Author": "Sonar Team",
@@ -61,6 +91,6 @@
         "CategoryTags": [
             "UI"
         ],
-        "LastUpdated": "1660070492"
+        "LastUpdated": "1660086150"
     }
 ]
