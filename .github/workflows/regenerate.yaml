@@ -2,7 +2,7 @@ name: Regenerate PluginMaster
 on: 
   push:
     branches:
-      - cn-api5
+      - cn-api6
   workflow_dispatch:
 
 jobs:
