@@ -21,6 +21,46 @@
         "CategoryTags": [
             "UI"
         ],
-        "LastUpdated": "1660058555"
+        "LastUpdated": "1660065283"
+    },
+    {
+        "Author": "Sonar Team",
+        "Name": "Sonar",
+        "Description": "\u72e9\u730e\u63d2\u4ef6\uff0c\u81ea\u52a8\u4e0a\u62a5&\u6e38\u620f\u5185\u63a8\u9001\u6d88\u606f\u3002/sonar \u6253\u5f00\u754c\u9762 /sonarconfig \u6253\u5f00\u914d\u7f6e\u3002\u8fd9\u4e2a\u63d2\u4ef6\u662f\u95ed\u6e90\u7684\uff0c\u76f8\u5173\u652f\u6301\u8bf7\u8bbf\u95ee Sonar Support Discord",
+        "InternalName": "SonarPlugin",
+        "AssemblyVersion": "0.4.8.0",
+        "RepoUrl": "https://discord.gg/K7y24Rr",
+        "ApplicableVersion": "any",
+        "Tags": [
+            "Sonar",
+            "Hunt",
+            "Hunts",
+            "Fate",
+            "Fates",
+            "Relay",
+            "Relays",
+            "Automated",
+            "Automatic"
+        ],
+        "DalamudApiLevel": 6,
+        "Punchline": "\u81ea\u52a8\u4e0e\u5176\u4ed6\u4eba\u5171\u4eab\u72e9\u730e\u602a\u548c\u5371\u547d\u4efb\u52a1\u7684\u4fe1\u606f",
+        "ImageUrls": [
+            "https://assets.ffxivsonar.com/dalamud/image1.png",
+            "https://assets.ffxivsonar.com/dalamud/image2.png",
+            "https://assets.ffxivsonar.com/dalamud/image3.png",
+            "https://assets.ffxivsonar.com/dalamud/image4.png",
+            "https://assets.ffxivsonar.com/dalamud/image5.png"
+        ],
+        "IconUrl": "https://assets.ffxivsonar.com/dalamud/logo.png",
+        "DownloadLinkInstall": "https://service-knj2phup-1253720819.sh.apigw.tencentcs.com/release/dalamudcounter-1623520723?plugin=SonarPlugin&isUpdate=False&isTesting=False&branch=cn-api5",
+        "DownloadLinkUpdate": "https://service-knj2phup-1253720819.sh.apigw.tencentcs.com/release/dalamudcounter-1623520723?plugin=SonarPlugin&isUpdate=True&isTesting=False&branch=cn-api5",
+        "DownloadLinkTesting": "https://service-knj2phup-1253720819.sh.apigw.tencentcs.com/release/dalamudcounter-1623520723?plugin=SonarPlugin&isUpdate=False&isTesting=True&branch=cn-api5",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadCount": 56093,
+        "CategoryTags": [
+            "UI"
+        ],
+        "LastUpdated": "1660065283"
     }
 ]

@@ -8,3 +8,4 @@
 | 插件名 | 作者 | 简介 |
 |---------------|---------------|-----------------|
 | MapLinker | Bluefissure | 自动记录聊天中的地图标记并在之后查询。 |
+| Sonar | Sonar Team | 狩猎插件，自动上报&游戏内推送消息。/sonar 打开界面 /sonarconfig 打开配置。这个插件是闭源的，相关支持请访问 Sonar Support Discord |
