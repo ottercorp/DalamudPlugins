@@ -17,11 +17,11 @@
         "DownloadLinkTesting": "https://service-knj2phup-1253720819.sh.apigw.tencentcs.com/release/dalamudcounter-1623520723?plugin=MapLinker&isUpdate=False&isTesting=True&branch=cn-api5",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "DownloadCount": 2479,
+        "DownloadCount": 2511,
         "CategoryTags": [
             "UI"
         ],
-        "LastUpdated": "1660065283"
+        "LastUpdated": "1660070492"
     },
     {
         "Author": "Sonar Team",
@@ -57,10 +57,10 @@
         "DownloadLinkTesting": "https://service-knj2phup-1253720819.sh.apigw.tencentcs.com/release/dalamudcounter-1623520723?plugin=SonarPlugin&isUpdate=False&isTesting=True&branch=cn-api5",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "DownloadCount": 56093,
+        "DownloadCount": 56114,
         "CategoryTags": [
             "UI"
         ],
-        "LastUpdated": "1660065283"
+        "LastUpdated": "1660070492"
     }
 ]
