@@ -1,0 +1,13 @@
+{
+	"Author": "attick",
+	"Name": "XIV Combo",
+	"Punchline": "PvP, but in PvE.",
+	"Description": "This plugin condenses combos and mutually exclusive abilities onto a single button. /pcombo to open menu",
+	"InternalName": "XIVCombo",
+	"AssemblyVersion": "1.7.13",
+	"ApplicableVersion": "any",
+	"RepoUrl":"https://github.com/attickdoor/XivComboPlugin",
+	"Tags":["Combo"],
+	"AcceptsFeedback":false,
+	"DalamudApiLevel":6
+}
