@@ -1,5 +1,94 @@
 [
     {
+        "Author": "Caraxi",
+        "Name": "FPS Plugin",
+        "Description": "\u663e\u793a\u6e38\u620f\u5e27\u6570",
+        "InternalName": "FPSPlugin",
+        "AssemblyVersion": "1.6.0.2",
+        "RepoUrl": "https://github.com/Caraxi/FPSPlugin",
+        "ApplicableVersion": "any",
+        "DalamudApiLevel": 6,
+        "Punchline": "\u663e\u793a\u6e38\u620f FPS",
+        "DownloadLinkInstall": "https://service-knj2phup-1253720819.sh.apigw.tencentcs.com/release/dalamudcounter-1623520723?plugin=FPSPlugin&isUpdate=False&isTesting=False&branch=cn-api5",
+        "DownloadLinkUpdate": "https://service-knj2phup-1253720819.sh.apigw.tencentcs.com/release/dalamudcounter-1623520723?plugin=FPSPlugin&isUpdate=True&isTesting=False&branch=cn-api5",
+        "DownloadLinkTesting": "https://service-knj2phup-1253720819.sh.apigw.tencentcs.com/release/dalamudcounter-1623520723?plugin=FPSPlugin&isUpdate=False&isTesting=True&branch=cn-api5",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadCount": 8734,
+        "CategoryTags": [
+            "UI"
+        ],
+        "LastUpdated": "1660086729"
+    },
+    {
+        "Author": "goat",
+        "Name": "Fancy Loading Screens",
+        "Description": "\u6b64\u63d2\u4ef6\u53ef\u5728\u8bfb\u56fe\u65f6\u663e\u793a\u76ee\u6807\u533a\u57df\u7684\u5370\u8c61\u753b\u3002\n\u6ce8\u610f\uff1a\u4ec5\u5728 16:9 \u663e\u793a\u5668\u4e0a\u770b\u8d77\u6765\u5b8c\u597d\uff01\u5370\u8c61\u753b\u5c31\u8fd9\u4e48\u5927\uff0c\u6211\u4eec\u4e5f\u65e0\u6cd5\u653e\u5927\u6216\u8005\u4fee\u590d\u5b83\u3002\u975e\u5e38\u62b1\u6b49\uff01",
+        "InternalName": "Dalamud.LoadingImage",
+        "AssemblyVersion": "1.0.0.8",
+        "ApplicableVersion": "any",
+        "DalamudApiLevel": 6,
+        "Punchline": "\u52a0\u8f7d\u65f6\u663e\u793a\u76ee\u6807\u533a\u57df\u7684\u6982\u5ff5\u56fe\u3002",
+        "DownloadLinkInstall": "https://service-knj2phup-1253720819.sh.apigw.tencentcs.com/release/dalamudcounter-1623520723?plugin=Dalamud.LoadingImage&isUpdate=False&isTesting=False&branch=cn-api5",
+        "DownloadLinkUpdate": "https://service-knj2phup-1253720819.sh.apigw.tencentcs.com/release/dalamudcounter-1623520723?plugin=Dalamud.LoadingImage&isUpdate=True&isTesting=False&branch=cn-api5",
+        "DownloadLinkTesting": "https://service-knj2phup-1253720819.sh.apigw.tencentcs.com/release/dalamudcounter-1623520723?plugin=Dalamud.LoadingImage&isUpdate=False&isTesting=True&branch=cn-api5",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadCount": 5968,
+        "CategoryTags": [
+            "other"
+        ],
+        "LastUpdated": "1660086729"
+    },
+    {
+        "Author": "Pohky",
+        "Name": "Teleporter",
+        "Description": "\u5141\u8bb8\u4f7f\u7528\u6307\u4ee4\u8fdb\u884c\u4f20\u9001\u3002\u65b9\u6cd5\uff1a/tp \u5730\u70b9\u540d\n\u4f8b\u5b50\uff1a/tp \u683c\u91cc\u8fbe\u5c3c\u4e9a\u65b0\u8857\n\u4e5f\u5141\u8bb8\u4e3a\u67d0\u4e2a\u5730\u65b9\u8bbe\u7f6e\u522b\u540d\uff0c\u4f8b\u5982 /tp \u90e8\u961f\u623f",
+        "InternalName": "TeleporterPlugin",
+        "AssemblyVersion": "2.0.1.7",
+        "RepoUrl": "https://github.com/pohky/TeleporterPlugin",
+        "ApplicableVersion": "any",
+        "DalamudApiLevel": 6,
+        "Punchline": "\u4f20\u9001\u5b8f",
+        "DownloadLinkInstall": "https://service-knj2phup-1253720819.sh.apigw.tencentcs.com/release/dalamudcounter-1623520723?plugin=TeleporterPlugin&isUpdate=False&isTesting=False&branch=cn-api5",
+        "DownloadLinkUpdate": "https://service-knj2phup-1253720819.sh.apigw.tencentcs.com/release/dalamudcounter-1623520723?plugin=TeleporterPlugin&isUpdate=True&isTesting=False&branch=cn-api5",
+        "DownloadLinkTesting": "https://service-knj2phup-1253720819.sh.apigw.tencentcs.com/release/dalamudcounter-1623520723?plugin=TeleporterPlugin&isUpdate=False&isTesting=True&branch=cn-api5",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadCount": 5565,
+        "CategoryTags": [
+            "UI",
+            "utility"
+        ],
+        "LastUpdated": "1660086729"
+    },
+    {
+        "Author": "daemitus",
+        "Name": "ezMiniCactpot",
+        "Description": "\u4ed9\u4eba\u5fae\u5f69\u63d2\u4ef6\uff0c\u81ea\u52a8\u9ad8\u4eae\u6700\u4f18\u89e3",
+        "InternalName": "MiniCactpotSolver",
+        "AssemblyVersion": "1.1.1.0",
+        "RepoUrl": "https://github.com/daemitus/MiniCactpotSolver",
+        "ApplicableVersion": "any",
+        "DalamudApiLevel": 6,
+        "Punchline": "\u663e\u793a\u4ed9\u4eba\u5fae\u5f69\u4e0b\u4e00\u6b65\u6700\u4f18\u89e3\u3002",
+        "ImageUrls": [
+            "https://raw.githubusercontent.com/daemitus/MiniCactpotSolver/master/res/image1.png",
+            "https://raw.githubusercontent.com/daemitus/MiniCactpotSolver/master/res/image2.png"
+        ],
+        "IconUrl": "https://raw.githubusercontent.com/daemitus/MiniCactpotSolver/master/res/icon.png",
+        "DownloadLinkInstall": "https://service-knj2phup-1253720819.sh.apigw.tencentcs.com/release/dalamudcounter-1623520723?plugin=MiniCactpotSolver&isUpdate=False&isTesting=False&branch=cn-api5",
+        "DownloadLinkUpdate": "https://service-knj2phup-1253720819.sh.apigw.tencentcs.com/release/dalamudcounter-1623520723?plugin=MiniCactpotSolver&isUpdate=True&isTesting=False&branch=cn-api5",
+        "DownloadLinkTesting": "https://service-knj2phup-1253720819.sh.apigw.tencentcs.com/release/dalamudcounter-1623520723?plugin=MiniCactpotSolver&isUpdate=False&isTesting=True&branch=cn-api5",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadCount": 17652,
+        "CategoryTags": [
+            "minigames"
+        ],
+        "LastUpdated": "1660086729"
+    },
+    {
         "Author": "karashiiro",
         "Name": "PingPlugin",
         "Description": "Dalamud \u7684 ping \u663e\u793a\u63d2\u4ef6\u3002",
@@ -27,7 +116,30 @@
         "CategoryTags": [
             "UI"
         ],
-        "LastUpdated": "1660086150"
+        "LastUpdated": "1660086729"
+    },
+    {
+        "Author": "Bluefissure",
+        "Name": "OBSPlugin",
+        "Description": "\u901a\u8fc7 Websocket \u63a7\u5236 OBS \u7684\u63d2\u4ef6\u3002",
+        "InternalName": "OBSPlugin",
+        "AssemblyVersion": "1.0.1.2",
+        "RepoUrl": "https://github.com/Bluefissure/Dalamud-OBS",
+        "ApplicableVersion": "any",
+        "Tags": [
+            "OBS",
+            "UI",
+            "Util"
+        ],
+        "DalamudApiLevel": 6,
+        "DownloadLinkInstall": "https://service-knj2phup-1253720819.sh.apigw.tencentcs.com/release/dalamudcounter-1623520723?plugin=OBSPlugin&isUpdate=False&isTesting=False&branch=cn-api5",
+        "DownloadLinkUpdate": "https://service-knj2phup-1253720819.sh.apigw.tencentcs.com/release/dalamudcounter-1623520723?plugin=OBSPlugin&isUpdate=True&isTesting=False&branch=cn-api5",
+        "DownloadLinkTesting": "https://service-knj2phup-1253720819.sh.apigw.tencentcs.com/release/dalamudcounter-1623520723?plugin=OBSPlugin&isUpdate=False&isTesting=True&branch=cn-api5",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadCount": 591,
+        "CategoryTags": [],
+        "LastUpdated": "1660086729"
     },
     {
         "Author": "Bluefissure",
@@ -51,7 +163,7 @@
         "CategoryTags": [
             "UI"
         ],
-        "LastUpdated": "1660086150"
+        "LastUpdated": "1660086729"
     },
     {
         "Author": "Sonar Team",
@@ -91,6 +203,6 @@
         "CategoryTags": [
             "UI"
         ],
-        "LastUpdated": "1660086150"
+        "LastUpdated": "1660086729"
     }
 ]
