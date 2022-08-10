@@ -19,6 +19,7 @@
 | Daily Duty CN | MidoriKami,Simplified Chinese translated by NiGuangOwO | 追踪并完成那些日常和周常任务。 |
 | Chill Frames | MidoriKami | 感觉只是四处走走，显卡就烫到能煎鸡蛋了？在采集模式下何必还要渲染240超高帧率？别再苦恼了！Chill Frames 可以在非战斗状态下自动限制帧率！ |
 | Audible Character Status | Gotest | Plays a sound for certain statuses of the player. Such as low HP or MP.<br>You will need to provide your own sound files. |
+| Visibility | Dragon | 让你可以隐藏玩家，宠物和陆行鸟<br>内含VoidList（更好的黑名单插件）<br>/pvis 打开面板<br>/xlhelp 获取更多帮助信息 |
 | Reset enmity command | akira0245 | 添加一个清除木人仇恨指令。 |
 | Housemate | perchbird | Housemate 提供多种功能，可以帮助你从游戏里其他人的房屋中获得灵感。<br>如果你正在寻找一个特定的家具或庭具，你可以在住宅区闲逛并检查其他人使用的家(庭) 具清单。如果你想看看别人拼的家具是由什么东西组成的，打开物品叠加功能，就可以看到它们是什么了！<br><br>注意：这个插件仅能显示信息，并不能帮助你放置家(庭) 具，甚至是卡bug放置家具到奇怪的位置。 |
 | Fancy Loading Screens | goat | 此插件可在读图时显示目标区域的印象画。<br>注意：仅在 16:9 显示器上看起来完好！印象画就这么大，我们也无法放大或者修复它。非常抱歉！ |
