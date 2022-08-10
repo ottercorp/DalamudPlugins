@@ -1,0 +1,18 @@
+{
+  "Author": "MidoriKami,Simplified Chinese translated by NiGuangOwO",
+  "Name": "Daily Duty CN",
+  "InternalName": "DailyDuty",
+  "AssemblyVersion": "2.0.5.6",
+  "Description": "自动追踪并完成许多日常和每周的任务",
+  "ApplicableVersion": "any",
+  "RepoUrl": "https://github.com/MidoriKami/DailyDuty",
+  "Tags": [
+    "utility"
+  ],
+  "CategoryTags": [
+    "utility"
+  ],
+  "DalamudApiLevel": 6,
+  "LoadPriority": 0,
+  "Punchline": "轻松追踪每日和每周的任务"
+}
