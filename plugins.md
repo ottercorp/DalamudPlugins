@@ -35,6 +35,7 @@
 | EnemyListHP | Eternita | Displays enemies hp in enemy list. Just does that, nothing else.  |
 | OBSPlugin | Bluefissure | 通过 Websocket 控制 OBS 的插件。 |
 | JobBars | ocealot | 附加职业量谱，队伍buff计时，减伤监控和更多功能。图标由PAPACHIN提供 |
+| Ultrawide Cutscenes | Not Cara | 这个插件删除了在宽屏显示器上观看过场动画时的大黑边.<br>当心! 你可能会看到一些你不应该看到的东西, 例如即将出现的npc或者摆好的造型.<br><br>感谢aers找到了这个. |
 | ChatCoordinates | kij | 根据聊天内容在地图上放置标记<br>使用 /coord 打开配置界面看更详细的用法 |
 | MapLinker | Bluefissure | 自动记录聊天中的地图标记并在之后查询。 |
 | RezPls | Ottermandias | 更轻松的展示谁在复活谁、谁已经被复活了、谁身上有 Debuff 等状态。在野外和团队列表也有效。 |
