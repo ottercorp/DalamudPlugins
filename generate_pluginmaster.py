@@ -105,6 +105,7 @@ def handle_images(manifests):
 
 def extract_manifests():
     manifests = []
+    testing_manifests = []
 
     for dirpath, dirnames, filenames in os.walk('./plugins'):
         if len(filenames) == 0 or 'latest.zip' not in filenames:
@@ -118,8 +119,20 @@ def extract_manifests():
             content=clean_json(content)
             manifests.append(json.loads(content))
 
+    for dirpath, dirnames, filenames in os.walk('./testing'):
+        if len(filenames) == 0 or 'latest.zip' not in filenames:
+            continue
+        plugin_name = dirpath.split('/')[-1].split('\\')[-1]
+        latest_json = f'{dirpath}/{plugin_name}.json'
+        with codecs.open(latest_json, "r", "utf-8") as f:
+            content = f.read()
+            if content.startswith(u'\ufeff'):
+                content = content.encode('utf8')[3:].decode('utf8')
+            content=clean_json(content)
+            testing_manifests.append(json.loads(content))
+
     translations = {}
-    for manifest in manifests:
+    for manifest in manifests + testing_manifests:
         translations[manifest["InternalName"]] = manifest.get('Description')
         if manifest.get('Punchline'):
             translations[manifest["InternalName"] + "-Punchline"] = manifest.get('Punchline')
@@ -128,7 +141,7 @@ def extract_manifests():
 
     with codecs.open("translations/cn.json", "r", "utf-8") as f:
         cn_translations = json.load(f)
-        for manifest in manifests:
+        for manifest in manifests + testing_manifests:
             if manifest["InternalName"] in cn_translations:
                 cn_desc = cn_translations[manifest["InternalName"]]
                 if cn_desc:
