@@ -243,6 +243,8 @@
     "FlashOnTell-Punchline": "Flash FFXIV's program on the taskbar when you receive a /tell",
     "OopsAllLalafells": "Turn everyone around you into Lalafells (or other races!)\n\nUse /poal to open settings.",
     "OopsAllLalafells-Punchline": "That one funny plugin your friend told you about.",
+    "ARealmRecorded": "Adds additional features to the duty recorder and automatically starts it in most instances. Please make sure the setting is enabled inside \"/record\".",
+    "ARealmRecorded-Punchline": "Allows you to use the duty recorder",
     "ChatTranslator": "Automatically translating text in your chat-box, from various languages to one you specify.",
     "ChatTranslator-Punchline": "Enables in-game chat translation.",
     "WhereAmIAgain": "Shows what zone/region/territory you are in up in the corner next to the server and time info. Open config with /waia.",
