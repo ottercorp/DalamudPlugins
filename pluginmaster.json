@@ -14,11 +14,11 @@
         "DownloadLinkTesting": "https://service-knj2phup-1253720819.sh.apigw.tencentcs.com/release/dalamudcounter-1623520723?plugin=FPSPlugin&isUpdate=False&isTesting=True&branch=cn-api5",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "DownloadCount": 8734,
+        "DownloadCount": 8866,
         "CategoryTags": [
             "UI"
         ],
-        "LastUpdated": "1660086729"
+        "LastUpdated": "1660102228"
     },
     {
         "Author": "goat",
@@ -34,11 +34,11 @@
         "DownloadLinkTesting": "https://service-knj2phup-1253720819.sh.apigw.tencentcs.com/release/dalamudcounter-1623520723?plugin=Dalamud.LoadingImage&isUpdate=False&isTesting=True&branch=cn-api5",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "DownloadCount": 5968,
+        "DownloadCount": 6057,
         "CategoryTags": [
             "other"
         ],
-        "LastUpdated": "1660086729"
+        "LastUpdated": "1660102228"
     },
     {
         "Author": "Pohky",
@@ -55,12 +55,12 @@
         "DownloadLinkTesting": "https://service-knj2phup-1253720819.sh.apigw.tencentcs.com/release/dalamudcounter-1623520723?plugin=TeleporterPlugin&isUpdate=False&isTesting=True&branch=cn-api5",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "DownloadCount": 5565,
+        "DownloadCount": 5765,
         "CategoryTags": [
             "UI",
             "utility"
         ],
-        "LastUpdated": "1660086729"
+        "LastUpdated": "1660102228"
     },
     {
         "Author": "daemitus",
@@ -82,11 +82,11 @@
         "DownloadLinkTesting": "https://service-knj2phup-1253720819.sh.apigw.tencentcs.com/release/dalamudcounter-1623520723?plugin=MiniCactpotSolver&isUpdate=False&isTesting=True&branch=cn-api5",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "DownloadCount": 17652,
+        "DownloadCount": 17849,
         "CategoryTags": [
             "minigames"
         ],
-        "LastUpdated": "1660086729"
+        "LastUpdated": "1660102228"
     },
     {
         "Author": "karashiiro",
@@ -112,11 +112,11 @@
         "DownloadLinkTesting": "https://service-knj2phup-1253720819.sh.apigw.tencentcs.com/release/dalamudcounter-1623520723?plugin=PingPlugin&isUpdate=False&isTesting=True&branch=cn-api5",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "DownloadCount": 8856,
+        "DownloadCount": 9013,
         "CategoryTags": [
             "UI"
         ],
-        "LastUpdated": "1660086729"
+        "LastUpdated": "1660102228"
     },
     {
         "Author": "Bluefissure",
@@ -137,9 +137,9 @@
         "DownloadLinkTesting": "https://service-knj2phup-1253720819.sh.apigw.tencentcs.com/release/dalamudcounter-1623520723?plugin=OBSPlugin&isUpdate=False&isTesting=True&branch=cn-api5",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "DownloadCount": 591,
+        "DownloadCount": 603,
         "CategoryTags": [],
-        "LastUpdated": "1660086729"
+        "LastUpdated": "1660102228"
     },
     {
         "Author": "Bluefissure",
@@ -159,18 +159,18 @@
         "DownloadLinkTesting": "https://service-knj2phup-1253720819.sh.apigw.tencentcs.com/release/dalamudcounter-1623520723?plugin=MapLinker&isUpdate=False&isTesting=True&branch=cn-api5",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "DownloadCount": 2511,
+        "DownloadCount": 2568,
         "CategoryTags": [
             "UI"
         ],
-        "LastUpdated": "1660086729"
+        "LastUpdated": "1660102228"
     },
     {
         "Author": "Sonar Team",
         "Name": "Sonar",
         "Description": "\u72e9\u730e\u63d2\u4ef6\uff0c\u81ea\u52a8\u4e0a\u62a5&\u6e38\u620f\u5185\u63a8\u9001\u6d88\u606f\u3002/sonar \u6253\u5f00\u754c\u9762 /sonarconfig \u6253\u5f00\u914d\u7f6e\u3002\u8fd9\u4e2a\u63d2\u4ef6\u662f\u95ed\u6e90\u7684\uff0c\u76f8\u5173\u652f\u6301\u8bf7\u8bbf\u95ee Sonar Support Discord",
         "InternalName": "SonarPlugin",
-        "AssemblyVersion": "0.4.8.0",
+        "AssemblyVersion": "0.4.8.1",
         "RepoUrl": "https://discord.gg/K7y24Rr",
         "ApplicableVersion": "any",
         "Tags": [
@@ -199,10 +199,10 @@
         "DownloadLinkTesting": "https://service-knj2phup-1253720819.sh.apigw.tencentcs.com/release/dalamudcounter-1623520723?plugin=SonarPlugin&isUpdate=False&isTesting=True&branch=cn-api5",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "DownloadCount": 56114,
+        "DownloadCount": 56179,
         "CategoryTags": [
             "UI"
         ],
-        "LastUpdated": "1660086729"
+        "LastUpdated": "1660102228"
     }
 ]
