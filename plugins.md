@@ -18,6 +18,7 @@
 | DeepDungeonDex | WildWolf | 深层迷宫怪物图鉴，可以显示目标怪物的攻击类型、主观评价的危险程度、眩晕耐性、以及对其一些机制的概述。危险程度是针对单人玩家是否要谨慎对待来进行评价的，并且假定玩家不是一个一无所知的初见，他对深层迷宫的机制和所处的层数相对熟悉。这些信息来自众包，相对比较准确，但如果你发现任何错误之处，或者你想提交未测试的数据，请在 GitHub 上提交 issue ，或是在 Deep Dungeons 和 QuickLauncher 的 Discord 服务器内和我联系。 |
 | Daily Duty CN | MidoriKami,Simplified Chinese translated by NiGuangOwO | 追踪并完成那些日常和周常任务。 |
 | Chill Frames | MidoriKami | 感觉只是四处走走，显卡就烫到能煎鸡蛋了？在采集模式下何必还要渲染240超高帧率？别再苦恼了！Chill Frames 可以在非战斗状态下自动限制帧率！ |
+| Orchestrion Plugin | Meli & perchbird | Orchestrion 插件允许您更改当前游戏中的 BGM。 它包含<br>一个游戏中最准确的歌曲列表， 所以你确切知道正在播放<br>哪首曲子以便日后查找！ 也可添加添加喜欢的歌曲。<br>注意：此插件目前不允许您播放实际的乐曲。 |
 | GatherBuddy | Ottermandias | 添加命令来简化采集，方法是通过物品名称和用户界面找到节点和鱼类及其位置，以跟踪特殊的时段和天气条件。 |
 | Audible Character Status | Gotest | Plays a sound for certain statuses of the player. Such as low HP or MP.<br>You will need to provide your own sound files. |
 | Glamaholic | ascclemens | 为幻化模板创建缓存<br>你可以导出、导出、分享你的幻化模板<br> |
