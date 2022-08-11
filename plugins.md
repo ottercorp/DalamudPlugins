@@ -19,6 +19,7 @@
 | Daily Duty CN | MidoriKami,Simplified Chinese translated by NiGuangOwO | 追踪并完成那些日常和周常任务。 |
 | Chill Frames | MidoriKami | 感觉只是四处走走，显卡就烫到能煎鸡蛋了？在采集模式下何必还要渲染240超高帧率？别再苦恼了！Chill Frames 可以在非战斗状态下自动限制帧率！ |
 | Audible Character Status | Gotest | Plays a sound for certain statuses of the player. Such as low HP or MP.<br>You will need to provide your own sound files. |
+| Glamaholic | ascclemens | 为幻化模板创建缓存<br>你可以导出、导出、分享你的幻化模板<br> |
 | Visibility | Dragon | 让你可以隐藏玩家，宠物和陆行鸟<br>内含VoidList（更好的黑名单插件）<br>/pvis 打开面板<br>/xlhelp 获取更多帮助信息 |
 | Reset enmity command | akira0245 | 添加一个清除木人仇恨指令。 |
 | Housemate | perchbird | Housemate 提供多种功能，可以帮助你从游戏里其他人的房屋中获得灵感。<br>如果你正在寻找一个特定的家具或庭具，你可以在住宅区闲逛并检查其他人使用的家(庭) 具清单。如果你想看看别人拼的家具是由什么东西组成的，打开物品叠加功能，就可以看到它们是什么了！<br><br>注意：这个插件仅能显示信息，并不能帮助你放置家(庭) 具，甚至是卡bug放置家具到奇怪的位置。 |
@@ -40,6 +41,7 @@
 | Ultrawide Cutscenes | Not Cara | 这个插件删除了在宽屏显示器上观看过场动画时的大黑边.<br>当心! 你可能会看到一些你不应该看到的东西, 例如即将出现的npc或者摆好的造型.<br><br>感谢aers找到了这个. |
 | ChatCoordinates | kij | 根据聊天内容在地图上放置标记<br>使用 /coord 打开配置界面看更详细的用法 |
 | MapLinker | Bluefissure | 自动记录聊天中的地图标记并在之后查询。 |
+| Market board | fmauNeko | 查询市场板。/pmb 打开 |
 | RezPls | Ottermandias | 更轻松的展示谁在复活谁、谁已经被复活了、谁身上有 Debuff 等状态。在野外和团队列表也有效。 |
 | Sonar | Sonar Team | 狩猎插件，自动上报&游戏内推送消息。/sonar 打开界面 /sonarconfig 打开配置。这个插件是闭源的，相关支持请访问 Sonar Support Discord |
 | Item Search | Caraxi | 高级物品搜索，根据指定的条件筛选物品。并且可以在没有拥有的情况下发送物品到聊天。 |
