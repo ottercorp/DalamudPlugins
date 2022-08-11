@@ -3,8 +3,8 @@
   "Name": "No Kill Plugin",
   "Description": "A simple plugin that prevent the game from killing itself.",
   "InternalName": "NoKillPlugin",
-  "AssemblyVersion": "1.0.4.3",
+  "AssemblyVersion": "1.0.5.0",
   "RepoUrl": "https://github.com/Bluefissure/NoKillPlugin",
-  "DalamudApiLevel": 5,
+  "DalamudApiLevel": 6,
   "ApplicableVersion": "any"
 }

@@ -19,6 +19,7 @@
 | Daily Duty CN | MidoriKami,Simplified Chinese translated by NiGuangOwO | 追踪并完成那些日常和周常任务。 |
 | Chill Frames | MidoriKami | 感觉只是四处走走，显卡就烫到能煎鸡蛋了？在采集模式下何必还要渲染240超高帧率？别再苦恼了！Chill Frames 可以在非战斗状态下自动限制帧率！ |
 | Audible Character Status | Gotest | Plays a sound for certain statuses of the player. Such as low HP or MP.<br>You will need to provide your own sound files. |
+| Visibility | Dragon | 让你可以隐藏玩家，宠物和陆行鸟<br>内含VoidList（更好的黑名单插件）<br>/pvis 打开面板<br>/xlhelp 获取更多帮助信息 |
 | Reset enmity command | akira0245 | 添加一个清除木人仇恨指令。 |
 | Housemate | perchbird | Housemate 提供多种功能，可以帮助你从游戏里其他人的房屋中获得灵感。<br>如果你正在寻找一个特定的家具或庭具，你可以在住宅区闲逛并检查其他人使用的家(庭) 具清单。如果你想看看别人拼的家具是由什么东西组成的，打开物品叠加功能，就可以看到它们是什么了！<br><br>注意：这个插件仅能显示信息，并不能帮助你放置家(庭) 具，甚至是卡bug放置家具到奇怪的位置。 |
 | Fancy Loading Screens | goat | 此插件可在读图时显示目标区域的印象画。<br>注意：仅在 16:9 显示器上看起来完好！印象画就这么大，我们也无法放大或者修复它。非常抱歉！ |
@@ -28,6 +29,7 @@
 | EnemyListDebuffs | Felys | 在敌人列表上显示你给与的负面状态。最早由aers实现。 |
 | ezMiniCactpot | daemitus | 仙人微彩插件，自动高亮最优解 |
 | Pixel Perfect | Haplo064 | 显示判定点。 |
+| Penny Pincher | tesu | 用来“压一压”(将交易板上的最低价压一金)的插件<br><br>正常的压价流程：<br>1.打开调整物品价格的窗口<br>2.查看物品在市场上的时价<br>3.记下目前最低的时价<br>4.使用高超的数学技巧算出压价一块后的价格<br>5.关掉市场时价窗口<br>6.将算出的数字填入你的售价<br>7.确认物品的售价<br><br>但有了这个神奇的插件，就可以在你打开市场时价窗口时，自动根据最低价计算压价后的价格并复制到你的剪贴板上，省去了困难的计算压价环节。<br><br>有了这个插件，就可以轻松的完成压价：<br>1.打开调整物品价格的窗口<br>2.查看物品在市场上的时价<br>3.关掉市场时价窗口<br>4.将插件算出的数字粘贴到你的售价<br>5.确认物品的售价<br><br>这样省去了复杂的计算步骤，还能防止手滑少填一位数字 |
 | QuestAWAY | Eternita, Chalkos | 在地图上隐藏你不想看到的标记，包括但不限于任务标记等。 |
 | Globetrotter | ascclemens | 自动显示藏宝图的位置。 |
 | FlashOnTell | Franz | Flash FFXIV's program on the taskbar when you receive a /tell. This plugin has no configurable settings at this time. |
@@ -35,6 +37,7 @@
 | EnemyListHP | Eternita | Displays enemies hp in enemy list. Just does that, nothing else.  |
 | OBSPlugin | Bluefissure | 通过 Websocket 控制 OBS 的插件。 |
 | JobBars | ocealot | 附加职业量谱，队伍buff计时，减伤监控和更多功能。图标由PAPACHIN提供 |
+| Ultrawide Cutscenes | Not Cara | 这个插件删除了在宽屏显示器上观看过场动画时的大黑边.<br>当心! 你可能会看到一些你不应该看到的东西, 例如即将出现的npc或者摆好的造型.<br><br>感谢aers找到了这个. |
 | ChatCoordinates | kij | 根据聊天内容在地图上放置标记<br>使用 /coord 打开配置界面看更详细的用法 |
 | MapLinker | Bluefissure | 自动记录聊天中的地图标记并在之后查询。 |
 | RezPls | Ottermandias | 更轻松的展示谁在复活谁、谁已经被复活了、谁身上有 Debuff 等状态。在野外和团队列表也有效。 |
