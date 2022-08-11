@@ -29,6 +29,7 @@
 | EnemyListDebuffs | Felys | 在敌人列表上显示你给与的负面状态。最早由aers实现。 |
 | ezMiniCactpot | daemitus | 仙人微彩插件，自动高亮最优解 |
 | Pixel Perfect | Haplo064 | 显示判定点。 |
+| Penny Pincher | tesu | 用来“压一压”(将交易板上的最低价压一金)的插件<br><br>正常的压价流程：<br>1.打开调整物品价格的窗口<br>2.查看物品在市场上的时价<br>3.记下目前最低的时价<br>4.使用高超的数学技巧算出压价一块后的价格<br>5.关掉市场时价窗口<br>6.将算出的数字填入你的售价<br>7.确认物品的售价<br><br>但有了这个神奇的插件，就可以在你打开市场时价窗口时，自动根据最低价计算压价后的价格并复制到你的剪贴板上，省去了困难的计算压价环节。<br><br>有了这个插件，就可以轻松的完成压价：<br>1.打开调整物品价格的窗口<br>2.查看物品在市场上的时价<br>3.关掉市场时价窗口<br>4.将插件算出的数字粘贴到你的售价<br>5.确认物品的售价<br><br>这样省去了复杂的计算步骤，还能防止手滑少填一位数字 |
 | QuestAWAY | Eternita, Chalkos | 在地图上隐藏你不想看到的标记，包括但不限于任务标记等。 |
 | Globetrotter | ascclemens | 自动显示藏宝图的位置。 |
 | FlashOnTell | Franz | Flash FFXIV's program on the taskbar when you receive a /tell. This plugin has no configurable settings at this time. |
