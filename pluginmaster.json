@@ -23,7 +23,7 @@
         "IsTestingExclusive": false,
         "DownloadCount": 341,
         "CategoryTags": [],
-        "LastUpdated": "1660480168"
+        "LastUpdated": "1660488128"
     },
     {
         "Author": "Caraxi",
@@ -44,7 +44,7 @@
         "CategoryTags": [
             "utility"
         ],
-        "LastUpdated": "1660480168"
+        "LastUpdated": "1660488128"
     },
     {
         "Author": "ascclemens",
@@ -65,7 +65,7 @@
         "CategoryTags": [
             "UI"
         ],
-        "LastUpdated": "1660480168"
+        "LastUpdated": "1660488128"
     },
     {
         "Author": "Haplo064",
@@ -93,7 +93,26 @@
         "CategoryTags": [
             "social"
         ],
-        "LastUpdated": "1660480168"
+        "LastUpdated": "1660488128"
+    },
+    {
+        "Author": "NR",
+        "Name": "StarlightBreaker",
+        "Description": "\u5173\u95ed\u56fd\u670d\u804a\u5929\u654f\u611f\u5185\u5bb9\u7684\u5c4f\u853d\u3002",
+        "InternalName": "StarlightBreaker",
+        "AssemblyVersion": "1.2.4.0",
+        "RepoUrl": "https://github.com/PrototypeSeiren/StarlightBreaker",
+        "ApplicableVersion": "any",
+        "DalamudApiLevel": 6,
+        "Punchline": "\u5173\u95ed\u56fd\u670d\u804a\u5929\u654f\u611f\u5185\u5bb9\u7684\u5c4f\u853d\u3002",
+        "DownloadLinkInstall": "https://service-knj2phup-1253720819.sh.apigw.tencentcs.com/release/dalamudcounter-1623520723?plugin=StarlightBreaker&isUpdate=False&isTesting=False&branch=cn-api5",
+        "DownloadLinkUpdate": "https://service-knj2phup-1253720819.sh.apigw.tencentcs.com/release/dalamudcounter-1623520723?plugin=StarlightBreaker&isUpdate=True&isTesting=False&branch=cn-api5",
+        "DownloadLinkTesting": "https://service-knj2phup-1253720819.sh.apigw.tencentcs.com/release/dalamudcounter-1623520723?plugin=StarlightBreaker&isUpdate=False&isTesting=True&branch=cn-api5",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadCount": 0,
+        "CategoryTags": [],
+        "LastUpdated": "1660488128"
     },
     {
         "Author": "Azure Gem",
@@ -113,7 +132,7 @@
         "CategoryTags": [
             "UI"
         ],
-        "LastUpdated": "1660480168"
+        "LastUpdated": "1660488128"
     },
     {
         "Author": "Caraxi",
@@ -134,7 +153,7 @@
         "CategoryTags": [
             "UI"
         ],
-        "LastUpdated": "1660480168"
+        "LastUpdated": "1660488128"
     },
     {
         "Author": "d87",
@@ -159,7 +178,7 @@
             "UI",
             "jobs"
         ],
-        "LastUpdated": "1660480168"
+        "LastUpdated": "1660488128"
     },
     {
         "Author": "Marconsou",
@@ -188,7 +207,7 @@
         "CategoryTags": [
             "jobs"
         ],
-        "LastUpdated": "1660480168"
+        "LastUpdated": "1660488128"
     },
     {
         "Author": "WildWolf",
@@ -214,7 +233,7 @@
         "CategoryTags": [
             "UI"
         ],
-        "LastUpdated": "1660480168"
+        "LastUpdated": "1660488128"
     },
     {
         "Author": "MidoriKami,Simplified Chinese translated by NiGuangOwO",
@@ -236,7 +255,7 @@
         "IsTestingExclusive": false,
         "DownloadCount": 6077,
         "CategoryTags": [],
-        "LastUpdated": "1660480168"
+        "LastUpdated": "1660488128"
     },
     {
         "Author": "MidoriKami",
@@ -258,7 +277,7 @@
         "IsTestingExclusive": false,
         "DownloadCount": 1525,
         "CategoryTags": [],
-        "LastUpdated": "1660480168"
+        "LastUpdated": "1660488128"
     },
     {
         "Author": "Meli & perchbird",
@@ -283,7 +302,7 @@
         "CategoryTags": [
             "sound"
         ],
-        "LastUpdated": "1660480168"
+        "LastUpdated": "1660488128"
     },
     {
         "Author": "Ottermandias",
@@ -315,7 +334,7 @@
         "CategoryTags": [
             "jobs"
         ],
-        "LastUpdated": "1660480168"
+        "LastUpdated": "1660488128"
     },
     {
         "Author": "Gotest",
@@ -339,7 +358,7 @@
         "IsTestingExclusive": false,
         "DownloadCount": 204,
         "CategoryTags": [],
-        "LastUpdated": "1660480168"
+        "LastUpdated": "1660488128"
     },
     {
         "Author": "ascclemens",
@@ -358,7 +377,7 @@
         "IsTestingExclusive": false,
         "DownloadCount": 4266,
         "CategoryTags": [],
-        "LastUpdated": "1660480168"
+        "LastUpdated": "1660488128"
     },
     {
         "Author": "Dragon",
@@ -388,7 +407,7 @@
         "CategoryTags": [
             "UI"
         ],
-        "LastUpdated": "1660480168"
+        "LastUpdated": "1660488128"
     },
     {
         "Author": "Kouzukii",
@@ -411,7 +430,7 @@
         "IsTestingExclusive": false,
         "DownloadCount": 9750,
         "CategoryTags": [],
-        "LastUpdated": "1660480168"
+        "LastUpdated": "1660488128"
     },
     {
         "Author": "akira0245",
@@ -439,7 +458,7 @@
         "CategoryTags": [
             "jobs"
         ],
-        "LastUpdated": "1660480168"
+        "LastUpdated": "1660488128"
     },
     {
         "Author": "perchbird",
@@ -460,7 +479,7 @@
         "CategoryTags": [
             "UI"
         ],
-        "LastUpdated": "1660480168"
+        "LastUpdated": "1660488128"
     },
     {
         "Author": "goat",
@@ -480,7 +499,7 @@
         "CategoryTags": [
             "other"
         ],
-        "LastUpdated": "1660480168"
+        "LastUpdated": "1660488128"
     },
     {
         "Author": "Pohky",
@@ -502,7 +521,7 @@
             "UI",
             "utility"
         ],
-        "LastUpdated": "1660480168"
+        "LastUpdated": "1660488128"
     },
     {
         "Author": "Caraxi & Ottermandias",
@@ -530,7 +549,7 @@
         "IsTestingExclusive": false,
         "DownloadCount": 978,
         "CategoryTags": [],
-        "LastUpdated": "1660480168"
+        "LastUpdated": "1660488128"
     },
     {
         "Author": "MidoriKami",
@@ -552,7 +571,7 @@
         "IsTestingExclusive": false,
         "DownloadCount": 3490,
         "CategoryTags": [],
-        "LastUpdated": "1660480168"
+        "LastUpdated": "1660488128"
     },
     {
         "Author": "Felys",
@@ -572,7 +591,7 @@
         "CategoryTags": [
             "UI"
         ],
-        "LastUpdated": "1660480168"
+        "LastUpdated": "1660488128"
     },
     {
         "Author": "daemitus",
@@ -598,7 +617,7 @@
         "CategoryTags": [
             "minigames"
         ],
-        "LastUpdated": "1660480168"
+        "LastUpdated": "1660488128"
     },
     {
         "Author": "Haplo064",
@@ -630,7 +649,7 @@
         "CategoryTags": [
             "UI"
         ],
-        "LastUpdated": "1660480168"
+        "LastUpdated": "1660488128"
     },
     {
         "Author": "tesu",
@@ -659,7 +678,7 @@
         "CategoryTags": [
             "inventory"
         ],
-        "LastUpdated": "1660480168"
+        "LastUpdated": "1660488128"
     },
     {
         "Author": "Eternita, Chalkos",
@@ -680,7 +699,7 @@
         "CategoryTags": [
             "UI"
         ],
-        "LastUpdated": "1660480168"
+        "LastUpdated": "1660488128"
     },
     {
         "Author": "ascclemens",
@@ -701,7 +720,7 @@
         "CategoryTags": [
             "utility"
         ],
-        "LastUpdated": "1660480168"
+        "LastUpdated": "1660488128"
     },
     {
         "Author": "Franz",
@@ -722,7 +741,7 @@
             "social",
             "utility"
         ],
-        "LastUpdated": "1660480168"
+        "LastUpdated": "1660488128"
     },
     {
         "Author": "karashiiro",
@@ -752,7 +771,7 @@
         "CategoryTags": [
             "UI"
         ],
-        "LastUpdated": "1660480168"
+        "LastUpdated": "1660488128"
     },
     {
         "Author": "Eternita",
@@ -771,7 +790,29 @@
         "IsTestingExclusive": false,
         "DownloadCount": 415,
         "CategoryTags": [],
-        "LastUpdated": "1660480168"
+        "LastUpdated": "1660488128"
+    },
+    {
+        "Author": "ascclemens, VergilGao",
+        "Name": "Good Memory CN",
+        "Description": "\u5728\u7269\u54c1\u8be6\u60c5\u4e2d\u6dfb\u52a0\u4e00\u4e2a\u9009\u9879\u6765\u6807\u8bc6\u60a8\u662f\u5426\u5df2\u7ecf\u83b7\u5f97\u8be5\u7269\u54c1\u3002\n\n\u6b64\u6307\u793a\u5668\u5728\u7269\u54c1\u63cf\u8ff0\u4e2d\u7684\u5e95\u90e8\u663e\u793a\u201c\u5df2\u83b7\u5f97\uff1a\u662f/\u5426\u201d\u3002\n\u53ea\u4f5c\u7528\u4e8e\u53ef\u89e3\u9501\u7684\u7269\u54c1\uff0c\u6bd4\u5982\u4e50\u8c31\u3001\u5ba0\u7269\u7b49\u3002\n\u6b8b\u7834\u7684\u4e50\u8c31\u4f1a\u663e\u793a\u4ed6\u53ef\u4ee5\u5236\u9020\u7684\u6210\u54c1\u4e50\u8c31\u7684\u83b7\u5f97\u60c5\u51b5\u3002\n\nSE\u7adf\u7136\u8bf4\u8fd9\u4e2a\u529f\u80fd\u65e0\u6cd5\u5b9e\u73b0\uff01\uff01",
+        "InternalName": "GoodMemory",
+        "AssemblyVersion": "1.1.1",
+        "RepoUrl": "https://github.com/VergilGao/GoodMemoryCN",
+        "ApplicableVersion": "any",
+        "DalamudApiLevel": 5,
+        "Punchline": "\u5728\u7269\u54c1\u8be6\u60c5\u4e2d\u6dfb\u52a0\u4e00\u4e2a\u9009\u9879\u6765\u6807\u8bc6\u60a8\u662f\u5426\u5df2\u7ecf\u83b7\u5f97\u8be5\u7269\u54c1\u3002",
+        "DownloadLinkInstall": "https://service-knj2phup-1253720819.sh.apigw.tencentcs.com/release/dalamudcounter-1623520723?plugin=GoodMemory&isUpdate=False&isTesting=False&branch=cn-api5",
+        "DownloadLinkUpdate": "https://service-knj2phup-1253720819.sh.apigw.tencentcs.com/release/dalamudcounter-1623520723?plugin=GoodMemory&isUpdate=True&isTesting=False&branch=cn-api5",
+        "DownloadLinkTesting": "https://service-knj2phup-1253720819.sh.apigw.tencentcs.com/release/dalamudcounter-1623520723?plugin=GoodMemory&isUpdate=False&isTesting=True&branch=cn-api5",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadCount": 15551,
+        "CategoryTags": [
+            "UI",
+            "utility"
+        ],
+        "LastUpdated": "1660488128"
     },
     {
         "Author": "Bluefissure",
@@ -794,7 +835,7 @@
         "IsTestingExclusive": false,
         "DownloadCount": 711,
         "CategoryTags": [],
-        "LastUpdated": "1660480168"
+        "LastUpdated": "1660488128"
     },
     {
         "Author": "ocealot",
@@ -819,7 +860,7 @@
         "CategoryTags": [
             "jobs"
         ],
-        "LastUpdated": "1660480168"
+        "LastUpdated": "1660488128"
     },
     {
         "Author": "Not Cara",
@@ -843,7 +884,7 @@
         "IsTestingExclusive": false,
         "DownloadCount": 666,
         "CategoryTags": [],
-        "LastUpdated": "1660480168"
+        "LastUpdated": "1660488128"
     },
     {
         "Author": "kij",
@@ -865,7 +906,7 @@
             "social",
             "utility"
         ],
-        "LastUpdated": "1660480168"
+        "LastUpdated": "1660488128"
     },
     {
         "Author": "Bluefissure",
@@ -889,7 +930,7 @@
         "CategoryTags": [
             "UI"
         ],
-        "LastUpdated": "1660480168"
+        "LastUpdated": "1660488128"
     },
     {
         "Author": "fmauNeko",
@@ -911,7 +952,7 @@
             "UI",
             "inventory"
         ],
-        "LastUpdated": "1660480168"
+        "LastUpdated": "1660488128"
     },
     {
         "Author": "Ottermandias",
@@ -945,7 +986,7 @@
         "CategoryTags": [
             "UI"
         ],
-        "LastUpdated": "1660480168"
+        "LastUpdated": "1660488128"
     },
     {
         "Author": "Sonar Team",
@@ -985,7 +1026,7 @@
         "CategoryTags": [
             "UI"
         ],
-        "LastUpdated": "1660480168"
+        "LastUpdated": "1660488128"
     },
     {
         "Author": "Caraxi",
@@ -1007,6 +1048,6 @@
             "inventory",
             "utility"
         ],
-        "LastUpdated": "1660480168"
+        "LastUpdated": "1660488128"
     }
 ]
