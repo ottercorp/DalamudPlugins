@@ -11,7 +11,6 @@
 | Macro Chain | Caraxi | 允许你在一个宏的末尾使用 /nextmacro 来连接下一个宏<br>在 宏 #01的末尾添加 /nextmacro 将会自动执行 宏 #02<br>在 宏 #01的末尾添加 /nextmacro down 将会自动执行 宏 #11<br>也可以在聊天窗输入 /runmacro 来执行任意宏，不过该指令在其他宏执行时不生效 |
 | Better Party Finder | ascclemens | 更好的组队搜索器。<br><br>在原本的过滤条件的基础上有如下的更新内容：<br><br>- 创建并切换过滤器预设<br>- 白名单/黑名单特定的任务和种类<br>- 添加角色名隐藏其发布的组队招募<br>- 删除超过最大装等的招募<br>- 通过装等范围进行过滤<br>- 通过特定的职业进行过滤（例如：机工+枪刃） |
 | Chat Bubbles | Haplo064 | 使用游戏内置的发言气泡来展示聊天内容 |
-| StarlightBreaker | NR | 关闭国服聊天敏感内容的屏蔽。 |
 | Window Title Changer | Azure Gem | 改变游戏窗口标题 |
 | FPS Plugin | Caraxi | 显示游戏帧数 |
 | BigPlayerDebuffs | d87 | 在目标的 buff 栏上，将自己施加的 buff 放大显示。 |
@@ -40,7 +39,6 @@
 | FlashOnTell | Franz | Flash FFXIV's program on the taskbar when you receive a /tell. This plugin has no configurable settings at this time. |
 | PingPlugin | karashiiro | Dalamud 的 ping 显示插件。 |
 | EnemyListHP | Eternita | Displays enemies hp in enemy list. Just does that, nothing else.  |
-| Good Memory CN | ascclemens, VergilGao | 在物品详情中添加一个选项来标识您是否已经获得该物品。<br><br>此指示器在物品描述中的底部显示“已获得：是/否”。<br>只作用于可解锁的物品，比如乐谱、宠物等。<br>残破的乐谱会显示他可以制造的成品乐谱的获得情况。<br><br>SE竟然说这个功能无法实现！！ |
 | OBSPlugin | Bluefissure | 通过 Websocket 控制 OBS 的插件。 |
 | JobBars | ocealot | 附加职业量谱，队伍buff计时，减伤监控和更多功能。图标由PAPACHIN提供 |
 | Ultrawide Cutscenes | Not Cara | 这个插件删除了在宽屏显示器上观看过场动画时的大黑边.<br>当心! 你可能会看到一些你不应该看到的东西, 例如即将出现的npc或者摆好的造型.<br><br>感谢aers找到了这个. |
