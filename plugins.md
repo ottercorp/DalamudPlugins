@@ -28,6 +28,7 @@
 | Glamaholic | ascclemens | 为幻化模板创建缓存<br>你可以导出、导出、分享你的幻化模板<br> |
 | Visibility | Dragon | 让你可以隐藏玩家，宠物和陆行鸟<br>内含VoidList（更好的黑名单插件）<br>/pvis 打开面板<br>/xlhelp 获取更多帮助信息 |
 | Character Panel Refined | Kouzukii | 完善角色面板，显示有用的信息，比如直击与暴击率。 |
+| Currency Alert | Lharz | /currencyalert 打开配置面板 |
 | TextToTalk | karashiiro | Chat TTS. Use /tttconfig to configure the enabled channels and triggers/exceptions. |
 | Reset enmity command | akira0245 | 添加一个清除木人仇恨指令。 |
 | Housemate | perchbird | Housemate 提供多种功能，可以帮助你从游戏里其他人的房屋中获得灵感。<br>如果你正在寻找一个特定的家具或庭具，你可以在住宅区闲逛并检查其他人使用的家(庭) 具清单。如果你想看看别人拼的家具是由什么东西组成的，打开物品叠加功能，就可以看到它们是什么了！<br><br>注意：这个插件仅能显示信息，并不能帮助你放置家(庭) 具，甚至是卡bug放置家具到奇怪的位置。 |
