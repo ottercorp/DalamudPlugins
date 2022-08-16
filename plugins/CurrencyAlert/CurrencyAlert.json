@@ -2,7 +2,7 @@
   "Author": "Lharz",
   "Name": "Currency Alert",
   "InternalName": "CurrencyAlert",
-  "AssemblyVersion": "0.3.2.0",
+  "AssemblyVersion": "0.3.2.1",
   "Description": "/currencyalert: shows the configuration panel.",
   "ApplicableVersion": "any",
   "RepoUrl": "https://github.com/Lharz/xiv-currency-alert",
