@@ -268,6 +268,8 @@
     "DeathRecap-Punchline": "Quickly figure out what killed you or your party members!",
     "PlayerTrack": "PlayerTrack helps you keep a record of who you meet and the content you played together.\nOrganize players into categories, keep notes, and track them across name/world changes.\nCustomization options include colors, icons, nameplates, and alerts.",
     "PlayerTrack-Punchline": "Keep track of players you meet.",
+    "UsedName": "A simple tool to record players' used names and nickname, only supports FriendList currently. Right click on the target to add/check the used names and nickname.\n",
+    "UsedName-Punchline": "A simple tool to record players' used names and nickname",
     "faderPlugin": "Lets you automatically hide certain game UI elements based on number of conditions.",
     "faderPlugin-Punchline": "Automatically hides UI elements.",
     "EasyEyes": "A plugin which can hide any VFX. Icon by PAPACHIN",
