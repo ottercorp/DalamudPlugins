@@ -7,6 +7,7 @@
 
 | 插件名 | 作者 | 简介 |
 |---------------|---------------|-----------------|
+| TriadBuddy | MgAl2O4 | 幻卡求解器，只能用于NPC对战<br>- 高亮下一步的位置<br>- 为NPC求算最优卡组<br>- 在幻卡列表界面添加了更多的详细信息 |
 | Better Housing | Sevii | Select furniture based on what you see instead of a massive box. Always active indoors, doens't work outdoors, there's no config menu. |
 | Macro Chain | Caraxi | 允许你在一个宏的末尾使用 /nextmacro 来连接下一个宏<br>在 宏 #01的末尾添加 /nextmacro 将会自动执行 宏 #02<br>在 宏 #01的末尾添加 /nextmacro down 将会自动执行 宏 #11<br>也可以在聊天窗输入 /runmacro 来执行任意宏，不过该指令在其他宏执行时不生效 |
 | Better Party Finder | ascclemens | 更好的组队搜索器。<br><br>在原本的过滤条件的基础上有如下的更新内容：<br><br>- 创建并切换过滤器预设<br>- 白名单/黑名单特定的任务和种类<br>- 添加角色名隐藏其发布的组队招募<br>- 删除超过最大装等的招募<br>- 通过装等范围进行过滤<br>- 通过特定的职业进行过滤（例如：机工+枪刃） |
@@ -28,6 +29,7 @@
 | Audible Character Status | Gotest | Plays a sound for certain statuses of the player. Such as low HP or MP.<br>You will need to provide your own sound files. |
 | Glamaholic | ascclemens | 为幻化模板创建缓存<br>你可以导出、导出、分享你的幻化模板<br> |
 | Visibility | Dragon | 让你可以隐藏玩家，宠物和陆行鸟<br>内含VoidList（更好的黑名单插件）<br>/pvis 打开面板<br>/xlhelp 获取更多帮助信息 |
+| PartyIcons | shdwp, Avaflow | 根据当前内容调整玩家姓名板。比如显示站位（根据自动识别的小队聊天内容）、职业图标，或者是带有名字的职业图标。<br><br>感谢以下 JobIcons 作者的努力：haplo、daemitus、Loskh、wozaiha，没有他们就没有这个插件！ |
 | Character Panel Refined | Kouzukii | 完善角色面板，显示有用的信息，比如直击与暴击率。 |
 | Currency Alert | Lharz | /currencyalert 打开配置面板 |
 | TextToTalk | karashiiro | Chat TTS. Use /tttconfig to configure the enabled channels and triggers/exceptions. |
@@ -38,8 +40,10 @@
 | Teleporter | Pohky | 允许使用指令进行传送。方法：/tp 地点名<br>例子：/tp 格里达尼亚新街<br>也允许为某个地方设置别名，例如 /tp 部队房 |
 | Namingway | ascclemens | 为能力和 Buff 重新命名 |
 | Waymark Preset Plugin | PunishedPineapple | 标点预设插件，可以自由的导入导出编辑游戏内的标点预设。 |
+| Damage Info | perchbird | 为不同属性的伤害设置不同的颜色，可配置项包括伤害来源，具体染色位置等等 |
 | ChatAlerts | Caraxi & Ottermandias |  |
 | No Tank You | MidoriKami | 当您或队友的忘记重要的事情，如盾姿、舞伴、关心、食物等的时候，显示一条提醒，食物警察的出警好帮手. |
+| Player Tags | r00telement, Pilzinsel64 | 在姓名板和聊天区域轻量化显示职业。创建自定义标签并将其添加到上下文菜单中的玩家。 |
 | Tourist | ascclemens | Tourist 添加一个窗口来辅助探索笔记。<br><br>- 当探索笔记可用时显示<br>- 为 2.0 的探索笔记位置添加光球提示<br>- 在您的地图上标记探索笔记位置<br>- 隐藏已完成或不可用的位置<br>- 显示记录每个探索笔记所需的命令 |
 | EnemyListDebuffs | Felys | 在敌人列表上显示你给与的负面状态。最早由aers实现。 |
 | ezMiniCactpot | daemitus | 仙人微彩插件，自动高亮最优解 |
