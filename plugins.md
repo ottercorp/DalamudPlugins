@@ -16,6 +16,7 @@
 | Window Title Changer | Azure Gem | 改变游戏窗口标题 |
 | FPS Plugin | Caraxi | 显示游戏帧数 |
 | BigPlayerDebuffs | d87 | 在目标的 buff 栏上，将自己施加的 buff 放大显示。 |
+| Adventurer in Need | Caraxi | 当某个随机任务缺少你指定的职业的时候，发送一个通知。/pbonus 打开设置界面 |
 | Distance | PunishedPineapple | Displays the distance in yalms to the target (or optionally to the target's ring), and can display distance until aggro range for supported bosses. |
 | MP Tick Bar | Marconsou | -快速爆炎图标。<br>-战斗开始前自动启动 Bar。<br>-带有时间偏移的倒计时。<br>-兼容 FFXIV Material UI 。 |
 | DelvUI | jdsmith2816 | DelvUI 提供了一个高度配置的 HUD 替换，受 WoW 的 ElvUI 灵感支持 |
