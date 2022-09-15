@@ -39,6 +39,7 @@
 | Sound Filter | ascclemens | 为游戏内过滤/添加音效<br>- 移除你不喜欢的音效<br>- 移除某个情感动作的声音<br>- 移除特定的 BGM |
 | Fancy Loading Screens | goat | 此插件可在读图时显示目标区域的印象画。<br>注意：仅在 16:9 显示器上看起来完好！印象画就这么大，我们也无法放大或者修复它。非常抱歉！ |
 | Teleporter | Pohky | 允许使用指令进行传送。方法：/tp 地点名<br>例子：/tp 格里达尼亚新街<br>也允许为某个地方设置别名，例如 /tp 部队房 |
+| Item Vendor Location | electr0sheep | Adds a context menu option for items that will show you where to find items you can buy off a vendor |
 | Namingway | ascclemens | 为能力和 Buff 重新命名 |
 | Waymark Preset Plugin | PunishedPineapple | 标点预设插件，可以自由的导入导出编辑游戏内的标点预设。 |
 | Damage Info | perchbird | 为不同属性的伤害设置不同的颜色，可配置项包括伤害来源，具体染色位置等等 |
