@@ -26,6 +26,7 @@
 | ChatCoordinates | kij | 根据聊天内容在地图上放置标记<br>使用 /coord 打开配置界面看更详细的用法 |
 | Fancy Loading Screens | goat | 此插件可在读图时显示目标区域的印象画。<br>注意：仅在 16:9 显示器上看起来完好！印象画就这么大，我们也无法放大或者修复它。非常抱歉！ |
 | Ultrawide Cutscenes | Not Cara | 这个插件删除了在宽屏显示器上观看过场动画时的大黑边.<br>当心! 你可能会看到一些你不应该看到的东西, 例如即将出现的npc或者摆好的造型.<br><br>感谢aers找到了这个. |
+| Price Insight | Kouzukii | Whenever you mouseover an item, it will show you the NQ/HQ marketboard prices at the bottom as well as the most recent purchase.<br>Prices are retrieved from Universalis.app and cached for 90 minutes.<br>To refresh a price you can tap Alt while hovering over an item.<br> |
 | Globetrotter | ascclemens | 自动显示藏宝图的位置。 |
 | RezPls | Ottermandias | 更轻松的展示谁在复活谁、谁已经被复活了、谁身上有 Debuff 等状态。在野外和团队列表也有效。 |
 | WOLdo | Haplo064, maintained by Franz | 用来显示当前所在地图名字的可移动文本悬浮窗。 |

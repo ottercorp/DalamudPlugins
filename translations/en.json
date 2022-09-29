@@ -35,6 +35,8 @@
     "Dalamud.LoadingImage-Punchline": "Shows the destination zone's concept art while loading",
     "Dalamud.FullscreenCutscenes": "This plugin removes the \"letterboxing\" bars when watching cutscenes on ultrawide monitors.\nBeware! You may see things that you are not supposed to be seeing, such as upcoming NPCs popping in or T-posing.\n\nThanks to aers for finding this.",
     "Dalamud.FullscreenCutscenes-Punchline": "Remove letterboxing from cutscenes on ultrawide monitors.",
+    "PriceInsight": "Whenever you mouseover an item, it will show you the NQ/HQ marketboard prices at the bottom as well as the most recent purchase.\nPrices are retrieved from Universalis.app and cached for 90 minutes.\nTo refresh a price you can tap Alt while hovering over an item.\n",
+    "PriceInsight-Punchline": "See item marketboard prices on hover!",
     "Globetrotter": "Automatically shows where treasure maps are located.\n\nIcon: Map by Adrien Coquet from the Noun Project",
     "Globetrotter-Punchline": "Automatically shows where treasure maps are located.",
     "RezPls": "Easy overview about who is currently resurrecting who, who is already resurrected, and who has removable detrimental status effects in the world as well as in the group or alliance interface.",
