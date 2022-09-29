@@ -1,0 +1,25 @@
+{
+  "Author": "Kouzukii",
+  "Name": "Price Insight",
+  "InternalName": "PriceInsight",
+  "AssemblyVersion": "2.2.0.5",
+  "Description": "Whenever you mouseover an item, it will show you the NQ/HQ marketboard prices at the bottom as well as the most recent purchase.\nPrices are retrieved from Universalis.app and cached for 90 minutes.\nTo refresh a price you can tap Alt while hovering over an item.\n",
+  "ApplicableVersion": "any",
+  "RepoUrl": "https://github.com/kouzukii/ffxiv-priceinsight",
+  "Tags": [
+    "marketboard",
+    "items",
+    "price"
+  ],
+  "CategoryTags": [
+    "ui",
+    "utility"
+  ],
+  "DalamudApiLevel": 6,
+  "LoadPriority": 0,
+  "ImageUrls": [
+    "https://raw.githubusercontent.com/Kouzukii/ffxiv-priceinsight/master/PriceInsight/images/image1.png"
+  ],
+  "IconUrl": "https://raw.githubusercontent.com/Kouzukii/ffxiv-priceinsight/master/PriceInsight/images/icon.png",
+  "Punchline": "See item marketboard prices on hover!"
+}
