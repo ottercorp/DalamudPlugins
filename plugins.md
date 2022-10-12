@@ -23,9 +23,12 @@
 | FPS Plugin | Caraxi | 显示游戏帧数 |
 | TextToTalk | karashiiro | Chat TTS. Use /tttconfig to configure the enabled channels and triggers/exceptions. |
 | Weatherman | Eternita | Features:<br>- Change in-game time and weather as you desire;<br>- Perform changes globally or individually per zone;<br>- Stop undesired weathers from appearing completely.<br><br>This plugin only changes visuals: time/weather-related features such as zone background music, vista availability, states of certain objects will remain unaffected. <br>Only zones with open sky are subject to the changes (not every one of them yet but work in progress). |
+| Hunt Buddy | Dragon | 每日狩猎追踪器 |
 | ChatCoordinates | kij | 根据聊天内容在地图上放置标记<br>使用 /coord 打开配置界面看更详细的用法 |
 | Fancy Loading Screens | goat | 此插件可在读图时显示目标区域的印象画。<br>注意：仅在 16:9 显示器上看起来完好！印象画就这么大，我们也无法放大或者修复它。非常抱歉！ |
+| Death Recap | Kouzukii | 快速地找出是什么击倒了你或者队友！<br><br>展示:<br>- 治疗<br>- 受到伤害<br>- 减益效果<br>- 增益效果<br>- 减伤<br>- 攻击、格挡、反击以及伤害源 |
 | Ultrawide Cutscenes | Not Cara | 这个插件删除了在宽屏显示器上观看过场动画时的大黑边.<br>当心! 你可能会看到一些你不应该看到的东西, 例如即将出现的npc或者摆好的造型.<br><br>感谢aers找到了这个. |
+| Used Name | LittleNighmare | A simple tool to record players' used names and nickname, only supports FriendList currently. Right click on the target to add/check the used names and nickname.<br> |
 | Price Insight | Kouzukii | Whenever you mouseover an item, it will show you the NQ/HQ marketboard prices at the bottom as well as the most recent purchase.<br>Prices are retrieved from Universalis.app and cached for 90 minutes.<br>To refresh a price you can tap Alt while hovering over an item.<br> |
 | Globetrotter | ascclemens | 自动显示藏宝图的位置。 |
 | RezPls | Ottermandias | 更轻松的展示谁在复活谁、谁已经被复活了、谁身上有 Debuff 等状态。在野外和团队列表也有效。 |
@@ -57,6 +60,7 @@
 | QuestAWAY | Eternita, Chalkos | 在地图上隐藏你不想看到的标记，包括但不限于任务标记等。 |
 | Chill Frames | MidoriKami | 感觉只是四处走走，显卡就烫到能煎鸡蛋了？在采集模式下何必还要渲染240超高帧率？别再苦恼了！Chill Frames 可以在非战斗状态下自动限制帧率！ |
 | Chat Bubbles | Haplo064 | 使用游戏内置的发言气泡来展示聊天内容 |
+| A Realm Recorded | UnknownX | 给任务回顾添加附加功能到并在大多数情况下自动启动。请确保在“/record”中启用设置。 |
 | Reset enmity command | akira0245 | 添加一个清除木人仇恨指令。 |
 | SoundSetter | karashiiro | 一个 Dalamud 插件，可随时随地调整音量，包括集体动作和过场动画。 |
 | Market board | fmauNeko | 查询市场板。/pmb 打开 |
