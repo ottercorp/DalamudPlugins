@@ -7,6 +7,7 @@
 
 | 插件名 | 作者 | 简介 |
 |---------------|---------------|-----------------|
+| Chat 2 | ascclemens | Chat 2 is a complete rewrite of the in-game chat window as a plugin. It<br>supports:<br><br>- Unlimited tabs<br>- Tabs that always send to a certain channel<br>- More flexible filtering<br>- RGB channel colouring<br>- Completely variable font size<br>- Sidebar tabs<br>- Unread counts<br>- Screenshot mode (obfuscate names) |
 | Simple Tweaks Plugin | Caraxi | 一些小的功能优化的合集，目标是在不进行重大改动的情况下优化游戏体验<br>所有的功能都是可选的，并且默认关闭。访问我们的项目界面可以查看所有优化的列表。（点击下面的 Globe 图标）<br>到General Options标签页，找到Language栏，点击Update Translations后，选择zh-CN显示中文 |
 | Ready Check Helper | PunishedPineapple | 在聊天框显示在准备确认结束后尚未确认的玩家名称，另也支持在小队列表上显示准备确认的状态图标。 |
 | Damage Info | perchbird | 为不同属性的伤害设置不同的颜色，可配置项包括伤害来源，具体染色位置等等 |

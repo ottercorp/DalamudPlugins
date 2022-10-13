@@ -1,4 +1,6 @@
 {
+    "ChatTwo": "Chat 2 is a complete rewrite of the in-game chat window as a plugin. It\nsupports:\n\n- Unlimited tabs\n- Tabs that always send to a certain channel\n- More flexible filtering\n- RGB channel colouring\n- Completely variable font size\n- Sidebar tabs\n- Unread counts\n- Screenshot mode (obfuscate names)",
+    "ChatTwo-Punchline": "Electric Boogaloo - \u266a A whole new chat, a new fantastic chat window \u266a",
     "SimpleTweaksPlugin": "A collection of Quality of Life tweaks. Aiming to improve the experience without changing anything drastically.\nAll changes are toggleable, with everything disabled by default. Visit the Repo for a full list of tweaks. (Globe icon below)",
     "SimpleTweaksPlugin-Punchline": "This was supposed to be simple...",
     "ReadyCheckHelper": "Displays the names of the players that were not ready in chat following the completion of a ready check, and optionally adds ready check status icons over the party and alliance lists.",
@@ -133,8 +135,6 @@
     "PlayerTags-Punchline": "Lightweight job visibility in nameplates and chat.",
     "CurrencyAlert": "/currencyalert: shows the configuration panel.",
     "CurrencyAlert-Punchline": "Display alerts upon reaching configurable currencies thresholds (such as Poetics or PVP marks).",
-    "ChatTwo": "Chat 2 is a complete rewrite of the in-game chat window as a plugin. It\nsupports:\n\n- Unlimited tabs\n- Tabs that always send to a certain channel\n- More flexible filtering\n- RGB channel colouring\n- Completely variable font size\n- Sidebar tabs\n- Unread counts\n- Screenshot mode (obfuscate names)",
-    "ChatTwo-Punchline": "Electric Boogaloo - \u266a A whole new chat, a new fantastic chat window \u266a",
     "ZodiacBuddy": "This plugin attempts to help you complete your Zodiac weapon in various ways.",
     "EngageTimer": "Finally, display all the numbers when starting a countdown!\nComes with an accurate pull timer that starts when you or any of your party members enter combat.\n\nFeatures :\n- Big countdown that displays all the numbers\n- Customizable big-number textures (default, yellow, WoW style or custom files)\n- Display combat time in the Server Info Bar, and/or a floating window\n- OBS browser-source compatible page with countdown and current combat duration\n\nWhy the OBS thing ? Well, it can be useful if you want a big stylized stopwatch in your recordings.\nSee repository for more info.\n\nFeel free so send me feedback, bugs and potential improvements!",
     "EngageTimer-Punchline": "Complete combat countdown, pull timer and OBS overlay",
